@@ -1,0 +1,1801 @@
+GuestID,FirstName,LastName,Gender,AgeBand,HomeCity,Country,PostcodeArea,Email,LoyaltyTier,MemberSince,MarketingConsent
+GST00001,Callum,Williams,M,25-34,Glasgow,United Kingdom,G,callum.williams670@proton.me,Non-member,,Yes
+GST00002,Jessica,Stewart,F,25-34,Leicester,United Kingdom,LE,jessica.stewart281@gmail.com,Bronze,2018-10-26,Yes
+GST00003,William,Singh,M,25-34,Newcastle,United Kingdom,NE,william.singh732@gmail.com,Gold,2023-09-11,Yes
+GST00004,Sophie,Wright,F,18-24,Dublin,Ireland,,sophie.wright909@proton.me,Gold,2020-09-15,No
+GST00005,Yusuf,Green,M,55-64,Edinburgh,United Kingdom,EH,yusuf.green288@outlook.com,Bronze,2020-11-17,Yes
+GST00006,Ava,Singh,F,55-64,Manchester,United Kingdom,M,ava.singh127@gmail.com,Bronze,2020-12-16,Yes
+GST00007,Henry,Clarke,M,55-64,Cardiff,United Kingdom,CF,henry.clarke924@gmail.com,Non-member,,Yes
+GST00008,Chloe,Johnson,F,25-34,Amsterdam,Netherlands,,chloe.johnson207@proton.me,Bronze,2026-02-23,Yes
+GST00009,Nadia,Baker,F,25-34,Bristol,United Kingdom,BS,nadia.baker424@gmail.com,Silver,2020-07-20,Yes
+GST00010,Meera,Shah,F,25-34,Toronto,Canada,,meera.shah608@hotmail.com,Silver,2025-10-16,Yes
+GST00011,Sophie,Baker,F,35-44,Amsterdam,Netherlands,,sophie.baker189@icloud.com,Silver,2026-04-20,No
+GST00012,Jacob,Turner,M,55-64,Paris,France,,jacob.turner577@icloud.com,Silver,2023-02-22,No
+GST00013,Henry,Mitchell,M,18-24,Manchester,United Kingdom,M,henry.mitchell666@icloud.com,Silver,2021-01-29,Yes
+GST00014,Henry,Mitchell,M,25-34,Manchester,United Kingdom,M,henry.mitchell715@icloud.com,Non-member,,Yes
+GST00015,Mohammed,Green,M,55-64,London,United Kingdom,SE,mohammed.green835@outlook.com,Silver,2023-01-11,Yes
+GST00016,Fatima,Morris,F,25-34,London,United Kingdom,SE,fatima.morris22@icloud.com,Gold,2024-05-14,Yes
+GST00017,James,Baker,M,25-34,Sydney,Australia,,james.baker840@hotmail.com,Bronze,2019-01-19,No
+GST00018,Fatima,Taylor,F,65+,Mumbai,India,,fatima.taylor966@yahoo.co.uk,Gold,2026-07-20,Yes
+GST00019,Oliver,Gupta,M,18-24,Newcastle,United Kingdom,NE,oliver.gupta435@icloud.com,Silver,2022-02-27,Yes
+GST00020,Hannah,Jones,F,35-44,Manchester,United Kingdom,M,hannah.jones977@yahoo.co.uk,Silver,2019-11-03,Yes
+GST00021,Rebecca,Wilson,F,45-54,Leicester,United Kingdom,LE,rebecca.wilson464@yahoo.co.uk,Bronze,2026-04-02,No
+GST00022,Bethany,Wright,F,45-54,Madrid,Spain,,bethany.wright883@hotmail.com,Silver,2020-04-17,Yes
+GST00023,Jacob,Wilson,M,25-34,Liverpool,United Kingdom,L,jacob.wilson452@proton.me,Bronze,2021-05-10,No
+GST00024,Yusuf,Collins,M,65+,Glasgow,United Kingdom,G,yusuf.collins663@icloud.com,Gold,2024-04-24,Yes
+GST00025,Noah,Mehta,M,35-44,Nottingham,United Kingdom,NG,noah.mehta23@yahoo.co.uk,Bronze,2026-03-09,No
+GST00026,Henry,Ali,M,35-44,Bristol,United Kingdom,BS,henry.ali184@proton.me,Gold,2022-09-16,No
+GST00027,Jacob,Walker,M,25-34,Reading,United Kingdom,RG,jacob.walker891@proton.me,Bronze,2018-08-02,No
+GST00028,Yusuf,Cooper,M,45-54,Leeds,United Kingdom,LS,yusuf.cooper588@yahoo.co.uk,Bronze,2024-05-04,Yes
+GST00029,Charlotte,White,F,18-24,Reading,United Kingdom,RG,charlotte.white887@yahoo.co.uk,Silver,2022-01-15,Yes
+GST00030,Samuel,Walker,M,35-44,Newcastle,United Kingdom,NE,samuel.walker963@hotmail.com,Silver,2018-09-19,Yes
+GST00031,Sara,Williams,F,45-54,Leicester,United Kingdom,LE,sara.williams82@hotmail.com,Non-member,,Yes
+GST00032,Hannah,Jackson,F,18-24,Madrid,Spain,,hannah.jackson556@icloud.com,Non-member,,No
+GST00033,Matthew,Hall,M,45-54,Edinburgh,United Kingdom,EH,matthew.hall509@yahoo.co.uk,Non-member,,Yes
+GST00034,Leo,Jackson,M,45-54,Sheffield,United Kingdom,S,leo.jackson605@icloud.com,Silver,2019-02-09,Yes
+GST00035,Adam,Murray,M,35-44,Sheffield,United Kingdom,S,adam.murray346@proton.me,Gold,2023-11-28,Yes
+GST00036,Bethany,Collins,F,35-44,Reading,United Kingdom,RG,bethany.collins932@hotmail.com,Non-member,,No
+GST00037,Lily,Gupta,F,25-34,Oxford,United Kingdom,OX,lily.gupta589@gmail.com,Silver,2018-05-17,Yes
+GST00038,Evie,Smith,F,18-24,Edinburgh,United Kingdom,EH,evie.smith677@gmail.com,Non-member,,Yes
+GST00039,Arjun,Phillips,M,45-54,Toronto,Canada,,arjun.phillips637@gmail.com,Bronze,2021-02-20,Yes
+GST00040,Luke,Ali,M,25-34,Nottingham,United Kingdom,NG,luke.ali12@yahoo.co.uk,Bronze,2024-02-16,Yes
+GST00041,Meera,Robinson,F,55-64,Bristol,United Kingdom,BS,meera.robinson290@gmail.com,Silver,2023-02-12,Yes
+GST00042,Mia,Hussain,F,45-54,Oxford,United Kingdom,OX,mia.hussain354@yahoo.co.uk,Bronze,2018-07-19,Yes
+GST00043,Jacob,White,M,25-34,Leicester,United Kingdom,LE,jacob.white593@hotmail.com,Silver,2022-02-16,Yes
+GST00044,Aisha,Edwards,F,35-44,Manchester,United Kingdom,M,aisha.edwards979@outlook.com,Silver,2025-04-13,Yes
+GST00045,Chloe,Hussain,F,25-34,London,United Kingdom,SE,chloe.hussain117@outlook.com,Gold,2018-07-24,No
+GST00046,Sophie,Singh,F,35-44,Nottingham,United Kingdom,NG,sophie.singh137@yahoo.co.uk,Non-member,,Yes
+GST00047,Benjamin,Thompson,M,65+,Madrid,Spain,,benjamin.thompson322@icloud.com,Silver,2021-05-16,No
+GST00048,Fatima,Parker,F,25-34,London,United Kingdom,SE,fatima.parker22@icloud.com,Non-member,,No
+GST00049,Charlie,Turner,M,25-34,Nottingham,United Kingdom,NG,charlie.turner942@icloud.com,Bronze,2022-02-01,Yes
+GST00050,Charlie,Wright,M,35-44,London,United Kingdom,SE,charlie.wright610@yahoo.co.uk,Silver,2022-03-26,Yes
+GST00051,Fatima,Wilson,F,35-44,Birmingham,United Kingdom,B,fatima.wilson523@hotmail.com,Gold,2025-06-11,Yes
+GST00052,George,Mitchell,M,35-44,Sheffield,United Kingdom,S,george.mitchell941@outlook.com,Gold,2020-04-22,Yes
+GST00053,Maya,Morris,F,25-34,Oxford,United Kingdom,OX,maya.morris111@gmail.com,Bronze,2023-10-31,Yes
+GST00054,Leah,Reid,F,45-54,Reading,United Kingdom,RG,leah.reid83@gmail.com,Silver,2018-10-22,Yes
+GST00055,Lewis,Wilson,M,35-44,Glasgow,United Kingdom,G,lewis.wilson324@proton.me,Bronze,2019-04-13,Yes
+GST00056,Grace,Martin,F,55-64,New York,United States,,grace.martin446@gmail.com,Non-member,,Yes
+GST00057,Nathan,Brown,M,35-44,Mumbai,India,,nathan.brown326@outlook.com,Bronze,2022-12-18,Yes
+GST00058,Lucy,Wright,F,18-24,Oxford,United Kingdom,OX,lucy.wright947@gmail.com,Silver,2023-12-04,Yes
+GST00059,Isla,Baker,F,35-44,Bristol,United Kingdom,BS,isla.baker557@yahoo.co.uk,Bronze,2024-03-12,Yes
+GST00060,Olivia,Singh,F,25-34,Cardiff,United Kingdom,CF,olivia.singh628@hotmail.com,Non-member,,No
+GST00061,Isla,Reid,F,35-44,Cambridge,United Kingdom,CB,isla.reid576@icloud.com,Gold,2019-01-14,No
+GST00062,Priya,Khan,F,25-34,Birmingham,United Kingdom,B,priya.khan539@outlook.com,Gold,2024-01-29,Yes
+GST00063,Oscar,Wilson,M,55-64,Bristol,United Kingdom,BS,oscar.wilson758@gmail.com,Non-member,,Yes
+GST00064,Benjamin,Cooper,M,25-34,Birmingham,United Kingdom,B,benjamin.cooper218@outlook.com,Bronze,2019-02-26,Yes
+GST00065,Ella,Khan,F,45-54,Leeds,United Kingdom,LS,ella.khan988@proton.me,Silver,2019-01-21,Yes
+GST00066,Amelia,Jackson,F,25-34,Cambridge,United Kingdom,CB,amelia.jackson956@outlook.com,Silver,2020-02-16,Yes
+GST00067,Meera,Smith,F,45-54,Reading,United Kingdom,RG,meera.smith158@gmail.com,Gold,2021-02-19,No
+GST00068,David,Evans,M,55-64,Cambridge,United Kingdom,CB,david.evans489@icloud.com,Silver,2026-02-05,Yes
+GST00069,Matthew,Williams,M,25-34,Reading,United Kingdom,RG,matthew.williams975@gmail.com,Gold,2018-08-27,Yes
+GST00070,George,Baker,M,65+,Berlin,Germany,,george.baker416@outlook.com,Silver,2024-02-20,Yes
+GST00071,James,Shah,M,35-44,Nottingham,United Kingdom,NG,james.shah951@outlook.com,Bronze,2024-09-14,No
+GST00072,Amelia,Turner,F,25-34,Paris,France,,amelia.turner83@hotmail.com,Bronze,2022-04-23,Yes
+GST00073,Georgia,Edwards,F,25-34,Birmingham,United Kingdom,B,georgia.edwards843@hotmail.com,Platinum,2026-05-28,Yes
+GST00074,Ananya,Walker,F,25-34,Bristol,United Kingdom,BS,ananya.walker194@proton.me,Bronze,2018-06-15,Yes
+GST00075,Ananya,Hall,F,35-44,Manchester,United Kingdom,M,ananya.hall762@proton.me,Silver,2025-06-02,No
+GST00076,Noah,King,M,35-44,Glasgow,United Kingdom,G,noah.king711@proton.me,Gold,2020-10-04,Yes
+GST00077,Henry,Carter,M,55-64,Sheffield,United Kingdom,S,henry.carter11@yahoo.co.uk,Bronze,2021-02-04,Yes
+GST00078,James,King,M,55-64,Sydney,Australia,,james.king326@hotmail.com,Non-member,,Yes
+GST00079,Joshua,Khan,M,55-64,Manchester,United Kingdom,M,joshua.khan554@icloud.com,Bronze,2024-03-04,No
+GST00080,Omar,Taylor,M,25-34,Liverpool,United Kingdom,L,omar.taylor18@outlook.com,Non-member,,No
+GST00081,Omar,Smith,M,35-44,Sheffield,United Kingdom,S,omar.smith515@yahoo.co.uk,Bronze,2024-10-17,Yes
+GST00082,Hannah,Davies,F,55-64,Reading,United Kingdom,RG,hannah.davies129@yahoo.co.uk,Bronze,2018-03-26,Yes
+GST00083,Grace,Green,F,18-24,Glasgow,United Kingdom,G,grace.green992@yahoo.co.uk,Silver,2019-02-04,No
+GST00084,George,Murray,M,25-34,New York,United States,,george.murray755@gmail.com,Bronze,2020-08-08,Yes
+GST00085,Hannah,Robinson,F,65+,Newcastle,United Kingdom,NE,hannah.robinson85@proton.me,Gold,2019-06-23,No
+GST00086,Zara,Evans,F,35-44,Oxford,United Kingdom,OX,zara.evans383@gmail.com,Non-member,,Yes
+GST00087,Thomas,Martin,M,25-34,Cambridge,United Kingdom,CB,thomas.martin119@icloud.com,Silver,2022-01-25,Yes
+GST00088,Freya,Shah,F,35-44,Edinburgh,United Kingdom,EH,freya.shah616@yahoo.co.uk,Bronze,2024-06-25,Yes
+GST00089,Zara,Wilson,F,25-34,Madrid,Spain,,zara.wilson900@icloud.com,Non-member,,Yes
+GST00090,Arjun,Jackson,M,18-24,Cardiff,United Kingdom,CF,arjun.jackson294@yahoo.co.uk,Silver,2024-03-20,No
+GST00091,Thomas,Jones,M,45-54,Cardiff,United Kingdom,CF,thomas.jones606@outlook.com,Gold,2026-01-26,Yes
+GST00092,Jack,Fraser,M,35-44,Amsterdam,Netherlands,,jack.fraser83@icloud.com,Gold,2023-01-17,Yes
+GST00093,Nadia,Martin,F,45-54,Madrid,Spain,,nadia.martin667@hotmail.com,Non-member,,No
+GST00094,Sophie,Hall,F,25-34,London,United Kingdom,SE,sophie.hall20@yahoo.co.uk,Bronze,2023-12-01,Yes
+GST00095,Leah,Ahmed,F,25-34,Bristol,United Kingdom,BS,leah.ahmed228@outlook.com,Silver,2021-08-16,Yes
+GST00096,Bethany,Walker,F,25-34,Glasgow,United Kingdom,G,bethany.walker251@hotmail.com,Bronze,2018-09-07,Yes
+GST00097,Alice,Davies,F,55-64,Oxford,United Kingdom,OX,alice.davies144@proton.me,Gold,2020-09-21,Yes
+GST00098,Priya,Gupta,F,25-34,Oxford,United Kingdom,OX,priya.gupta367@icloud.com,Non-member,,No
+GST00099,Jack,Fraser,M,45-54,Bristol,United Kingdom,BS,jack.fraser923@proton.me,Silver,2023-09-17,Yes
+GST00100,Ava,Collins,F,35-44,Reading,United Kingdom,RG,ava.collins764@gmail.com,Gold,2021-06-21,Yes
+GST00101,Arjun,Reid,M,55-64,Sheffield,United Kingdom,S,arjun.reid402@gmail.com,Silver,2024-07-27,No
+GST00102,Hannah,Wood,F,35-44,Toronto,Canada,,hannah.wood529@yahoo.co.uk,Gold,2025-06-20,Yes
+GST00103,Ananya,Wright,F,55-64,Oxford,United Kingdom,OX,ananya.wright883@gmail.com,Bronze,2018-05-01,Yes
+GST00104,George,Singh,M,45-54,Madrid,Spain,,george.singh943@yahoo.co.uk,Silver,2024-09-03,Yes
+GST00105,Charlotte,Wilson,F,35-44,Newcastle,United Kingdom,NE,charlotte.wilson967@gmail.com,Non-member,,Yes
+GST00106,Luke,Wood,M,25-34,Bristol,United Kingdom,BS,luke.wood610@gmail.com,Silver,2023-10-26,No
+GST00107,Oliver,Wright,M,35-44,Glasgow,United Kingdom,G,oliver.wright908@gmail.com,Silver,2022-11-02,Yes
+GST00108,Fatima,Cooper,F,25-34,Liverpool,United Kingdom,L,fatima.cooper619@icloud.com,Bronze,2021-04-22,Yes
+GST00109,Aisha,Singh,F,45-54,London,United Kingdom,SE,aisha.singh565@proton.me,Bronze,2026-07-01,Yes
+GST00110,Henry,Morris,M,18-24,Madrid,Spain,,henry.morris508@icloud.com,Bronze,2024-11-24,Yes
+GST00111,Jack,Phillips,M,55-64,Leeds,United Kingdom,LS,jack.phillips720@hotmail.com,Bronze,2021-11-15,No
+GST00112,Fatima,Mehta,F,35-44,Cardiff,United Kingdom,CF,fatima.mehta171@hotmail.com,Non-member,,Yes
+GST00113,Ella,Evans,F,35-44,Cardiff,United Kingdom,CF,ella.evans436@gmail.com,Bronze,2023-07-04,No
+GST00114,Rebecca,Reid,F,65+,Sheffield,United Kingdom,S,rebecca.reid124@proton.me,Silver,2025-09-20,Yes
+GST00115,Nathan,Harris,M,45-54,Cardiff,United Kingdom,CF,nathan.harris643@gmail.com,Gold,2024-11-10,No
+GST00116,Alfie,Turner,M,18-24,Sheffield,United Kingdom,S,alfie.turner407@gmail.com,Silver,2019-10-17,Yes
+GST00117,Ava,Martin,F,25-34,Nottingham,United Kingdom,NG,ava.martin652@yahoo.co.uk,Bronze,2023-10-29,No
+GST00118,Harry,Brown,M,18-24,Leicester,United Kingdom,LE,harry.brown393@yahoo.co.uk,Bronze,2018-10-05,Yes
+GST00119,Olivia,Wilson,F,25-34,Oxford,United Kingdom,OX,olivia.wilson605@outlook.com,Gold,2019-01-15,Yes
+GST00120,Aisha,Walker,F,35-44,Glasgow,United Kingdom,G,aisha.walker588@gmail.com,Silver,2025-06-24,No
+GST00121,Chloe,Harris,F,18-24,Liverpool,United Kingdom,L,chloe.harris25@hotmail.com,Gold,2024-04-26,No
+GST00122,Luke,Mehta,M,35-44,Liverpool,United Kingdom,L,luke.mehta94@icloud.com,Non-member,,Yes
+GST00123,Lewis,Khan,M,45-54,Reading,United Kingdom,RG,lewis.khan739@yahoo.co.uk,Bronze,2022-02-23,Yes
+GST00124,William,Parker,M,45-54,Bristol,United Kingdom,BS,william.parker263@outlook.com,Silver,2018-11-23,Yes
+GST00125,Jessica,Ali,F,35-44,Berlin,Germany,,jessica.ali79@yahoo.co.uk,Bronze,2023-03-31,Yes
+GST00126,Henry,Ali,M,35-44,Liverpool,United Kingdom,L,henry.ali68@icloud.com,Silver,2020-12-25,No
+GST00127,Isla,Campbell,F,25-34,Sheffield,United Kingdom,S,isla.campbell890@proton.me,Bronze,2021-05-03,Yes
+GST00128,Oliver,Edwards,M,45-54,Paris,France,,oliver.edwards661@outlook.com,Non-member,,Yes
+GST00129,Thomas,Wright,M,65+,Birmingham,United Kingdom,B,thomas.wright357@proton.me,Silver,2024-11-18,Yes
+GST00130,Adam,Baker,M,55-64,Berlin,Germany,,adam.baker651@yahoo.co.uk,Non-member,,Yes
+GST00131,Emily,Campbell,F,35-44,Sheffield,United Kingdom,S,emily.campbell864@yahoo.co.uk,Platinum,2022-08-22,Yes
+GST00132,Chloe,Johnson,F,25-34,London,United Kingdom,SE,chloe.johnson705@outlook.com,Bronze,2019-11-13,Yes
+GST00133,Sophia,King,F,35-44,Glasgow,United Kingdom,G,sophia.king851@proton.me,Non-member,,Yes
+GST00134,Hannah,Murray,F,25-34,Manchester,United Kingdom,M,hannah.murray189@yahoo.co.uk,Bronze,2020-05-23,Yes
+GST00135,Priya,White,F,55-64,Newcastle,United Kingdom,NE,priya.white906@proton.me,Bronze,2025-06-19,Yes
+GST00136,Alfie,Wilson,M,25-34,Nottingham,United Kingdom,NG,alfie.wilson216@yahoo.co.uk,Bronze,2021-11-10,Yes
+GST00137,Leah,Patel,F,35-44,Reading,United Kingdom,RG,leah.patel173@gmail.com,Silver,2022-09-01,Yes
+GST00138,Aisha,Evans,F,18-24,Milan,Italy,,aisha.evans993@outlook.com,Bronze,2019-11-19,Yes
+GST00139,David,Ahmed,M,45-54,Bristol,United Kingdom,BS,david.ahmed70@icloud.com,Platinum,2022-12-11,Yes
+GST00140,Charlie,Robinson,M,45-54,Oxford,United Kingdom,OX,charlie.robinson681@outlook.com,Gold,2020-11-30,Yes
+GST00141,Jacob,Khan,M,35-44,Mumbai,India,,jacob.khan630@proton.me,Bronze,2024-07-30,No
+GST00142,Bethany,Smith,F,55-64,Cambridge,United Kingdom,CB,bethany.smith296@hotmail.com,Bronze,2024-07-04,Yes
+GST00143,Sophie,Reid,F,25-34,Manchester,United Kingdom,M,sophie.reid655@yahoo.co.uk,Bronze,2024-04-07,Yes
+GST00144,Leah,Baker,F,55-64,Glasgow,United Kingdom,G,leah.baker900@hotmail.com,Platinum,2023-01-07,Yes
+GST00145,Alfie,Phillips,M,45-54,Manchester,United Kingdom,M,alfie.phillips395@outlook.com,Bronze,2024-04-27,Yes
+GST00146,Ananya,Campbell,F,25-34,Cambridge,United Kingdom,CB,ananya.campbell649@icloud.com,Gold,2021-09-11,No
+GST00147,Sophie,Hall,F,25-34,Bristol,United Kingdom,BS,sophie.hall593@hotmail.com,Bronze,2020-04-21,Yes
+GST00148,Sophia,Wilson,F,45-54,London,United Kingdom,SE,sophia.wilson960@gmail.com,Bronze,2018-03-22,Yes
+GST00149,Aisha,Fraser,F,35-44,Leeds,United Kingdom,LS,aisha.fraser188@gmail.com,Bronze,2020-06-29,Yes
+GST00150,Rebecca,Fraser,F,25-34,Leicester,United Kingdom,LE,rebecca.fraser81@yahoo.co.uk,Platinum,2024-08-27,No
+GST00151,Lewis,Clarke,M,25-34,Bristol,United Kingdom,BS,lewis.clarke720@hotmail.com,Bronze,2021-08-23,Yes
+GST00152,Omar,Cooper,M,45-54,Cambridge,United Kingdom,CB,omar.cooper683@outlook.com,Silver,2025-01-14,Yes
+GST00153,Charlie,Green,M,45-54,Nottingham,United Kingdom,NG,charlie.green706@outlook.com,Bronze,2019-06-06,Yes
+GST00154,Emily,Collins,F,25-34,Madrid,Spain,,emily.collins226@gmail.com,Non-member,,Yes
+GST00155,Leo,Carter,M,25-34,Bristol,United Kingdom,BS,leo.carter286@yahoo.co.uk,Gold,2020-06-05,No
+GST00156,Henry,White,M,65+,Oxford,United Kingdom,OX,henry.white566@yahoo.co.uk,Bronze,2025-10-18,Yes
+GST00157,Callum,Jones,M,25-34,Liverpool,United Kingdom,L,callum.jones857@proton.me,Gold,2024-04-07,No
+GST00158,Callum,Jones,M,45-54,Glasgow,United Kingdom,G,callum.jones68@hotmail.com,Bronze,2020-06-18,Yes
+GST00159,Mia,Clarke,F,35-44,London,United Kingdom,SE,mia.clarke556@gmail.com,Gold,2026-02-21,Yes
+GST00160,Leah,Fraser,F,45-54,Leeds,United Kingdom,LS,leah.fraser787@proton.me,Bronze,2018-03-14,No
+GST00161,Maya,Phillips,F,35-44,Cambridge,United Kingdom,CB,maya.phillips164@outlook.com,Gold,2020-06-17,Yes
+GST00162,Meera,Wood,F,25-34,Sydney,Australia,,meera.wood890@outlook.com,Bronze,2024-04-02,Yes
+GST00163,Ryan,Robinson,M,65+,Cambridge,United Kingdom,CB,ryan.robinson887@yahoo.co.uk,Bronze,2026-04-03,No
+GST00164,Charlotte,Ali,F,35-44,Amsterdam,Netherlands,,charlotte.ali369@proton.me,Bronze,2024-10-01,No
+GST00165,Arjun,Fraser,M,55-64,New York,United States,,arjun.fraser890@yahoo.co.uk,Non-member,,No
+GST00166,Jessica,Harris,F,18-24,London,United Kingdom,SE,jessica.harris387@proton.me,Gold,2026-05-28,Yes
+GST00167,Grace,Thompson,F,65+,Edinburgh,United Kingdom,EH,grace.thompson569@icloud.com,Silver,2022-07-04,Yes
+GST00168,Mia,Morris,F,25-34,Paris,France,,mia.morris134@yahoo.co.uk,Platinum,2025-12-29,No
+GST00169,Maya,Murray,F,55-64,Liverpool,United Kingdom,L,maya.murray225@hotmail.com,Bronze,2026-06-27,No
+GST00170,Meera,Jackson,F,55-64,Leeds,United Kingdom,LS,meera.jackson314@icloud.com,Bronze,2019-07-14,No
+GST00171,Luke,Shah,M,18-24,Manchester,United Kingdom,M,luke.shah120@yahoo.co.uk,Bronze,2019-12-17,Yes
+GST00172,Sophia,Evans,F,25-34,Leicester,United Kingdom,LE,sophia.evans337@icloud.com,Bronze,2022-06-22,Yes
+GST00173,Jessica,Martin,F,65+,Sheffield,United Kingdom,S,jessica.martin187@proton.me,Non-member,,Yes
+GST00174,Isla,Hall,F,25-34,New York,United States,,isla.hall323@yahoo.co.uk,Bronze,2025-05-18,Yes
+GST00175,Jack,Parker,M,35-44,Manchester,United Kingdom,M,jack.parker984@proton.me,Bronze,2023-01-16,Yes
+GST00176,Jack,Edwards,M,65+,Cambridge,United Kingdom,CB,jack.edwards263@gmail.com,Silver,2021-01-30,No
+GST00177,Matthew,Parker,M,25-34,Newcastle,United Kingdom,NE,matthew.parker686@icloud.com,Gold,2023-10-03,No
+GST00178,Jack,Clarke,M,18-24,Birmingham,United Kingdom,B,jack.clarke115@proton.me,Non-member,,Yes
+GST00179,Sophie,Mitchell,F,35-44,Paris,France,,sophie.mitchell550@hotmail.com,Bronze,2024-07-20,Yes
+GST00180,Joshua,Ali,M,25-34,Edinburgh,United Kingdom,EH,joshua.ali136@outlook.com,Bronze,2022-07-15,Yes
+GST00181,Leo,White,M,55-64,Liverpool,United Kingdom,L,leo.white667@hotmail.com,Bronze,2024-03-24,Yes
+GST00182,William,Wood,M,45-54,Manchester,United Kingdom,M,william.wood760@yahoo.co.uk,Non-member,,Yes
+GST00183,Ryan,Khan,M,25-34,Newcastle,United Kingdom,NE,ryan.khan290@hotmail.com,Bronze,2024-03-05,No
+GST00184,Ananya,Hussain,F,25-34,Leeds,United Kingdom,LS,ananya.hussain687@gmail.com,Platinum,2023-01-19,No
+GST00185,Mia,Phillips,F,18-24,Newcastle,United Kingdom,NE,mia.phillips593@gmail.com,Gold,2026-01-17,Yes
+GST00186,Harry,Hall,M,55-64,Birmingham,United Kingdom,B,harry.hall341@proton.me,Gold,2026-04-18,Yes
+GST00187,Luke,Collins,M,25-34,Newcastle,United Kingdom,NE,luke.collins109@icloud.com,Silver,2021-12-16,Yes
+GST00188,Jacob,Williams,M,65+,Nottingham,United Kingdom,NG,jacob.williams351@proton.me,Silver,2023-07-15,Yes
+GST00189,Lily,Baker,F,25-34,Bristol,United Kingdom,BS,lily.baker839@outlook.com,Bronze,2020-10-07,Yes
+GST00190,Maya,Jones,F,35-44,Liverpool,United Kingdom,L,maya.jones71@hotmail.com,Silver,2020-06-25,Yes
+GST00191,Meera,Wood,F,35-44,Leicester,United Kingdom,LE,meera.wood50@icloud.com,Bronze,2023-05-06,Yes
+GST00192,Nadia,Mitchell,F,35-44,Leicester,United Kingdom,LE,nadia.mitchell401@gmail.com,Bronze,2021-02-14,Yes
+GST00193,Noah,Edwards,M,35-44,Nottingham,United Kingdom,NG,noah.edwards366@hotmail.com,Gold,2021-10-26,Yes
+GST00194,Ava,Williams,F,25-34,Newcastle,United Kingdom,NE,ava.williams160@outlook.com,Bronze,2024-10-01,Yes
+GST00195,Nathan,Campbell,M,35-44,Edinburgh,United Kingdom,EH,nathan.campbell162@gmail.com,Bronze,2020-09-28,Yes
+GST00196,Isla,Evans,F,35-44,Leeds,United Kingdom,LS,isla.evans483@proton.me,Gold,2020-08-24,Yes
+GST00197,Mohammed,Johnson,M,25-34,Leeds,United Kingdom,LS,mohammed.johnson132@yahoo.co.uk,Bronze,2024-05-31,No
+GST00198,Aisha,Davies,F,25-34,Berlin,Germany,,aisha.davies429@icloud.com,Bronze,2022-12-04,Yes
+GST00199,Priya,Cooper,F,25-34,Amsterdam,Netherlands,,priya.cooper138@icloud.com,Bronze,2019-01-31,Yes
+GST00200,Amelia,Martin,F,45-54,Birmingham,United Kingdom,B,amelia.martin921@yahoo.co.uk,Silver,2022-07-13,Yes
+GST00201,Mia,Campbell,F,25-34,Cambridge,United Kingdom,CB,mia.campbell199@proton.me,Platinum,2019-12-09,Yes
+GST00202,Charlie,Baker,M,25-34,Cambridge,United Kingdom,CB,charlie.baker415@gmail.com,Gold,2021-08-12,Yes
+GST00203,Henry,Williams,M,45-54,Amsterdam,Netherlands,,henry.williams224@hotmail.com,Gold,2024-08-19,Yes
+GST00204,Sophia,Cooper,F,55-64,Liverpool,United Kingdom,L,sophia.cooper560@hotmail.com,Gold,2019-07-31,Yes
+GST00205,Nathan,Taylor,M,25-34,Bristol,United Kingdom,BS,nathan.taylor753@gmail.com,Silver,2021-09-30,Yes
+GST00206,Jacob,Taylor,M,65+,Cambridge,United Kingdom,CB,jacob.taylor896@icloud.com,Platinum,2024-03-16,Yes
+GST00207,Mohammed,Carter,M,35-44,Leeds,United Kingdom,LS,mohammed.carter732@gmail.com,Bronze,2020-09-28,Yes
+GST00208,Rohan,Turner,M,25-34,Cambridge,United Kingdom,CB,rohan.turner316@gmail.com,Bronze,2019-03-01,Yes
+GST00209,Yusuf,Stewart,M,25-34,Birmingham,United Kingdom,B,yusuf.stewart707@outlook.com,Silver,2023-12-08,Yes
+GST00210,Fatima,Martin,F,65+,Amsterdam,Netherlands,,fatima.martin206@outlook.com,Bronze,2024-02-16,Yes
+GST00211,Arjun,Mehta,M,25-34,Milan,Italy,,arjun.mehta426@yahoo.co.uk,Bronze,2026-03-14,No
+GST00212,Hannah,Harris,F,55-64,Reading,United Kingdom,RG,hannah.harris691@gmail.com,Silver,2021-07-03,Yes
+GST00213,Luke,Gupta,M,45-54,Cardiff,United Kingdom,CF,luke.gupta938@gmail.com,Silver,2020-03-23,Yes
+GST00214,Rohan,White,M,35-44,London,United Kingdom,SE,rohan.white776@yahoo.co.uk,Bronze,2022-11-08,Yes
+GST00215,Benjamin,Baker,M,18-24,Glasgow,United Kingdom,G,benjamin.baker232@hotmail.com,Gold,2022-05-17,No
+GST00216,Lewis,Davies,M,55-64,Cambridge,United Kingdom,CB,lewis.davies172@outlook.com,Gold,2020-06-10,Yes
+GST00217,Chloe,Ali,F,25-34,Cambridge,United Kingdom,CB,chloe.ali849@yahoo.co.uk,Silver,2023-01-07,Yes
+GST00218,William,Khan,M,35-44,Glasgow,United Kingdom,G,william.khan902@proton.me,Gold,2019-07-05,No
+GST00219,Hannah,Campbell,F,18-24,Glasgow,United Kingdom,G,hannah.campbell298@proton.me,Bronze,2020-07-26,No
+GST00220,Bethany,Morris,F,55-64,Cambridge,United Kingdom,CB,bethany.morris166@icloud.com,Gold,2023-02-28,Yes
+GST00221,Alice,Stewart,F,25-34,Edinburgh,United Kingdom,EH,alice.stewart974@outlook.com,Non-member,,Yes
+GST00222,Thomas,Smith,M,25-34,Newcastle,United Kingdom,NE,thomas.smith695@icloud.com,Platinum,2019-02-26,No
+GST00223,Priya,Mitchell,F,25-34,Sydney,Australia,,priya.mitchell64@yahoo.co.uk,Bronze,2018-12-05,Yes
+GST00224,Fatima,Robinson,F,18-24,Amsterdam,Netherlands,,fatima.robinson570@icloud.com,Silver,2020-08-27,No
+GST00225,Evie,Green,F,18-24,Bristol,United Kingdom,BS,evie.green163@icloud.com,Bronze,2024-08-09,No
+GST00226,Georgia,White,F,35-44,Nottingham,United Kingdom,NG,georgia.white203@icloud.com,Silver,2022-01-24,Yes
+GST00227,Georgia,Parker,F,45-54,Milan,Italy,,georgia.parker644@yahoo.co.uk,Gold,2018-01-16,Yes
+GST00228,Ethan,Walker,M,25-34,Nottingham,United Kingdom,NG,ethan.walker320@proton.me,Non-member,,Yes
+GST00229,Georgia,Morris,F,25-34,Birmingham,United Kingdom,B,georgia.morris477@icloud.com,Silver,2024-02-06,No
+GST00230,Ananya,Ali,F,25-34,Bristol,United Kingdom,BS,ananya.ali437@icloud.com,Silver,2018-03-01,Yes
+GST00231,Leah,Fraser,F,35-44,Newcastle,United Kingdom,NE,leah.fraser427@icloud.com,Bronze,2021-10-27,Yes
+GST00232,Matthew,King,M,25-34,Edinburgh,United Kingdom,EH,matthew.king794@proton.me,Bronze,2019-01-25,Yes
+GST00233,Jack,Robinson,M,45-54,Reading,United Kingdom,RG,jack.robinson317@outlook.com,Bronze,2024-09-05,Yes
+GST00234,Harry,Robinson,M,35-44,Berlin,Germany,,harry.robinson588@outlook.com,Bronze,2020-02-06,No
+GST00235,Lucy,Mehta,F,45-54,Liverpool,United Kingdom,L,lucy.mehta104@icloud.com,Bronze,2024-10-31,Yes
+GST00236,Adam,Jones,M,25-34,Bristol,United Kingdom,BS,adam.jones700@gmail.com,Gold,2025-12-26,Yes
+GST00237,Amelia,Robinson,F,45-54,Amsterdam,Netherlands,,amelia.robinson758@gmail.com,Bronze,2019-03-22,Yes
+GST00238,Thomas,Wright,M,55-64,Nottingham,United Kingdom,NG,thomas.wright708@outlook.com,Silver,2024-02-13,Yes
+GST00239,Omar,Turner,M,55-64,Nottingham,United Kingdom,NG,omar.turner900@icloud.com,Silver,2020-04-11,Yes
+GST00240,Isla,Shah,F,45-54,Oxford,United Kingdom,OX,isla.shah690@icloud.com,Gold,2018-07-29,Yes
+GST00241,Daniel,Green,M,45-54,Liverpool,United Kingdom,L,daniel.green701@gmail.com,Bronze,2020-01-07,Yes
+GST00242,Priya,Phillips,F,25-34,Birmingham,United Kingdom,B,priya.phillips349@gmail.com,Silver,2025-04-25,Yes
+GST00243,Maya,Hussain,F,25-34,Nottingham,United Kingdom,NG,maya.hussain882@hotmail.com,Silver,2018-11-01,Yes
+GST00244,Evie,Collins,F,45-54,Manchester,United Kingdom,M,evie.collins699@yahoo.co.uk,Silver,2020-07-18,Yes
+GST00245,Arjun,Mitchell,M,25-34,Sheffield,United Kingdom,S,arjun.mitchell604@hotmail.com,Bronze,2025-04-27,No
+GST00246,Emily,Baker,F,55-64,Oxford,United Kingdom,OX,emily.baker840@icloud.com,Silver,2018-04-07,Yes
+GST00247,Jessica,Ali,F,25-34,Reading,United Kingdom,RG,jessica.ali518@yahoo.co.uk,Gold,2019-07-04,Yes
+GST00248,Ella,Harris,F,25-34,Bristol,United Kingdom,BS,ella.harris320@yahoo.co.uk,Gold,2024-09-07,Yes
+GST00249,Sara,Stewart,F,55-64,Reading,United Kingdom,RG,sara.stewart313@hotmail.com,Non-member,,Yes
+GST00250,Freya,Murray,F,45-54,Mumbai,India,,freya.murray326@gmail.com,Non-member,,Yes
+GST00251,Amelia,Harris,F,35-44,Cambridge,United Kingdom,CB,amelia.harris752@hotmail.com,Non-member,,Yes
+GST00252,Evie,Harris,F,45-54,Liverpool,United Kingdom,L,evie.harris302@proton.me,Gold,2021-08-03,No
+GST00253,Alice,Patel,F,35-44,Berlin,Germany,,alice.patel846@gmail.com,Non-member,,Yes
+GST00254,Lucy,Hussain,F,35-44,Berlin,Germany,,lucy.hussain28@outlook.com,Non-member,,No
+GST00255,Aisha,Clarke,F,25-34,Nottingham,United Kingdom,NG,aisha.clarke504@outlook.com,Bronze,2024-02-09,Yes
+GST00256,Jacob,Morris,M,25-34,Oxford,United Kingdom,OX,jacob.morris804@yahoo.co.uk,Bronze,2022-02-13,No
+GST00257,Rebecca,Brown,F,18-24,Sydney,Australia,,rebecca.brown419@icloud.com,Non-member,,Yes
+GST00258,Ava,Hussain,F,25-34,Sydney,Australia,,ava.hussain550@gmail.com,Silver,2022-11-28,Yes
+GST00259,Sophie,Reid,F,45-54,New York,United States,,sophie.reid85@hotmail.com,Non-member,,No
+GST00260,Daniel,Campbell,M,18-24,Leeds,United Kingdom,LS,daniel.campbell43@proton.me,Bronze,2025-11-17,Yes
+GST00261,Matthew,Brown,M,35-44,Sheffield,United Kingdom,S,matthew.brown302@proton.me,Silver,2018-05-01,Yes
+GST00262,Thomas,Brown,M,35-44,Toronto,Canada,,thomas.brown482@outlook.com,Gold,2024-01-17,Yes
+GST00263,David,Edwards,M,25-34,Sheffield,United Kingdom,S,david.edwards353@hotmail.com,Silver,2022-12-06,Yes
+GST00264,William,Green,M,35-44,Liverpool,United Kingdom,L,william.green764@yahoo.co.uk,Non-member,,Yes
+GST00265,Olivia,Reid,F,35-44,London,United Kingdom,SE,olivia.reid555@proton.me,Bronze,2021-03-28,Yes
+GST00266,Harry,Ali,M,35-44,Liverpool,United Kingdom,L,harry.ali337@gmail.com,Bronze,2021-11-13,No
+GST00267,Ananya,Ahmed,F,25-34,Toronto,Canada,,ananya.ahmed486@hotmail.com,Bronze,2019-03-01,Yes
+GST00268,Nathan,Stewart,M,25-34,Edinburgh,United Kingdom,EH,nathan.stewart705@hotmail.com,Silver,2018-10-13,No
+GST00269,Aisha,Hussain,F,55-64,Liverpool,United Kingdom,L,aisha.hussain673@hotmail.com,Gold,2025-01-17,Yes
+GST00270,Ananya,Campbell,F,25-34,Birmingham,United Kingdom,B,ananya.campbell265@yahoo.co.uk,Silver,2019-03-01,Yes
+GST00271,Lily,Hussain,F,35-44,London,United Kingdom,SE,lily.hussain253@outlook.com,Bronze,2025-03-23,Yes
+GST00272,Amelia,Morris,F,45-54,Oxford,United Kingdom,OX,amelia.morris847@outlook.com,Bronze,2022-08-12,Yes
+GST00273,Alice,Fraser,F,18-24,Berlin,Germany,,alice.fraser242@outlook.com,Non-member,,Yes
+GST00274,David,Fraser,M,25-34,Cambridge,United Kingdom,CB,david.fraser605@yahoo.co.uk,Gold,2019-06-20,Yes
+GST00275,Nathan,Shah,M,65+,Reading,United Kingdom,RG,nathan.shah621@hotmail.com,Non-member,,Yes
+GST00276,James,Collins,M,35-44,Madrid,Spain,,james.collins855@hotmail.com,Bronze,2022-03-20,No
+GST00277,Emily,Baker,F,35-44,Liverpool,United Kingdom,L,emily.baker974@hotmail.com,Silver,2021-05-21,Yes
+GST00278,Charlotte,Carter,F,35-44,Bristol,United Kingdom,BS,charlotte.carter83@gmail.com,Silver,2018-03-06,No
+GST00279,George,Davies,M,45-54,Berlin,Germany,,george.davies782@icloud.com,Gold,2024-01-22,Yes
+GST00280,Jessica,Patel,F,25-34,Manchester,United Kingdom,M,jessica.patel976@yahoo.co.uk,Silver,2018-10-22,Yes
+GST00281,Alice,Morris,F,35-44,Milan,Italy,,alice.morris258@outlook.com,Bronze,2026-01-22,No
+GST00282,Grace,Baker,F,45-54,Oxford,United Kingdom,OX,grace.baker921@icloud.com,Silver,2020-02-25,Yes
+GST00283,Freya,Baker,F,55-64,Liverpool,United Kingdom,L,freya.baker412@gmail.com,Bronze,2021-12-25,Yes
+GST00284,Amelia,Patel,F,65+,Cambridge,United Kingdom,CB,amelia.patel899@icloud.com,Non-member,,Yes
+GST00285,Alice,Morris,F,35-44,Nottingham,United Kingdom,NG,alice.morris737@yahoo.co.uk,Silver,2026-02-15,Yes
+GST00286,Henry,Phillips,M,35-44,Liverpool,United Kingdom,L,henry.phillips238@yahoo.co.uk,Bronze,2019-01-01,Yes
+GST00287,Isla,Reid,F,25-34,Leeds,United Kingdom,LS,isla.reid982@hotmail.com,Bronze,2022-06-06,Yes
+GST00288,Freya,Edwards,F,35-44,Birmingham,United Kingdom,B,freya.edwards265@hotmail.com,Non-member,,Yes
+GST00289,David,Wright,M,25-34,Bristol,United Kingdom,BS,david.wright263@outlook.com,Non-member,,Yes
+GST00290,Zara,Gupta,F,35-44,Edinburgh,United Kingdom,EH,zara.gupta373@outlook.com,Silver,2024-08-26,No
+GST00291,Jacob,Carter,M,55-64,New York,United States,,jacob.carter94@gmail.com,Silver,2019-08-05,Yes
+GST00292,Noah,Davies,M,25-34,Birmingham,United Kingdom,B,noah.davies66@hotmail.com,Bronze,2023-04-24,No
+GST00293,Charlotte,Campbell,F,35-44,Newcastle,United Kingdom,NE,charlotte.campbell63@outlook.com,Gold,2026-07-28,Yes
+GST00294,Alfie,Shah,M,55-64,Bristol,United Kingdom,BS,alfie.shah233@gmail.com,Gold,2021-10-05,No
+GST00295,Freya,Reid,F,45-54,Dublin,Ireland,,freya.reid40@yahoo.co.uk,Bronze,2020-02-02,Yes
+GST00296,Priya,Shah,F,35-44,Nottingham,United Kingdom,NG,priya.shah374@yahoo.co.uk,Silver,2025-03-24,Yes
+GST00297,Freya,Hussain,F,25-34,New York,United States,,freya.hussain756@gmail.com,Silver,2025-04-26,Yes
+GST00298,Arjun,Turner,M,25-34,Madrid,Spain,,arjun.turner572@yahoo.co.uk,Silver,2022-09-02,Yes
+GST00299,Bethany,Collins,F,25-34,Manchester,United Kingdom,M,bethany.collins591@icloud.com,Silver,2026-04-08,Yes
+GST00300,Chloe,Murray,F,55-64,Nottingham,United Kingdom,NG,chloe.murray305@outlook.com,Non-member,,Yes
+GST00301,Henry,Stewart,M,45-54,Dublin,Ireland,,henry.stewart626@proton.me,Gold,2020-05-03,Yes
+GST00302,Lucy,Stewart,F,35-44,Reading,United Kingdom,RG,lucy.stewart9@hotmail.com,Bronze,2022-06-22,No
+GST00303,Jacob,Taylor,M,55-64,Nottingham,United Kingdom,NG,jacob.taylor734@gmail.com,Non-member,,Yes
+GST00304,Grace,Thompson,F,18-24,Leicester,United Kingdom,LE,grace.thompson857@proton.me,Non-member,,Yes
+GST00305,Ryan,Robinson,M,45-54,London,United Kingdom,SE,ryan.robinson621@proton.me,Silver,2020-03-28,No
+GST00306,Lily,Williams,F,25-34,Newcastle,United Kingdom,NE,lily.williams219@hotmail.com,Non-member,,Yes
+GST00307,Sophia,Stewart,F,25-34,Reading,United Kingdom,RG,sophia.stewart555@yahoo.co.uk,Bronze,2026-07-21,Yes
+GST00308,Lucy,Stewart,F,35-44,Amsterdam,Netherlands,,lucy.stewart769@icloud.com,Silver,2018-08-28,No
+GST00309,Rohan,Martin,M,45-54,Reading,United Kingdom,RG,rohan.martin885@hotmail.com,Bronze,2024-08-21,Yes
+GST00310,Leah,Brown,F,25-34,Cardiff,United Kingdom,CF,leah.brown880@hotmail.com,Non-member,,Yes
+GST00311,Samuel,Jones,M,18-24,Sheffield,United Kingdom,S,samuel.jones410@hotmail.com,Gold,2026-03-11,Yes
+GST00312,Meera,Khan,F,35-44,London,United Kingdom,SE,meera.khan74@hotmail.com,Bronze,2020-03-13,Yes
+GST00313,Luke,Harris,M,25-34,Newcastle,United Kingdom,NE,luke.harris255@hotmail.com,Non-member,,Yes
+GST00314,Lucy,Patel,F,45-54,London,United Kingdom,SE,lucy.patel488@hotmail.com,Bronze,2019-07-13,Yes
+GST00315,Oliver,Thompson,M,35-44,Birmingham,United Kingdom,B,oliver.thompson178@outlook.com,Silver,2022-01-23,No
+GST00316,Alfie,Edwards,M,35-44,Leeds,United Kingdom,LS,alfie.edwards253@gmail.com,Platinum,2021-01-14,Yes
+GST00317,Benjamin,Taylor,M,25-34,Cardiff,United Kingdom,CF,benjamin.taylor318@hotmail.com,Bronze,2019-08-19,Yes
+GST00318,David,Jones,M,25-34,Reading,United Kingdom,RG,david.jones774@yahoo.co.uk,Silver,2021-09-22,Yes
+GST00319,Charlie,Jones,M,35-44,Sheffield,United Kingdom,S,charlie.jones753@icloud.com,Gold,2023-08-29,No
+GST00320,Ananya,Williams,F,25-34,Glasgow,United Kingdom,G,ananya.williams918@proton.me,Non-member,,Yes
+GST00321,Freya,Smith,F,25-34,Liverpool,United Kingdom,L,freya.smith479@hotmail.com,Gold,2020-10-22,Yes
+GST00322,Alice,Wright,F,65+,Milan,Italy,,alice.wright582@icloud.com,Bronze,2019-02-28,Yes
+GST00323,Meera,Shah,F,18-24,Milan,Italy,,meera.shah531@proton.me,Silver,2022-02-26,No
+GST00324,Henry,Baker,M,18-24,Mumbai,India,,henry.baker730@hotmail.com,Non-member,,Yes
+GST00325,Rohan,Mehta,M,25-34,Leicester,United Kingdom,LE,rohan.mehta77@hotmail.com,Bronze,2024-11-03,Yes
+GST00326,Isla,Smith,F,35-44,Nottingham,United Kingdom,NG,isla.smith475@gmail.com,Bronze,2021-04-28,Yes
+GST00327,Ryan,Cooper,M,25-34,Liverpool,United Kingdom,L,ryan.cooper824@proton.me,Gold,2019-06-01,No
+GST00328,Omar,Hussain,M,45-54,Newcastle,United Kingdom,NE,omar.hussain455@proton.me,Non-member,,No
+GST00329,Jessica,Jones,F,25-34,Edinburgh,United Kingdom,EH,jessica.jones339@proton.me,Bronze,2022-10-30,Yes
+GST00330,Benjamin,Wood,M,25-34,Milan,Italy,,benjamin.wood339@yahoo.co.uk,Gold,2023-07-16,Yes
+GST00331,Samuel,Jones,M,45-54,Nottingham,United Kingdom,NG,samuel.jones478@outlook.com,Bronze,2022-03-27,Yes
+GST00332,Alfie,Martin,M,45-54,Birmingham,United Kingdom,B,alfie.martin152@icloud.com,Non-member,,Yes
+GST00333,Leah,Hussain,F,45-54,Cardiff,United Kingdom,CF,leah.hussain658@icloud.com,Gold,2019-05-22,Yes
+GST00334,Sophia,Hussain,F,35-44,Cambridge,United Kingdom,CB,sophia.hussain389@gmail.com,Platinum,2018-02-19,No
+GST00335,Amelia,Jackson,F,25-34,Nottingham,United Kingdom,NG,amelia.jackson791@yahoo.co.uk,Silver,2023-03-12,No
+GST00336,Olivia,Robinson,F,25-34,Sheffield,United Kingdom,S,olivia.robinson472@hotmail.com,Bronze,2026-05-28,No
+GST00337,Ananya,Parker,F,25-34,Toronto,Canada,,ananya.parker355@outlook.com,Bronze,2021-11-28,Yes
+GST00338,Thomas,Gupta,M,65+,Liverpool,United Kingdom,L,thomas.gupta348@outlook.com,Non-member,,Yes
+GST00339,Meera,Harris,F,35-44,Dublin,Ireland,,meera.harris171@icloud.com,Bronze,2021-04-24,Yes
+GST00340,Olivia,Reid,F,45-54,Amsterdam,Netherlands,,olivia.reid94@gmail.com,Silver,2025-09-06,Yes
+GST00341,Emily,Jones,F,45-54,Liverpool,United Kingdom,L,emily.jones624@proton.me,Silver,2024-06-10,No
+GST00342,George,Martin,M,35-44,Newcastle,United Kingdom,NE,george.martin488@hotmail.com,Bronze,2026-08-01,Yes
+GST00343,Isla,Baker,F,45-54,Edinburgh,United Kingdom,EH,isla.baker595@proton.me,Silver,2020-01-25,Yes
+GST00344,Matthew,Green,M,45-54,Toronto,Canada,,matthew.green578@proton.me,Non-member,,No
+GST00345,Olivia,Gupta,F,25-34,Reading,United Kingdom,RG,olivia.gupta423@icloud.com,Silver,2018-08-28,Yes
+GST00346,William,Ahmed,M,45-54,London,United Kingdom,SE,william.ahmed292@outlook.com,Bronze,2022-10-19,Yes
+GST00347,Hannah,Shah,F,25-34,Glasgow,United Kingdom,G,hannah.shah661@proton.me,Bronze,2019-05-15,Yes
+GST00348,Jacob,Khan,M,35-44,Manchester,United Kingdom,M,jacob.khan317@outlook.com,Silver,2025-05-11,Yes
+GST00349,Arjun,Shah,M,35-44,Cambridge,United Kingdom,CB,arjun.shah864@gmail.com,Gold,2019-05-16,Yes
+GST00350,Isla,Stewart,F,25-34,Bristol,United Kingdom,BS,isla.stewart220@gmail.com,Bronze,2023-11-30,Yes
+GST00351,Lucy,Wright,F,25-34,Reading,United Kingdom,RG,lucy.wright764@hotmail.com,Platinum,2025-12-19,Yes
+GST00352,Sara,Jackson,F,45-54,Bristol,United Kingdom,BS,sara.jackson638@outlook.com,Bronze,2020-10-04,Yes
+GST00353,David,Thompson,M,45-54,Reading,United Kingdom,RG,david.thompson902@yahoo.co.uk,Gold,2021-02-06,Yes
+GST00354,Matthew,Wood,M,65+,Manchester,United Kingdom,M,matthew.wood472@yahoo.co.uk,Bronze,2024-01-04,Yes
+GST00355,Ella,Phillips,F,45-54,Sheffield,United Kingdom,S,ella.phillips207@gmail.com,Bronze,2025-09-17,No
+GST00356,Lucy,Martin,F,18-24,Reading,United Kingdom,RG,lucy.martin159@outlook.com,Bronze,2019-08-19,No
+GST00357,Ryan,Stewart,M,35-44,Cardiff,United Kingdom,CF,ryan.stewart740@hotmail.com,Gold,2020-12-24,No
+GST00358,Joshua,Davies,M,65+,Leicester,United Kingdom,LE,joshua.davies169@yahoo.co.uk,Bronze,2026-05-24,Yes
+GST00359,Chloe,King,F,55-64,Nottingham,United Kingdom,NG,chloe.king871@yahoo.co.uk,Bronze,2019-12-04,Yes
+GST00360,James,Smith,M,25-34,Nottingham,United Kingdom,NG,james.smith13@yahoo.co.uk,Silver,2020-05-10,Yes
+GST00361,Omar,Parker,M,45-54,Oxford,United Kingdom,OX,omar.parker252@yahoo.co.uk,Non-member,,Yes
+GST00362,Ella,Shah,F,35-44,Glasgow,United Kingdom,G,ella.shah307@hotmail.com,Silver,2022-08-08,Yes
+GST00363,Evie,Wilson,F,35-44,Glasgow,United Kingdom,G,evie.wilson188@gmail.com,Silver,2020-04-06,Yes
+GST00364,Alfie,Cooper,M,45-54,Sheffield,United Kingdom,S,alfie.cooper786@proton.me,Silver,2021-02-22,Yes
+GST00365,Henry,Reid,M,45-54,Dublin,Ireland,,henry.reid748@icloud.com,Gold,2022-09-30,Yes
+GST00366,Jack,Ali,M,35-44,Sheffield,United Kingdom,S,jack.ali189@gmail.com,Gold,2019-10-28,Yes
+GST00367,Leo,Wright,M,18-24,Cambridge,United Kingdom,CB,leo.wright182@outlook.com,Silver,2026-05-25,Yes
+GST00368,Hannah,Turner,F,35-44,Edinburgh,United Kingdom,EH,hannah.turner322@icloud.com,Bronze,2019-07-05,Yes
+GST00369,Charlie,Cooper,M,35-44,Leicester,United Kingdom,LE,charlie.cooper738@proton.me,Silver,2018-09-02,No
+GST00370,Isla,Evans,F,55-64,Leicester,United Kingdom,LE,isla.evans156@yahoo.co.uk,Gold,2022-12-16,Yes
+GST00371,Benjamin,Hall,M,35-44,Sheffield,United Kingdom,S,benjamin.hall707@proton.me,Silver,2021-07-20,Yes
+GST00372,Arjun,Carter,M,55-64,Toronto,Canada,,arjun.carter670@yahoo.co.uk,Silver,2023-03-02,No
+GST00373,Jessica,Patel,F,25-34,Cardiff,United Kingdom,CF,jessica.patel960@outlook.com,Silver,2026-03-28,No
+GST00374,Charlotte,Jackson,F,45-54,Toronto,Canada,,charlotte.jackson742@gmail.com,Gold,2020-06-21,Yes
+GST00375,Harry,White,M,25-34,Leicester,United Kingdom,LE,harry.white535@icloud.com,Gold,2026-06-23,Yes
+GST00376,Ethan,Reid,M,55-64,Sydney,Australia,,ethan.reid98@yahoo.co.uk,Bronze,2020-11-08,Yes
+GST00377,Grace,Parker,F,35-44,Mumbai,India,,grace.parker153@hotmail.com,Silver,2026-06-20,Yes
+GST00378,Ava,Collins,F,25-34,Nottingham,United Kingdom,NG,ava.collins594@yahoo.co.uk,Silver,2024-11-02,Yes
+GST00379,Georgia,Reid,F,35-44,Oxford,United Kingdom,OX,georgia.reid662@outlook.com,Non-member,,No
+GST00380,Samuel,Parker,M,55-64,Newcastle,United Kingdom,NE,samuel.parker459@icloud.com,Gold,2021-04-11,Yes
+GST00381,Emily,Brown,F,45-54,Leicester,United Kingdom,LE,emily.brown949@gmail.com,Non-member,,Yes
+GST00382,Harry,Phillips,M,25-34,Edinburgh,United Kingdom,EH,harry.phillips343@yahoo.co.uk,Silver,2018-11-09,Yes
+GST00383,George,Johnson,M,35-44,Sydney,Australia,,george.johnson723@proton.me,Non-member,,Yes
+GST00384,Aisha,Reid,F,35-44,New York,United States,,aisha.reid501@gmail.com,Gold,2025-10-12,Yes
+GST00385,Mohammed,Parker,M,35-44,Manchester,United Kingdom,M,mohammed.parker338@icloud.com,Bronze,2020-12-07,Yes
+GST00386,Henry,Wilson,M,35-44,Amsterdam,Netherlands,,henry.wilson692@yahoo.co.uk,Bronze,2018-06-16,No
+GST00387,Leo,Gupta,M,65+,Cardiff,United Kingdom,CF,leo.gupta751@gmail.com,Bronze,2018-03-18,No
+GST00388,Joshua,King,M,35-44,Leeds,United Kingdom,LS,joshua.king478@hotmail.com,Bronze,2026-07-14,Yes
+GST00389,Yusuf,Patel,M,45-54,Manchester,United Kingdom,M,yusuf.patel756@outlook.com,Bronze,2018-03-17,Yes
+GST00390,Luke,Fraser,M,55-64,Newcastle,United Kingdom,NE,luke.fraser128@outlook.com,Non-member,,Yes
+GST00391,Emily,Patel,F,35-44,Madrid,Spain,,emily.patel402@outlook.com,Non-member,,Yes
+GST00392,George,King,M,35-44,London,United Kingdom,SE,george.king949@outlook.com,Silver,2023-06-08,No
+GST00393,Charlotte,Collins,F,25-34,Milan,Italy,,charlotte.collins858@gmail.com,Non-member,,Yes
+GST00394,Freya,Green,F,25-34,Newcastle,United Kingdom,NE,freya.green336@proton.me,Non-member,,Yes
+GST00395,Ava,Clarke,F,35-44,Leicester,United Kingdom,LE,ava.clarke760@hotmail.com,Platinum,2020-06-20,Yes
+GST00396,Ethan,Walker,M,55-64,Manchester,United Kingdom,M,ethan.walker817@gmail.com,Silver,2023-08-05,No
+GST00397,William,Green,M,25-34,Toronto,Canada,,william.green828@gmail.com,Silver,2022-12-04,Yes
+GST00398,Georgia,King,F,65+,Oxford,United Kingdom,OX,georgia.king733@yahoo.co.uk,Silver,2019-11-15,Yes
+GST00399,Ethan,Edwards,M,55-64,Madrid,Spain,,ethan.edwards135@outlook.com,Non-member,,Yes
+GST00400,Mohammed,Parker,M,18-24,Sheffield,United Kingdom,S,mohammed.parker699@yahoo.co.uk,Bronze,2019-09-28,Yes
+GST00401,Nathan,Johnson,M,35-44,Glasgow,United Kingdom,G,nathan.johnson818@outlook.com,Bronze,2022-03-29,Yes
+GST00402,Samuel,Baker,M,45-54,Newcastle,United Kingdom,NE,samuel.baker842@icloud.com,Platinum,2019-06-01,Yes
+GST00403,David,Fraser,M,45-54,London,United Kingdom,SE,david.fraser854@gmail.com,Bronze,2025-05-15,No
+GST00404,Noah,Collins,M,25-34,Newcastle,United Kingdom,NE,noah.collins206@outlook.com,Gold,2026-01-14,No
+GST00405,Adam,Campbell,M,35-44,Sheffield,United Kingdom,S,adam.campbell692@outlook.com,Non-member,,Yes
+GST00406,Lucy,Fraser,F,25-34,Reading,United Kingdom,RG,lucy.fraser485@proton.me,Bronze,2025-03-02,Yes
+GST00407,Zara,Harris,F,18-24,Nottingham,United Kingdom,NG,zara.harris969@yahoo.co.uk,Bronze,2019-01-05,Yes
+GST00408,Joshua,Harris,M,25-34,Reading,United Kingdom,RG,joshua.harris666@yahoo.co.uk,Gold,2022-09-25,Yes
+GST00409,Thomas,Mitchell,M,25-34,London,United Kingdom,SE,thomas.mitchell69@hotmail.com,Silver,2021-08-26,No
+GST00410,Oliver,Wilson,M,25-34,Leeds,United Kingdom,LS,oliver.wilson691@hotmail.com,Silver,2018-09-17,Yes
+GST00411,Ryan,Wilson,M,35-44,Cardiff,United Kingdom,CF,ryan.wilson145@icloud.com,Silver,2024-01-05,Yes
+GST00412,Omar,Wood,M,35-44,Bristol,United Kingdom,BS,omar.wood550@icloud.com,Bronze,2018-11-12,No
+GST00413,Priya,White,F,35-44,London,United Kingdom,SE,priya.white555@outlook.com,Non-member,,Yes
+GST00414,Priya,Shah,F,35-44,Birmingham,United Kingdom,B,priya.shah519@proton.me,Silver,2019-02-11,No
+GST00415,James,Smith,M,25-34,Amsterdam,Netherlands,,james.smith283@outlook.com,Bronze,2019-03-05,Yes
+GST00416,Adam,Fraser,M,55-64,Paris,France,,adam.fraser325@outlook.com,Bronze,2023-06-12,Yes
+GST00417,Arjun,Turner,M,65+,Sheffield,United Kingdom,S,arjun.turner210@gmail.com,Bronze,2025-12-03,No
+GST00418,Fatima,Wood,F,25-34,Mumbai,India,,fatima.wood786@yahoo.co.uk,Bronze,2023-05-05,No
+GST00419,Jacob,Carter,M,25-34,Cardiff,United Kingdom,CF,jacob.carter94@proton.me,Silver,2022-03-07,Yes
+GST00420,Jacob,Cooper,M,55-64,Cambridge,United Kingdom,CB,jacob.cooper929@gmail.com,Gold,2025-12-10,Yes
+GST00421,Oscar,Robinson,M,25-34,Oxford,United Kingdom,OX,oscar.robinson462@outlook.com,Silver,2024-07-16,Yes
+GST00422,Lucy,Parker,F,35-44,Edinburgh,United Kingdom,EH,lucy.parker511@outlook.com,Bronze,2019-04-04,Yes
+GST00423,Omar,Thompson,M,45-54,Cambridge,United Kingdom,CB,omar.thompson566@icloud.com,Silver,2024-11-12,Yes
+GST00424,Emily,Murray,F,25-34,Leicester,United Kingdom,LE,emily.murray255@yahoo.co.uk,Silver,2023-11-18,Yes
+GST00425,Chloe,Hall,F,35-44,Newcastle,United Kingdom,NE,chloe.hall330@gmail.com,Silver,2018-06-11,Yes
+GST00426,Benjamin,Wood,M,25-34,Cardiff,United Kingdom,CF,benjamin.wood868@gmail.com,Non-member,,Yes
+GST00427,Jack,Jackson,M,35-44,Leeds,United Kingdom,LS,jack.jackson972@yahoo.co.uk,Silver,2024-03-19,No
+GST00428,Grace,Shah,F,45-54,Reading,United Kingdom,RG,grace.shah566@icloud.com,Bronze,2022-03-27,Yes
+GST00429,Thomas,Thompson,M,25-34,Sydney,Australia,,thomas.thompson107@outlook.com,Bronze,2024-10-31,No
+GST00430,Georgia,Wood,F,25-34,Cardiff,United Kingdom,CF,georgia.wood104@icloud.com,Silver,2022-11-29,Yes
+GST00431,Fatima,Hussain,F,45-54,Sydney,Australia,,fatima.hussain345@hotmail.com,Gold,2023-11-29,No
+GST00432,Priya,Jackson,F,35-44,Cardiff,United Kingdom,CF,priya.jackson158@yahoo.co.uk,Silver,2023-05-18,Yes
+GST00433,Alfie,Shah,M,25-34,Birmingham,United Kingdom,B,alfie.shah845@gmail.com,Bronze,2026-01-04,Yes
+GST00434,Luke,King,M,35-44,Sheffield,United Kingdom,S,luke.king211@yahoo.co.uk,Silver,2020-07-11,Yes
+GST00435,David,Davies,M,18-24,Sydney,Australia,,david.davies809@gmail.com,Bronze,2022-11-16,No
+GST00436,Georgia,Martin,F,35-44,Glasgow,United Kingdom,G,georgia.martin794@hotmail.com,Bronze,2025-11-15,Yes
+GST00437,Jacob,Jackson,M,25-34,Birmingham,United Kingdom,B,jacob.jackson59@outlook.com,Bronze,2024-10-08,Yes
+GST00438,Omar,Mehta,M,35-44,Reading,United Kingdom,RG,omar.mehta840@proton.me,Bronze,2025-10-22,Yes
+GST00439,Grace,Mitchell,F,18-24,Glasgow,United Kingdom,G,grace.mitchell729@proton.me,Bronze,2023-05-01,Yes
+GST00440,Charlie,Jones,M,55-64,Dublin,Ireland,,charlie.jones356@gmail.com,Bronze,2025-05-07,Yes
+GST00441,Isla,Brown,F,45-54,Manchester,United Kingdom,M,isla.brown619@icloud.com,Non-member,,No
+GST00442,Sophie,Stewart,F,55-64,Edinburgh,United Kingdom,EH,sophie.stewart808@yahoo.co.uk,Silver,2018-09-08,Yes
+GST00443,Joshua,Patel,M,55-64,Manchester,United Kingdom,M,joshua.patel677@gmail.com,Bronze,2026-05-09,Yes
+GST00444,Ella,Campbell,F,55-64,London,United Kingdom,SE,ella.campbell577@proton.me,Silver,2020-10-18,Yes
+GST00445,Charlie,Clarke,M,65+,Reading,United Kingdom,RG,charlie.clarke697@hotmail.com,Bronze,2019-08-13,Yes
+GST00446,Alice,Smith,F,25-34,Manchester,United Kingdom,M,alice.smith667@proton.me,Bronze,2025-10-29,No
+GST00447,Chloe,Campbell,F,45-54,Mumbai,India,,chloe.campbell803@proton.me,Non-member,,No
+GST00448,David,Thompson,M,55-64,London,United Kingdom,SE,david.thompson884@yahoo.co.uk,Silver,2024-05-06,Yes
+GST00449,Lucy,Stewart,F,35-44,Oxford,United Kingdom,OX,lucy.stewart543@gmail.com,Non-member,,Yes
+GST00450,Zara,Campbell,F,45-54,Newcastle,United Kingdom,NE,zara.campbell43@proton.me,Bronze,2021-12-01,No
+GST00451,Jessica,Morris,F,35-44,Milan,Italy,,jessica.morris491@gmail.com,Bronze,2019-09-28,Yes
+GST00452,Noah,Thompson,M,55-64,Edinburgh,United Kingdom,EH,noah.thompson352@proton.me,Gold,2026-07-27,Yes
+GST00453,Bethany,Patel,F,18-24,London,United Kingdom,SE,bethany.patel7@hotmail.com,Non-member,,Yes
+GST00454,Zara,Ali,F,65+,Reading,United Kingdom,RG,zara.ali186@gmail.com,Non-member,,Yes
+GST00455,Nathan,Ahmed,M,35-44,Nottingham,United Kingdom,NG,nathan.ahmed487@proton.me,Bronze,2022-08-15,Yes
+GST00456,George,Mitchell,M,25-34,Cambridge,United Kingdom,CB,george.mitchell90@yahoo.co.uk,Bronze,2019-02-07,Yes
+GST00457,Fatima,Campbell,F,45-54,Sheffield,United Kingdom,S,fatima.campbell888@gmail.com,Gold,2019-01-20,Yes
+GST00458,Georgia,Clarke,F,18-24,Glasgow,United Kingdom,G,georgia.clarke415@gmail.com,Silver,2020-12-01,Yes
+GST00459,David,Jackson,M,25-34,Berlin,Germany,,david.jackson805@gmail.com,Gold,2018-03-27,Yes
+GST00460,Leah,Jackson,F,65+,Leeds,United Kingdom,LS,leah.jackson886@gmail.com,Bronze,2022-09-19,Yes
+GST00461,Arjun,Phillips,M,35-44,Liverpool,United Kingdom,L,arjun.phillips178@proton.me,Silver,2022-11-21,No
+GST00462,Freya,Morris,F,45-54,Cardiff,United Kingdom,CF,freya.morris399@yahoo.co.uk,Non-member,,Yes
+GST00463,Alice,Johnson,F,18-24,Cambridge,United Kingdom,CB,alice.johnson117@yahoo.co.uk,Non-member,,Yes
+GST00464,Fatima,Reid,F,45-54,Amsterdam,Netherlands,,fatima.reid650@yahoo.co.uk,Bronze,2019-12-16,No
+GST00465,George,Campbell,M,35-44,Liverpool,United Kingdom,L,george.campbell13@gmail.com,Bronze,2025-10-16,No
+GST00466,David,Clarke,M,65+,Oxford,United Kingdom,OX,david.clarke359@icloud.com,Gold,2020-12-02,Yes
+GST00467,Callum,Hall,M,45-54,Birmingham,United Kingdom,B,callum.hall937@gmail.com,Non-member,,No
+GST00468,Leo,Shah,M,35-44,Cardiff,United Kingdom,CF,leo.shah994@proton.me,Non-member,,Yes
+GST00469,Nadia,Johnson,F,35-44,Nottingham,United Kingdom,NG,nadia.johnson359@icloud.com,Bronze,2023-06-02,Yes
+GST00470,Bethany,Murray,F,18-24,Amsterdam,Netherlands,,bethany.murray584@yahoo.co.uk,Bronze,2021-02-01,No
+GST00471,Fatima,Hussain,F,65+,Toronto,Canada,,fatima.hussain944@gmail.com,Gold,2021-02-19,No
+GST00472,Sara,Baker,F,45-54,Newcastle,United Kingdom,NE,sara.baker615@hotmail.com,Silver,2023-08-15,Yes
+GST00473,Zara,King,F,45-54,Toronto,Canada,,zara.king640@outlook.com,Silver,2022-02-17,No
+GST00474,Luke,Clarke,M,25-34,Reading,United Kingdom,RG,luke.clarke577@yahoo.co.uk,Platinum,2019-04-07,Yes
+GST00475,Ava,Gupta,F,25-34,Bristol,United Kingdom,BS,ava.gupta226@outlook.com,Gold,2026-04-27,Yes
+GST00476,Meera,Campbell,F,25-34,Leicester,United Kingdom,LE,meera.campbell279@yahoo.co.uk,Bronze,2023-03-19,Yes
+GST00477,Thomas,Johnson,M,18-24,Edinburgh,United Kingdom,EH,thomas.johnson927@proton.me,Bronze,2025-12-23,No
+GST00478,Alfie,Johnson,M,35-44,Leeds,United Kingdom,LS,alfie.johnson262@proton.me,Bronze,2024-12-18,Yes
+GST00479,Emily,Patel,F,35-44,Milan,Italy,,emily.patel291@icloud.com,Bronze,2020-09-23,Yes
+GST00480,Noah,Martin,M,25-34,Glasgow,United Kingdom,G,noah.martin103@proton.me,Bronze,2025-03-09,Yes
+GST00481,Oscar,Stewart,M,18-24,Manchester,United Kingdom,M,oscar.stewart451@proton.me,Non-member,,No
+GST00482,Zara,Wright,F,35-44,Nottingham,United Kingdom,NG,zara.wright512@outlook.com,Non-member,,Yes
+GST00483,Alfie,Harris,M,45-54,Birmingham,United Kingdom,B,alfie.harris55@outlook.com,Non-member,,Yes
+GST00484,Fatima,Walker,F,18-24,Reading,United Kingdom,RG,fatima.walker566@yahoo.co.uk,Platinum,2022-02-03,Yes
+GST00485,Thomas,Clarke,M,35-44,Oxford,United Kingdom,OX,thomas.clarke602@proton.me,Bronze,2023-01-31,Yes
+GST00486,Leah,Ali,F,25-34,Cardiff,United Kingdom,CF,leah.ali49@yahoo.co.uk,Gold,2023-01-23,Yes
+GST00487,Samuel,Campbell,M,25-34,Edinburgh,United Kingdom,EH,samuel.campbell114@gmail.com,Gold,2020-02-01,Yes
+GST00488,Jacob,Jackson,M,35-44,Birmingham,United Kingdom,B,jacob.jackson698@icloud.com,Silver,2021-09-29,Yes
+GST00489,Harry,Jones,M,55-64,Oxford,United Kingdom,OX,harry.jones712@gmail.com,Non-member,,Yes
+GST00490,Alfie,Williams,M,25-34,Manchester,United Kingdom,M,alfie.williams508@yahoo.co.uk,Bronze,2019-12-12,No
+GST00491,Ethan,Phillips,M,25-34,Leicester,United Kingdom,LE,ethan.phillips882@gmail.com,Gold,2018-09-27,No
+GST00492,Amelia,Collins,F,25-34,Leeds,United Kingdom,LS,amelia.collins701@gmail.com,Bronze,2020-02-22,Yes
+GST00493,Arjun,Hall,M,25-34,Cardiff,United Kingdom,CF,arjun.hall679@proton.me,Silver,2019-01-28,No
+GST00494,Emily,Wood,F,55-64,Reading,United Kingdom,RG,emily.wood480@icloud.com,Silver,2020-01-07,Yes
+GST00495,Jacob,Campbell,M,25-34,Reading,United Kingdom,RG,jacob.campbell93@yahoo.co.uk,Bronze,2018-05-26,No
+GST00496,Ryan,King,M,25-34,Cambridge,United Kingdom,CB,ryan.king598@proton.me,Silver,2018-03-22,Yes
+GST00497,Sophia,Walker,F,55-64,Edinburgh,United Kingdom,EH,sophia.walker436@outlook.com,Silver,2024-06-01,Yes
+GST00498,Joshua,Mehta,M,35-44,Nottingham,United Kingdom,NG,joshua.mehta738@gmail.com,Gold,2020-12-08,Yes
+GST00499,Fatima,Williams,F,25-34,Sydney,Australia,,fatima.williams521@proton.me,Bronze,2019-11-30,No
+GST00500,Thomas,Mehta,M,55-64,Reading,United Kingdom,RG,thomas.mehta35@gmail.com,Bronze,2019-09-23,Yes
+GST00501,Mia,Harris,F,25-34,Sydney,Australia,,mia.harris833@outlook.com,Non-member,,Yes
+GST00502,Callum,Turner,M,25-34,Reading,United Kingdom,RG,callum.turner990@outlook.com,Gold,2025-01-31,Yes
+GST00503,Oscar,Phillips,M,25-34,Edinburgh,United Kingdom,EH,oscar.phillips357@icloud.com,Silver,2024-07-03,No
+GST00504,Callum,Parker,M,25-34,Cardiff,United Kingdom,CF,callum.parker987@gmail.com,Bronze,2018-08-10,Yes
+GST00505,Fatima,Martin,F,45-54,Edinburgh,United Kingdom,EH,fatima.martin217@hotmail.com,Non-member,,Yes
+GST00506,Georgia,Williams,F,25-34,Milan,Italy,,georgia.williams264@gmail.com,Bronze,2021-10-08,Yes
+GST00507,Ella,Edwards,F,25-34,Cambridge,United Kingdom,CB,ella.edwards226@outlook.com,Non-member,,Yes
+GST00508,Joshua,Clarke,M,35-44,Manchester,United Kingdom,M,joshua.clarke248@icloud.com,Silver,2025-09-24,Yes
+GST00509,Harry,Fraser,M,55-64,Reading,United Kingdom,RG,harry.fraser582@proton.me,Gold,2022-02-01,Yes
+GST00510,Aisha,Thompson,F,25-34,Sheffield,United Kingdom,S,aisha.thompson371@outlook.com,Non-member,,No
+GST00511,William,Baker,M,18-24,Birmingham,United Kingdom,B,william.baker578@yahoo.co.uk,Non-member,,Yes
+GST00512,Samuel,Davies,M,35-44,Cambridge,United Kingdom,CB,samuel.davies50@yahoo.co.uk,Non-member,,Yes
+GST00513,Ella,White,F,45-54,London,United Kingdom,SE,ella.white962@gmail.com,Non-member,,Yes
+GST00514,Lucy,Harris,F,45-54,Cambridge,United Kingdom,CB,lucy.harris580@gmail.com,Silver,2020-05-13,Yes
+GST00515,Alice,Smith,F,18-24,Mumbai,India,,alice.smith536@hotmail.com,Silver,2025-04-21,No
+GST00516,Maya,Jackson,F,25-34,Birmingham,United Kingdom,B,maya.jackson993@icloud.com,Bronze,2025-09-02,Yes
+GST00517,Noah,Taylor,M,18-24,Glasgow,United Kingdom,G,noah.taylor202@icloud.com,Gold,2023-06-16,Yes
+GST00518,Jack,Murray,M,65+,Leeds,United Kingdom,LS,jack.murray882@yahoo.co.uk,Gold,2024-11-10,Yes
+GST00519,Mia,Stewart,F,55-64,Newcastle,United Kingdom,NE,mia.stewart575@hotmail.com,Non-member,,Yes
+GST00520,Ava,Davies,F,45-54,Oxford,United Kingdom,OX,ava.davies34@outlook.com,Gold,2022-04-24,Yes
+GST00521,Priya,Parker,F,25-34,Oxford,United Kingdom,OX,priya.parker163@gmail.com,Non-member,,Yes
+GST00522,Sophia,Mehta,F,25-34,Sheffield,United Kingdom,S,sophia.mehta233@outlook.com,Non-member,,Yes
+GST00523,Luke,Walker,M,25-34,Glasgow,United Kingdom,G,luke.walker846@hotmail.com,Silver,2022-08-02,Yes
+GST00524,Ava,Phillips,F,45-54,Bristol,United Kingdom,BS,ava.phillips705@proton.me,Silver,2022-05-24,Yes
+GST00525,Nathan,Wilson,M,25-34,Sydney,Australia,,nathan.wilson650@proton.me,Silver,2024-12-31,No
+GST00526,Noah,Thompson,M,18-24,Reading,United Kingdom,RG,noah.thompson509@icloud.com,Platinum,2022-11-07,Yes
+GST00527,Amelia,Ali,F,35-44,Oxford,United Kingdom,OX,amelia.ali826@proton.me,Bronze,2020-01-08,Yes
+GST00528,Charlotte,Stewart,F,18-24,Cardiff,United Kingdom,CF,charlotte.stewart383@icloud.com,Silver,2026-03-23,No
+GST00529,Callum,Jones,M,35-44,Madrid,Spain,,callum.jones115@yahoo.co.uk,Bronze,2024-03-24,Yes
+GST00530,William,Fraser,M,25-34,Newcastle,United Kingdom,NE,william.fraser297@outlook.com,Bronze,2020-05-16,Yes
+GST00531,James,Morris,M,35-44,Milan,Italy,,james.morris130@hotmail.com,Silver,2026-03-17,Yes
+GST00532,Maya,Collins,F,25-34,Leeds,United Kingdom,LS,maya.collins766@outlook.com,Platinum,2019-09-18,Yes
+GST00533,Jacob,Collins,M,35-44,Berlin,Germany,,jacob.collins170@yahoo.co.uk,Bronze,2020-05-11,Yes
+GST00534,Emily,Jones,F,25-34,Sheffield,United Kingdom,S,emily.jones200@outlook.com,Gold,2019-08-31,Yes
+GST00535,Joshua,Reid,M,45-54,Sheffield,United Kingdom,S,joshua.reid775@proton.me,Silver,2021-06-22,No
+GST00536,Benjamin,Fraser,M,45-54,Liverpool,United Kingdom,L,benjamin.fraser953@proton.me,Bronze,2022-01-09,No
+GST00537,Zara,Mehta,F,45-54,Liverpool,United Kingdom,L,zara.mehta383@yahoo.co.uk,Non-member,,No
+GST00538,Arjun,Shah,M,45-54,Leeds,United Kingdom,LS,arjun.shah310@icloud.com,Silver,2018-05-31,No
+GST00539,Lily,Edwards,F,35-44,Glasgow,United Kingdom,G,lily.edwards767@gmail.com,Gold,2019-10-16,Yes
+GST00540,Evie,Evans,F,45-54,Cambridge,United Kingdom,CB,evie.evans560@outlook.com,Non-member,,Yes
+GST00541,Aisha,Harris,F,35-44,London,United Kingdom,SE,aisha.harris704@hotmail.com,Silver,2018-12-02,No
+GST00542,Grace,White,F,25-34,Edinburgh,United Kingdom,EH,grace.white583@proton.me,Silver,2023-08-05,Yes
+GST00543,Ella,Baker,F,45-54,Glasgow,United Kingdom,G,ella.baker661@outlook.com,Silver,2020-04-15,Yes
+GST00544,Amelia,Wood,F,25-34,Manchester,United Kingdom,M,amelia.wood264@proton.me,Silver,2026-07-06,Yes
+GST00545,Hannah,Morris,F,45-54,Liverpool,United Kingdom,L,hannah.morris840@icloud.com,Gold,2021-08-08,Yes
+GST00546,Olivia,Walker,F,55-64,Oxford,United Kingdom,OX,olivia.walker505@outlook.com,Bronze,2018-09-09,No
+GST00547,Nadia,Davies,F,45-54,Edinburgh,United Kingdom,EH,nadia.davies531@outlook.com,Non-member,,Yes
+GST00548,Jacob,Wood,M,35-44,Liverpool,United Kingdom,L,jacob.wood852@hotmail.com,Bronze,2023-08-14,Yes
+GST00549,Thomas,Hall,M,35-44,Newcastle,United Kingdom,NE,thomas.hall389@proton.me,Bronze,2019-10-12,Yes
+GST00550,Mohammed,Green,M,25-34,Cambridge,United Kingdom,CB,mohammed.green433@yahoo.co.uk,Bronze,2022-03-27,No
+GST00551,Ethan,Brown,M,55-64,Manchester,United Kingdom,M,ethan.brown910@icloud.com,Gold,2023-06-15,Yes
+GST00552,Sara,Ahmed,F,35-44,Cambridge,United Kingdom,CB,sara.ahmed934@hotmail.com,Silver,2023-01-20,Yes
+GST00553,Sophie,Collins,F,25-34,Leeds,United Kingdom,LS,sophie.collins766@yahoo.co.uk,Gold,2018-03-31,No
+GST00554,Rohan,Cooper,M,18-24,Leicester,United Kingdom,LE,rohan.cooper997@outlook.com,Non-member,,Yes
+GST00555,Charlie,Campbell,M,45-54,Cardiff,United Kingdom,CF,charlie.campbell275@hotmail.com,Non-member,,Yes
+GST00556,Nadia,Jones,F,65+,Cardiff,United Kingdom,CF,nadia.jones751@proton.me,Bronze,2020-02-20,No
+GST00557,Meera,Wilson,F,35-44,Cambridge,United Kingdom,CB,meera.wilson150@gmail.com,Gold,2025-09-25,No
+GST00558,Isla,Hussain,F,35-44,Newcastle,United Kingdom,NE,isla.hussain909@gmail.com,Non-member,,No
+GST00559,Charlotte,Williams,F,25-34,Bristol,United Kingdom,BS,charlotte.williams651@proton.me,Bronze,2025-06-30,Yes
+GST00560,Ella,Phillips,F,45-54,Manchester,United Kingdom,M,ella.phillips556@gmail.com,Silver,2019-10-20,Yes
+GST00561,Yusuf,Turner,M,55-64,Newcastle,United Kingdom,NE,yusuf.turner98@icloud.com,Bronze,2025-10-01,Yes
+GST00562,Sophia,Mitchell,F,45-54,Edinburgh,United Kingdom,EH,sophia.mitchell610@yahoo.co.uk,Bronze,2020-10-05,Yes
+GST00563,Lucy,Evans,F,35-44,Edinburgh,United Kingdom,EH,lucy.evans515@gmail.com,Silver,2021-05-09,Yes
+GST00564,Noah,Murray,M,25-34,Leeds,United Kingdom,LS,noah.murray653@icloud.com,Gold,2021-05-08,No
+GST00565,Oliver,Ahmed,M,45-54,Reading,United Kingdom,RG,oliver.ahmed35@gmail.com,Bronze,2020-05-07,No
+GST00566,Lily,Williams,F,35-44,Birmingham,United Kingdom,B,lily.williams773@gmail.com,Gold,2022-05-07,Yes
+GST00567,Georgia,Brown,F,55-64,Sheffield,United Kingdom,S,georgia.brown269@outlook.com,Silver,2019-05-22,Yes
+GST00568,Daniel,Baker,M,25-34,Bristol,United Kingdom,BS,daniel.baker396@gmail.com,Bronze,2025-03-17,Yes
+GST00569,Joshua,King,M,45-54,Birmingham,United Kingdom,B,joshua.king226@proton.me,Silver,2020-02-10,Yes
+GST00570,Lewis,Reid,M,45-54,Birmingham,United Kingdom,B,lewis.reid714@outlook.com,Silver,2025-03-07,Yes
+GST00571,Oliver,Jones,M,65+,Madrid,Spain,,oliver.jones491@gmail.com,Silver,2025-09-11,Yes
+GST00572,Lily,Davies,F,65+,Paris,France,,lily.davies212@proton.me,Bronze,2024-01-31,Yes
+GST00573,Ella,Campbell,F,35-44,Oxford,United Kingdom,OX,ella.campbell858@proton.me,Silver,2020-07-17,Yes
+GST00574,David,Cooper,M,25-34,Liverpool,United Kingdom,L,david.cooper390@gmail.com,Gold,2024-06-22,Yes
+GST00575,Thomas,Harris,M,35-44,Sheffield,United Kingdom,S,thomas.harris348@hotmail.com,Silver,2023-05-08,No
+GST00576,Callum,Davies,M,25-34,Sheffield,United Kingdom,S,callum.davies498@proton.me,Non-member,,No
+GST00577,David,Hall,M,35-44,Dublin,Ireland,,david.hall588@proton.me,Bronze,2018-03-24,Yes
+GST00578,Sara,Smith,F,25-34,Leicester,United Kingdom,LE,sara.smith239@gmail.com,Silver,2024-12-07,No
+GST00579,Rohan,Patel,M,35-44,Glasgow,United Kingdom,G,rohan.patel429@outlook.com,Bronze,2024-02-08,Yes
+GST00580,Jack,Patel,M,55-64,Nottingham,United Kingdom,NG,jack.patel184@outlook.com,Bronze,2022-09-04,Yes
+GST00581,Ryan,Wright,M,35-44,Edinburgh,United Kingdom,EH,ryan.wright980@yahoo.co.uk,Non-member,,Yes
+GST00582,Ava,Fraser,F,55-64,Glasgow,United Kingdom,G,ava.fraser441@gmail.com,Platinum,2024-04-15,Yes
+GST00583,Meera,Morris,F,25-34,Cambridge,United Kingdom,CB,meera.morris336@proton.me,Platinum,2023-05-03,Yes
+GST00584,Leo,Hussain,M,45-54,Liverpool,United Kingdom,L,leo.hussain907@proton.me,Non-member,,Yes
+GST00585,Ryan,Jones,M,45-54,Amsterdam,Netherlands,,ryan.jones354@proton.me,Non-member,,No
+GST00586,Zara,Turner,F,65+,Edinburgh,United Kingdom,EH,zara.turner730@icloud.com,Silver,2024-04-25,Yes
+GST00587,Leah,Singh,F,55-64,Reading,United Kingdom,RG,leah.singh51@yahoo.co.uk,Bronze,2022-01-14,No
+GST00588,Arjun,Jackson,M,45-54,Cambridge,United Kingdom,CB,arjun.jackson375@gmail.com,Gold,2021-03-20,Yes
+GST00589,George,Smith,M,25-34,Milan,Italy,,george.smith947@yahoo.co.uk,Bronze,2026-01-03,Yes
+GST00590,Priya,Phillips,F,55-64,Newcastle,United Kingdom,NE,priya.phillips115@outlook.com,Gold,2018-07-06,Yes
+GST00591,Sara,Baker,F,45-54,Newcastle,United Kingdom,NE,sara.baker418@icloud.com,Non-member,,Yes
+GST00592,Alfie,Morris,M,35-44,London,United Kingdom,SE,alfie.morris687@outlook.com,Bronze,2026-05-13,No
+GST00593,George,Reid,M,35-44,London,United Kingdom,SE,george.reid951@icloud.com,Bronze,2018-01-20,No
+GST00594,Sara,Hussain,F,35-44,Newcastle,United Kingdom,NE,sara.hussain738@yahoo.co.uk,Silver,2022-12-04,Yes
+GST00595,Henry,Brown,M,25-34,Cambridge,United Kingdom,CB,henry.brown463@hotmail.com,Non-member,,Yes
+GST00596,Noah,Smith,M,25-34,Oxford,United Kingdom,OX,noah.smith944@yahoo.co.uk,Bronze,2023-10-20,No
+GST00597,Adam,Khan,M,65+,Sheffield,United Kingdom,S,adam.khan852@outlook.com,Silver,2020-11-27,Yes
+GST00598,Sara,Wood,F,35-44,Cardiff,United Kingdom,CF,sara.wood572@yahoo.co.uk,Bronze,2025-10-31,Yes
+GST00599,Mia,Thompson,F,25-34,Newcastle,United Kingdom,NE,mia.thompson193@outlook.com,Silver,2023-02-17,No
+GST00600,David,Carter,M,55-64,Liverpool,United Kingdom,L,david.carter180@proton.me,Bronze,2025-07-29,Yes
+GST00601,Fatima,Brown,F,45-54,Berlin,Germany,,fatima.brown86@yahoo.co.uk,Gold,2025-11-19,No
+GST00602,Aisha,Williams,F,65+,Leeds,United Kingdom,LS,aisha.williams776@hotmail.com,Silver,2026-06-27,Yes
+GST00603,Matthew,Walker,M,35-44,Nottingham,United Kingdom,NG,matthew.walker48@yahoo.co.uk,Bronze,2019-10-14,No
+GST00604,Yusuf,Martin,M,25-34,Cardiff,United Kingdom,CF,yusuf.martin263@proton.me,Gold,2020-02-04,Yes
+GST00605,Oliver,Ali,M,65+,Dublin,Ireland,,oliver.ali445@yahoo.co.uk,Bronze,2021-05-11,No
+GST00606,Luke,Martin,M,25-34,Edinburgh,United Kingdom,EH,luke.martin615@proton.me,Bronze,2018-07-20,Yes
+GST00607,Mia,King,F,25-34,Glasgow,United Kingdom,G,mia.king319@icloud.com,Bronze,2022-10-18,No
+GST00608,Adam,Jones,M,35-44,Sydney,Australia,,adam.jones553@icloud.com,Gold,2020-07-11,Yes
+GST00609,Maya,Turner,F,35-44,Cardiff,United Kingdom,CF,maya.turner531@hotmail.com,Bronze,2024-08-30,Yes
+GST00610,Meera,Ahmed,F,35-44,Cardiff,United Kingdom,CF,meera.ahmed691@proton.me,Bronze,2023-09-23,Yes
+GST00611,Benjamin,Evans,M,25-34,Edinburgh,United Kingdom,EH,benjamin.evans94@hotmail.com,Gold,2026-02-09,No
+GST00612,Charlotte,Phillips,F,65+,Sheffield,United Kingdom,S,charlotte.phillips507@yahoo.co.uk,Platinum,2026-04-17,Yes
+GST00613,Rebecca,Ahmed,F,25-34,London,United Kingdom,SE,rebecca.ahmed655@yahoo.co.uk,Bronze,2024-05-24,No
+GST00614,Fatima,Collins,F,45-54,Toronto,Canada,,fatima.collins283@proton.me,Bronze,2025-07-03,Yes
+GST00615,Sophia,Fraser,F,45-54,Leeds,United Kingdom,LS,sophia.fraser409@hotmail.com,Bronze,2021-04-05,Yes
+GST00616,Emily,Mehta,F,18-24,Oxford,United Kingdom,OX,emily.mehta936@gmail.com,Silver,2019-11-25,Yes
+GST00617,Harry,Gupta,M,18-24,Bristol,United Kingdom,BS,harry.gupta243@hotmail.com,Gold,2018-06-05,No
+GST00618,Samuel,Hall,M,25-34,Cambridge,United Kingdom,CB,samuel.hall502@yahoo.co.uk,Silver,2026-06-04,Yes
+GST00619,Bethany,Robinson,F,18-24,Paris,France,,bethany.robinson688@gmail.com,Bronze,2024-04-19,Yes
+GST00620,Luke,Wright,M,25-34,Manchester,United Kingdom,M,luke.wright304@gmail.com,Silver,2018-04-16,Yes
+GST00621,Ryan,Patel,M,35-44,Leeds,United Kingdom,LS,ryan.patel97@hotmail.com,Non-member,,No
+GST00622,Jessica,Jones,F,45-54,London,United Kingdom,SE,jessica.jones788@gmail.com,Bronze,2023-07-26,No
+GST00623,Isla,Singh,F,25-34,London,United Kingdom,SE,isla.singh165@outlook.com,Platinum,2023-09-16,No
+GST00624,Hannah,Edwards,F,55-64,Sydney,Australia,,hannah.edwards631@icloud.com,Non-member,,Yes
+GST00625,Sara,White,F,35-44,Bristol,United Kingdom,BS,sara.white994@proton.me,Silver,2019-05-24,Yes
+GST00626,Benjamin,Turner,M,18-24,Leicester,United Kingdom,LE,benjamin.turner670@outlook.com,Silver,2022-12-13,Yes
+GST00627,Charlotte,Davies,F,45-54,Madrid,Spain,,charlotte.davies300@outlook.com,Bronze,2022-09-06,No
+GST00628,Alice,Green,F,25-34,Leicester,United Kingdom,LE,alice.green355@gmail.com,Gold,2023-02-16,No
+GST00629,George,Stewart,M,35-44,Nottingham,United Kingdom,NG,george.stewart965@outlook.com,Bronze,2026-05-26,Yes
+GST00630,Olivia,Clarke,F,55-64,Cardiff,United Kingdom,CF,olivia.clarke763@outlook.com,Bronze,2020-05-07,Yes
+GST00631,Benjamin,Wilson,M,65+,Edinburgh,United Kingdom,EH,benjamin.wilson972@outlook.com,Silver,2026-04-28,No
+GST00632,Maya,Morris,F,35-44,Reading,United Kingdom,RG,maya.morris977@hotmail.com,Bronze,2025-01-31,No
+GST00633,Ryan,Mehta,M,25-34,Glasgow,United Kingdom,G,ryan.mehta74@proton.me,Non-member,,Yes
+GST00634,Matthew,Parker,M,45-54,Liverpool,United Kingdom,L,matthew.parker84@yahoo.co.uk,Platinum,2020-09-05,Yes
+GST00635,Mohammed,Evans,M,45-54,Manchester,United Kingdom,M,mohammed.evans737@icloud.com,Bronze,2022-01-20,Yes
+GST00636,Grace,Carter,F,35-44,Liverpool,United Kingdom,L,grace.carter108@gmail.com,Silver,2022-06-07,Yes
+GST00637,Sophie,Campbell,F,35-44,Madrid,Spain,,sophie.campbell759@hotmail.com,Silver,2018-08-03,Yes
+GST00638,Oliver,Smith,M,25-34,Manchester,United Kingdom,M,oliver.smith274@outlook.com,Silver,2022-05-02,No
+GST00639,Jacob,Collins,M,25-34,Amsterdam,Netherlands,,jacob.collins127@hotmail.com,Platinum,2025-01-08,Yes
+GST00640,Bethany,Campbell,F,55-64,Leeds,United Kingdom,LS,bethany.campbell554@proton.me,Gold,2022-03-28,Yes
+GST00641,Priya,Carter,F,35-44,Mumbai,India,,priya.carter557@icloud.com,Gold,2020-05-27,No
+GST00642,Mia,Brown,F,35-44,Liverpool,United Kingdom,L,mia.brown865@hotmail.com,Gold,2019-08-02,No
+GST00643,Luke,Green,M,35-44,Edinburgh,United Kingdom,EH,luke.green458@icloud.com,Non-member,,Yes
+GST00644,Mohammed,King,M,55-64,Berlin,Germany,,mohammed.king403@hotmail.com,Bronze,2020-11-26,Yes
+GST00645,Joshua,Turner,M,45-54,London,United Kingdom,SE,joshua.turner822@gmail.com,Bronze,2026-06-17,Yes
+GST00646,Matthew,Williams,M,35-44,Oxford,United Kingdom,OX,matthew.williams37@proton.me,Non-member,,Yes
+GST00647,Ryan,Edwards,M,35-44,Dublin,Ireland,,ryan.edwards950@proton.me,Bronze,2021-03-27,Yes
+GST00648,Sophie,Walker,F,45-54,Reading,United Kingdom,RG,sophie.walker570@hotmail.com,Silver,2026-06-17,Yes
+GST00649,Bethany,Smith,F,45-54,Cardiff,United Kingdom,CF,bethany.smith242@proton.me,Silver,2019-11-30,Yes
+GST00650,Ava,Phillips,F,35-44,Cambridge,United Kingdom,CB,ava.phillips855@icloud.com,Bronze,2019-11-25,Yes
+GST00651,Henry,Mehta,M,55-64,Leeds,United Kingdom,LS,henry.mehta456@hotmail.com,Bronze,2021-02-20,No
+GST00652,Oliver,Davies,M,18-24,Manchester,United Kingdom,M,oliver.davies432@outlook.com,Bronze,2018-10-09,Yes
+GST00653,Charlie,Mitchell,M,25-34,Reading,United Kingdom,RG,charlie.mitchell956@hotmail.com,Bronze,2018-12-14,Yes
+GST00654,Oliver,Fraser,M,55-64,Bristol,United Kingdom,BS,oliver.fraser905@icloud.com,Silver,2023-01-19,Yes
+GST00655,Amelia,Khan,F,25-34,Mumbai,India,,amelia.khan58@proton.me,Bronze,2026-02-18,No
+GST00656,Amelia,Gupta,F,25-34,Leicester,United Kingdom,LE,amelia.gupta246@outlook.com,Gold,2023-06-22,No
+GST00657,Lily,Carter,F,35-44,Reading,United Kingdom,RG,lily.carter839@hotmail.com,Silver,2020-07-11,No
+GST00658,Evie,Turner,F,45-54,New York,United States,,evie.turner331@outlook.com,Non-member,,Yes
+GST00659,Jacob,Phillips,M,35-44,Berlin,Germany,,jacob.phillips14@outlook.com,Gold,2024-09-11,Yes
+GST00660,Grace,Hussain,F,18-24,Mumbai,India,,grace.hussain85@icloud.com,Silver,2023-02-19,No
+GST00661,Ava,Mitchell,F,25-34,Leicester,United Kingdom,LE,ava.mitchell720@yahoo.co.uk,Platinum,2026-07-20,Yes
+GST00662,James,Green,M,35-44,London,United Kingdom,SE,james.green288@gmail.com,Non-member,,No
+GST00663,Georgia,Baker,F,45-54,Leeds,United Kingdom,LS,georgia.baker413@outlook.com,Bronze,2018-01-17,Yes
+GST00664,Fatima,Ahmed,F,25-34,Sydney,Australia,,fatima.ahmed804@outlook.com,Silver,2018-03-09,Yes
+GST00665,Callum,Turner,M,45-54,Nottingham,United Kingdom,NG,callum.turner56@gmail.com,Bronze,2025-08-12,Yes
+GST00666,Mohammed,Cooper,M,25-34,Edinburgh,United Kingdom,EH,mohammed.cooper490@outlook.com,Platinum,2023-03-28,No
+GST00667,Aisha,Cooper,F,45-54,Birmingham,United Kingdom,B,aisha.cooper219@yahoo.co.uk,Gold,2024-12-14,Yes
+GST00668,Samuel,Wright,M,55-64,Mumbai,India,,samuel.wright629@icloud.com,Silver,2018-03-06,No
+GST00669,Lucy,Campbell,F,18-24,Cardiff,United Kingdom,CF,lucy.campbell702@yahoo.co.uk,Non-member,,Yes
+GST00670,Mohammed,Ali,M,55-64,Manchester,United Kingdom,M,mohammed.ali221@hotmail.com,Platinum,2025-06-24,Yes
+GST00671,Charlie,Edwards,M,55-64,Newcastle,United Kingdom,NE,charlie.edwards659@icloud.com,Bronze,2020-10-28,Yes
+GST00672,Jack,Green,M,25-34,Edinburgh,United Kingdom,EH,jack.green49@gmail.com,Bronze,2020-12-26,Yes
+GST00673,Meera,Carter,F,45-54,Glasgow,United Kingdom,G,meera.carter524@yahoo.co.uk,Non-member,,Yes
+GST00674,Georgia,Clarke,F,18-24,Milan,Italy,,georgia.clarke913@icloud.com,Bronze,2026-07-03,No
+GST00675,Adam,Wright,M,25-34,Newcastle,United Kingdom,NE,adam.wright634@gmail.com,Silver,2020-03-28,Yes
+GST00676,Joshua,Mitchell,M,35-44,Nottingham,United Kingdom,NG,joshua.mitchell795@hotmail.com,Bronze,2026-01-05,No
+GST00677,Olivia,Campbell,F,45-54,Birmingham,United Kingdom,B,olivia.campbell107@yahoo.co.uk,Non-member,,Yes
+GST00678,Yusuf,Cooper,M,35-44,Cambridge,United Kingdom,CB,yusuf.cooper906@proton.me,Silver,2022-10-02,Yes
+GST00679,Jacob,Jones,M,45-54,Leeds,United Kingdom,LS,jacob.jones816@yahoo.co.uk,Gold,2023-11-15,Yes
+GST00680,Evie,Hall,F,25-34,Cambridge,United Kingdom,CB,evie.hall926@icloud.com,Bronze,2018-10-14,Yes
+GST00681,Priya,Campbell,F,25-34,Oxford,United Kingdom,OX,priya.campbell583@gmail.com,Silver,2025-01-03,Yes
+GST00682,Nathan,Turner,M,35-44,Edinburgh,United Kingdom,EH,nathan.turner835@gmail.com,Bronze,2018-06-03,No
+GST00683,William,Edwards,M,25-34,Manchester,United Kingdom,M,william.edwards329@proton.me,Platinum,2025-12-14,No
+GST00684,William,Brown,M,18-24,Newcastle,United Kingdom,NE,william.brown465@yahoo.co.uk,Silver,2023-01-21,No
+GST00685,Ryan,Shah,M,35-44,Sheffield,United Kingdom,S,ryan.shah650@proton.me,Bronze,2021-05-06,Yes
+GST00686,Hannah,Parker,F,45-54,Reading,United Kingdom,RG,hannah.parker358@yahoo.co.uk,Bronze,2019-03-21,Yes
+GST00687,Jessica,Green,F,55-64,Sydney,Australia,,jessica.green352@yahoo.co.uk,Silver,2020-09-25,No
+GST00688,Rebecca,Edwards,F,25-34,Birmingham,United Kingdom,B,rebecca.edwards29@proton.me,Silver,2019-10-12,Yes
+GST00689,Callum,Williams,M,35-44,Cardiff,United Kingdom,CF,callum.williams467@proton.me,Bronze,2018-10-17,Yes
+GST00690,Arjun,Khan,M,35-44,Newcastle,United Kingdom,NE,arjun.khan864@gmail.com,Platinum,2021-01-30,Yes
+GST00691,Yusuf,Martin,M,35-44,Dublin,Ireland,,yusuf.martin40@outlook.com,Non-member,,Yes
+GST00692,Alfie,Robinson,M,35-44,Liverpool,United Kingdom,L,alfie.robinson787@yahoo.co.uk,Bronze,2022-02-07,Yes
+GST00693,Ethan,Hussain,M,65+,Oxford,United Kingdom,OX,ethan.hussain720@hotmail.com,Gold,2019-08-22,No
+GST00694,Luke,Baker,M,35-44,Sheffield,United Kingdom,S,luke.baker427@yahoo.co.uk,Gold,2025-05-03,Yes
+GST00695,Ethan,Baker,M,55-64,Birmingham,United Kingdom,B,ethan.baker957@proton.me,Bronze,2022-06-03,No
+GST00696,Evie,Jackson,F,55-64,Cambridge,United Kingdom,CB,evie.jackson426@proton.me,Silver,2019-11-19,Yes
+GST00697,Freya,Walker,F,25-34,Nottingham,United Kingdom,NG,freya.walker906@icloud.com,Silver,2021-10-11,Yes
+GST00698,Omar,Edwards,M,35-44,Birmingham,United Kingdom,B,omar.edwards25@yahoo.co.uk,Non-member,,No
+GST00699,Fatima,Jones,F,65+,Leeds,United Kingdom,LS,fatima.jones685@yahoo.co.uk,Bronze,2019-04-14,Yes
+GST00700,Maya,Jackson,F,25-34,Edinburgh,United Kingdom,EH,maya.jackson838@icloud.com,Gold,2025-03-03,Yes
+GST00701,Jacob,Cooper,M,45-54,Nottingham,United Kingdom,NG,jacob.cooper702@proton.me,Non-member,,Yes
+GST00702,Evie,Wilson,F,45-54,New York,United States,,evie.wilson856@proton.me,Non-member,,No
+GST00703,Ryan,Fraser,M,55-64,Reading,United Kingdom,RG,ryan.fraser64@yahoo.co.uk,Gold,2023-03-02,No
+GST00704,Lily,Jackson,F,25-34,Oxford,United Kingdom,OX,lily.jackson856@outlook.com,Bronze,2025-11-20,Yes
+GST00705,Nathan,Ahmed,M,25-34,London,United Kingdom,SE,nathan.ahmed208@outlook.com,Silver,2022-08-03,No
+GST00706,Thomas,Phillips,M,35-44,Sheffield,United Kingdom,S,thomas.phillips951@gmail.com,Bronze,2023-10-03,Yes
+GST00707,Charlie,Patel,M,25-34,Birmingham,United Kingdom,B,charlie.patel579@gmail.com,Platinum,2020-01-05,Yes
+GST00708,Priya,Cooper,F,25-34,Nottingham,United Kingdom,NG,priya.cooper562@proton.me,Bronze,2022-12-05,Yes
+GST00709,Nadia,Walker,F,18-24,Birmingham,United Kingdom,B,nadia.walker827@proton.me,Silver,2022-04-12,Yes
+GST00710,Nathan,Stewart,M,25-34,Nottingham,United Kingdom,NG,nathan.stewart547@icloud.com,Bronze,2018-04-24,Yes
+GST00711,Daniel,Murray,M,25-34,Manchester,United Kingdom,M,daniel.murray388@gmail.com,Non-member,,Yes
+GST00712,Alice,Fraser,F,25-34,Sydney,Australia,,alice.fraser559@proton.me,Bronze,2021-07-17,Yes
+GST00713,Leo,Evans,M,55-64,Birmingham,United Kingdom,B,leo.evans93@yahoo.co.uk,Bronze,2020-04-07,Yes
+GST00714,Amelia,Gupta,F,55-64,Leicester,United Kingdom,LE,amelia.gupta367@proton.me,Non-member,,Yes
+GST00715,Freya,Edwards,F,25-34,Cambridge,United Kingdom,CB,freya.edwards939@gmail.com,Silver,2018-10-27,Yes
+GST00716,Sophie,Wright,F,45-54,Madrid,Spain,,sophie.wright838@yahoo.co.uk,Bronze,2022-05-12,Yes
+GST00717,Evie,Evans,F,35-44,New York,United States,,evie.evans655@icloud.com,Gold,2020-09-26,Yes
+GST00718,Callum,Stewart,M,25-34,London,United Kingdom,SE,callum.stewart409@yahoo.co.uk,Gold,2020-02-17,Yes
+GST00719,James,Green,M,55-64,Madrid,Spain,,james.green427@outlook.com,Gold,2025-02-20,Yes
+GST00720,Ryan,Stewart,M,35-44,Cambridge,United Kingdom,CB,ryan.stewart527@gmail.com,Bronze,2019-08-30,Yes
+GST00721,Emily,Harris,F,18-24,Sheffield,United Kingdom,S,emily.harris800@outlook.com,Silver,2018-07-10,Yes
+GST00722,William,Brown,M,35-44,Glasgow,United Kingdom,G,william.brown676@outlook.com,Non-member,,No
+GST00723,William,Hall,M,35-44,Reading,United Kingdom,RG,william.hall738@proton.me,Gold,2019-02-10,No
+GST00724,Priya,Williams,F,45-54,Toronto,Canada,,priya.williams789@yahoo.co.uk,Platinum,2019-03-10,Yes
+GST00725,Alice,Jones,F,45-54,London,United Kingdom,SE,alice.jones11@icloud.com,Bronze,2024-11-18,No
+GST00726,Daniel,Morris,M,45-54,Milan,Italy,,daniel.morris799@hotmail.com,Silver,2026-06-10,No
+GST00727,Bethany,Campbell,F,35-44,Glasgow,United Kingdom,G,bethany.campbell250@icloud.com,Bronze,2019-01-13,No
+GST00728,Leah,Green,F,35-44,Cambridge,United Kingdom,CB,leah.green18@gmail.com,Bronze,2023-10-30,Yes
+GST00729,Nathan,Hussain,M,25-34,Leicester,United Kingdom,LE,nathan.hussain861@gmail.com,Non-member,,Yes
+GST00730,Samuel,Hall,M,35-44,Madrid,Spain,,samuel.hall912@icloud.com,Gold,2021-10-26,Yes
+GST00731,Nathan,Jones,M,25-34,Leeds,United Kingdom,LS,nathan.jones651@proton.me,Bronze,2022-01-12,Yes
+GST00732,Samuel,Stewart,M,18-24,Glasgow,United Kingdom,G,samuel.stewart199@outlook.com,Silver,2019-04-04,Yes
+GST00733,Charlie,Singh,M,25-34,Cardiff,United Kingdom,CF,charlie.singh181@yahoo.co.uk,Silver,2019-11-05,Yes
+GST00734,William,Ali,M,45-54,Mumbai,India,,william.ali553@hotmail.com,Bronze,2025-10-20,No
+GST00735,Georgia,Turner,F,45-54,Sheffield,United Kingdom,S,georgia.turner298@hotmail.com,Silver,2019-03-09,Yes
+GST00736,Joshua,Mitchell,M,35-44,Cambridge,United Kingdom,CB,joshua.mitchell108@hotmail.com,Bronze,2021-10-18,No
+GST00737,Thomas,Mitchell,M,35-44,Cardiff,United Kingdom,CF,thomas.mitchell389@outlook.com,Bronze,2026-02-18,Yes
+GST00738,Leah,Edwards,F,25-34,Bristol,United Kingdom,BS,leah.edwards569@icloud.com,Non-member,,Yes
+GST00739,Harry,Murray,M,18-24,Cambridge,United Kingdom,CB,harry.murray793@proton.me,Bronze,2019-02-19,No
+GST00740,Adam,Evans,M,25-34,Sydney,Australia,,adam.evans95@proton.me,Non-member,,Yes
+GST00741,Amelia,Johnson,F,18-24,London,United Kingdom,SE,amelia.johnson60@hotmail.com,Silver,2020-02-22,Yes
+GST00742,Olivia,Clarke,F,45-54,Edinburgh,United Kingdom,EH,olivia.clarke167@outlook.com,Bronze,2019-12-26,Yes
+GST00743,Evie,Murray,F,25-34,Newcastle,United Kingdom,NE,evie.murray181@icloud.com,Non-member,,Yes
+GST00744,Priya,Edwards,F,45-54,Leicester,United Kingdom,LE,priya.edwards328@outlook.com,Bronze,2019-09-30,Yes
+GST00745,Maya,Martin,F,25-34,New York,United States,,maya.martin38@icloud.com,Silver,2019-10-27,Yes
+GST00746,Alfie,Fraser,M,25-34,Berlin,Germany,,alfie.fraser334@proton.me,Silver,2025-03-29,Yes
+GST00747,Lily,Shah,F,55-64,Edinburgh,United Kingdom,EH,lily.shah834@hotmail.com,Non-member,,Yes
+GST00748,Omar,Evans,M,35-44,Madrid,Spain,,omar.evans515@icloud.com,Non-member,,Yes
+GST00749,Meera,Johnson,F,55-64,Edinburgh,United Kingdom,EH,meera.johnson902@outlook.com,Silver,2023-03-04,Yes
+GST00750,Jacob,Evans,M,25-34,New York,United States,,jacob.evans880@outlook.com,Bronze,2019-02-26,Yes
+GST00751,Nathan,White,M,55-64,Paris,France,,nathan.white594@yahoo.co.uk,Bronze,2019-08-09,Yes
+GST00752,Samuel,Harris,M,55-64,Reading,United Kingdom,RG,samuel.harris935@icloud.com,Silver,2018-03-16,No
+GST00753,Arjun,Murray,M,65+,New York,United States,,arjun.murray496@gmail.com,Gold,2020-03-12,Yes
+GST00754,Evie,Collins,F,35-44,Paris,France,,evie.collins453@outlook.com,Silver,2019-01-31,Yes
+GST00755,Alfie,Parker,M,45-54,Cardiff,United Kingdom,CF,alfie.parker888@outlook.com,Bronze,2025-09-13,Yes
+GST00756,Leo,Wilson,M,65+,Cambridge,United Kingdom,CB,leo.wilson993@outlook.com,Bronze,2025-10-28,Yes
+GST00757,Georgia,Davies,F,35-44,Glasgow,United Kingdom,G,georgia.davies648@proton.me,Gold,2022-07-01,No
+GST00758,Georgia,Davies,F,25-34,Mumbai,India,,georgia.davies820@proton.me,Gold,2018-11-10,Yes
+GST00759,Freya,Collins,F,25-34,Glasgow,United Kingdom,G,freya.collins65@hotmail.com,Gold,2024-08-05,Yes
+GST00760,Ananya,Khan,F,35-44,Birmingham,United Kingdom,B,ananya.khan411@yahoo.co.uk,Silver,2018-06-11,No
+GST00761,Thomas,Morris,M,35-44,Liverpool,United Kingdom,L,thomas.morris352@yahoo.co.uk,Gold,2018-12-15,Yes
+GST00762,Luke,Turner,M,45-54,Newcastle,United Kingdom,NE,luke.turner637@gmail.com,Bronze,2021-08-16,Yes
+GST00763,Hannah,Khan,F,35-44,Sheffield,United Kingdom,S,hannah.khan703@outlook.com,Bronze,2022-04-01,Yes
+GST00764,Rebecca,Taylor,F,45-54,Leeds,United Kingdom,LS,rebecca.taylor825@outlook.com,Bronze,2022-07-13,No
+GST00765,Leah,Harris,F,25-34,Leeds,United Kingdom,LS,leah.harris516@outlook.com,Silver,2021-11-11,Yes
+GST00766,Sophie,Khan,F,35-44,Amsterdam,Netherlands,,sophie.khan415@gmail.com,Non-member,,No
+GST00767,Olivia,Robinson,F,35-44,Leicester,United Kingdom,LE,olivia.robinson103@icloud.com,Silver,2019-12-18,Yes
+GST00768,Amelia,Gupta,F,35-44,Amsterdam,Netherlands,,amelia.gupta341@yahoo.co.uk,Gold,2019-07-22,No
+GST00769,Luke,Cooper,M,55-64,New York,United States,,luke.cooper793@outlook.com,Non-member,,No
+GST00770,Oscar,Singh,M,25-34,Bristol,United Kingdom,BS,oscar.singh589@yahoo.co.uk,Bronze,2019-11-25,No
+GST00771,Thomas,Wood,M,18-24,Glasgow,United Kingdom,G,thomas.wood890@yahoo.co.uk,Gold,2019-08-08,Yes
+GST00772,Thomas,Stewart,M,18-24,Newcastle,United Kingdom,NE,thomas.stewart564@icloud.com,Non-member,,Yes
+GST00773,Sophie,Jackson,F,18-24,Milan,Italy,,sophie.jackson714@hotmail.com,Bronze,2024-07-13,Yes
+GST00774,Fatima,Williams,F,55-64,Leicester,United Kingdom,LE,fatima.williams136@icloud.com,Silver,2022-08-07,Yes
+GST00775,Oscar,Patel,M,35-44,Toronto,Canada,,oscar.patel3@proton.me,Bronze,2024-07-08,Yes
+GST00776,Matthew,Mehta,M,35-44,Milan,Italy,,matthew.mehta126@proton.me,Bronze,2021-04-11,No
+GST00777,Alfie,Stewart,M,65+,Amsterdam,Netherlands,,alfie.stewart939@proton.me,Bronze,2020-05-21,No
+GST00778,Freya,Hussain,F,25-34,Leeds,United Kingdom,LS,freya.hussain729@icloud.com,Gold,2026-06-18,Yes
+GST00779,Meera,Edwards,F,25-34,Amsterdam,Netherlands,,meera.edwards159@yahoo.co.uk,Bronze,2020-03-19,Yes
+GST00780,Leo,Fraser,M,45-54,Edinburgh,United Kingdom,EH,leo.fraser726@gmail.com,Gold,2026-08-01,Yes
+GST00781,Callum,Fraser,M,25-34,Cambridge,United Kingdom,CB,callum.fraser948@gmail.com,Non-member,,Yes
+GST00782,Isla,Reid,F,25-34,Glasgow,United Kingdom,G,isla.reid447@icloud.com,Bronze,2022-08-10,Yes
+GST00783,Matthew,Wood,M,35-44,Newcastle,United Kingdom,NE,matthew.wood281@yahoo.co.uk,Silver,2021-12-26,Yes
+GST00784,Fatima,Mehta,F,18-24,Amsterdam,Netherlands,,fatima.mehta622@yahoo.co.uk,Non-member,,Yes
+GST00785,Yusuf,Cooper,M,35-44,Edinburgh,United Kingdom,EH,yusuf.cooper397@hotmail.com,Silver,2022-03-20,No
+GST00786,Priya,Robinson,F,65+,Cardiff,United Kingdom,CF,priya.robinson126@gmail.com,Bronze,2019-07-12,No
+GST00787,David,Stewart,M,25-34,Edinburgh,United Kingdom,EH,david.stewart966@outlook.com,Non-member,,Yes
+GST00788,Evie,Taylor,F,25-34,Birmingham,United Kingdom,B,evie.taylor702@gmail.com,Silver,2019-05-19,Yes
+GST00789,Isla,Jones,F,35-44,Liverpool,United Kingdom,L,isla.jones435@hotmail.com,Gold,2020-05-14,Yes
+GST00790,Omar,Ahmed,M,35-44,Birmingham,United Kingdom,B,omar.ahmed35@icloud.com,Bronze,2026-07-03,No
+GST00791,Georgia,Hussain,F,35-44,Nottingham,United Kingdom,NG,georgia.hussain880@icloud.com,Bronze,2021-08-12,Yes
+GST00792,David,King,M,25-34,Leeds,United Kingdom,LS,david.king869@gmail.com,Silver,2026-04-19,Yes
+GST00793,Yusuf,Green,M,55-64,Glasgow,United Kingdom,G,yusuf.green554@proton.me,Silver,2024-10-26,Yes
+GST00794,Ava,Khan,F,25-34,Birmingham,United Kingdom,B,ava.khan484@hotmail.com,Bronze,2019-03-22,Yes
+GST00795,Leah,Smith,F,18-24,Glasgow,United Kingdom,G,leah.smith58@icloud.com,Silver,2019-11-23,Yes
+GST00796,Leo,Brown,M,45-54,Edinburgh,United Kingdom,EH,leo.brown343@outlook.com,Silver,2024-06-02,Yes
+GST00797,Arjun,Hall,M,25-34,New York,United States,,arjun.hall434@gmail.com,Bronze,2026-04-04,No
+GST00798,Harry,Morris,M,35-44,Newcastle,United Kingdom,NE,harry.morris961@icloud.com,Non-member,,Yes
+GST00799,Ella,Turner,F,35-44,London,United Kingdom,SE,ella.turner122@hotmail.com,Bronze,2025-02-22,Yes
+GST00800,Sara,Collins,F,25-34,Bristol,United Kingdom,BS,sara.collins292@outlook.com,Bronze,2024-04-21,No
+GST00801,George,Wilson,M,45-54,Newcastle,United Kingdom,NE,george.wilson131@proton.me,Gold,2021-03-22,Yes
+GST00802,Matthew,Cooper,M,55-64,Edinburgh,United Kingdom,EH,matthew.cooper933@gmail.com,Bronze,2020-06-07,No
+GST00803,Hannah,Stewart,F,35-44,Birmingham,United Kingdom,B,hannah.stewart939@proton.me,Silver,2021-08-06,Yes
+GST00804,Noah,Davies,M,35-44,Glasgow,United Kingdom,G,noah.davies668@outlook.com,Bronze,2022-09-27,Yes
+GST00805,Maya,Fraser,F,25-34,New York,United States,,maya.fraser190@yahoo.co.uk,Silver,2021-07-14,Yes
+GST00806,Nathan,Patel,M,25-34,Leeds,United Kingdom,LS,nathan.patel376@gmail.com,Bronze,2022-02-11,Yes
+GST00807,James,Murray,M,35-44,Amsterdam,Netherlands,,james.murray336@hotmail.com,Silver,2022-02-23,Yes
+GST00808,Rebecca,Gupta,F,25-34,Birmingham,United Kingdom,B,rebecca.gupta470@proton.me,Bronze,2020-05-29,Yes
+GST00809,Mohammed,Hall,M,35-44,Oxford,United Kingdom,OX,mohammed.hall562@proton.me,Platinum,2018-06-04,Yes
+GST00810,David,Stewart,M,45-54,Manchester,United Kingdom,M,david.stewart504@yahoo.co.uk,Non-member,,Yes
+GST00811,Amelia,Phillips,F,45-54,Reading,United Kingdom,RG,amelia.phillips459@yahoo.co.uk,Bronze,2019-12-05,Yes
+GST00812,Luke,Collins,M,45-54,Amsterdam,Netherlands,,luke.collins553@icloud.com,Bronze,2020-08-19,Yes
+GST00813,Olivia,Gupta,F,25-34,Glasgow,United Kingdom,G,olivia.gupta778@hotmail.com,Silver,2025-05-20,Yes
+GST00814,Lily,Jackson,F,55-64,Manchester,United Kingdom,M,lily.jackson717@yahoo.co.uk,Non-member,,Yes
+GST00815,Freya,Campbell,F,25-34,Manchester,United Kingdom,M,freya.campbell189@proton.me,Bronze,2020-07-31,Yes
+GST00816,George,Edwards,M,45-54,Manchester,United Kingdom,M,george.edwards652@proton.me,Silver,2021-06-09,Yes
+GST00817,Freya,Wood,F,65+,Milan,Italy,,freya.wood400@yahoo.co.uk,Gold,2023-05-28,Yes
+GST00818,Ethan,Johnson,M,65+,Leicester,United Kingdom,LE,ethan.johnson868@gmail.com,Bronze,2019-07-23,Yes
+GST00819,Oscar,Ahmed,M,25-34,Leicester,United Kingdom,LE,oscar.ahmed614@proton.me,Bronze,2025-06-23,Yes
+GST00820,Lucy,Edwards,F,25-34,Cambridge,United Kingdom,CB,lucy.edwards946@icloud.com,Silver,2024-11-17,Yes
+GST00821,Chloe,Thompson,F,45-54,Milan,Italy,,chloe.thompson474@icloud.com,Silver,2023-03-26,Yes
+GST00822,Oscar,Mitchell,M,35-44,Reading,United Kingdom,RG,oscar.mitchell846@outlook.com,Gold,2019-04-23,Yes
+GST00823,Grace,Jones,F,35-44,Bristol,United Kingdom,BS,grace.jones517@proton.me,Gold,2018-04-21,No
+GST00824,Jack,Ali,M,25-34,Leeds,United Kingdom,LS,jack.ali62@outlook.com,Bronze,2025-06-10,Yes
+GST00825,Charlotte,Singh,F,55-64,London,United Kingdom,SE,charlotte.singh176@yahoo.co.uk,Silver,2020-05-27,No
+GST00826,Olivia,Carter,F,35-44,Reading,United Kingdom,RG,olivia.carter282@outlook.com,Silver,2024-01-21,Yes
+GST00827,Alfie,Cooper,M,35-44,Cambridge,United Kingdom,CB,alfie.cooper205@gmail.com,Bronze,2022-05-19,No
+GST00828,Lily,Reid,F,35-44,Manchester,United Kingdom,M,lily.reid564@proton.me,Silver,2020-02-29,Yes
+GST00829,Charlie,White,M,35-44,Edinburgh,United Kingdom,EH,charlie.white559@icloud.com,Bronze,2020-11-20,Yes
+GST00830,Rohan,Reid,M,35-44,Madrid,Spain,,rohan.reid110@proton.me,Silver,2025-06-13,Yes
+GST00831,Charlotte,Hussain,F,35-44,Edinburgh,United Kingdom,EH,charlotte.hussain895@icloud.com,Silver,2025-07-20,Yes
+GST00832,Chloe,Jones,F,25-34,Reading,United Kingdom,RG,chloe.jones361@icloud.com,Non-member,,Yes
+GST00833,Bethany,Mehta,F,65+,Newcastle,United Kingdom,NE,bethany.mehta214@yahoo.co.uk,Non-member,,No
+GST00834,Omar,Walker,M,55-64,Leeds,United Kingdom,LS,omar.walker630@icloud.com,Platinum,2021-06-09,Yes
+GST00835,William,Clarke,M,25-34,Oxford,United Kingdom,OX,william.clarke541@outlook.com,Platinum,2021-04-17,Yes
+GST00836,Sara,Gupta,F,25-34,Edinburgh,United Kingdom,EH,sara.gupta298@outlook.com,Silver,2021-09-15,Yes
+GST00837,Matthew,Cooper,M,45-54,Leicester,United Kingdom,LE,matthew.cooper344@gmail.com,Silver,2022-06-20,Yes
+GST00838,George,Evans,M,45-54,Milan,Italy,,george.evans494@yahoo.co.uk,Silver,2024-10-15,Yes
+GST00839,Jacob,Walker,M,45-54,Bristol,United Kingdom,BS,jacob.walker829@yahoo.co.uk,Bronze,2020-06-17,Yes
+GST00840,Jessica,Green,F,25-34,Sydney,Australia,,jessica.green117@gmail.com,Silver,2019-02-02,No
+GST00841,Meera,Stewart,F,45-54,Liverpool,United Kingdom,L,meera.stewart352@yahoo.co.uk,Non-member,,Yes
+GST00842,Freya,Collins,F,55-64,Manchester,United Kingdom,M,freya.collins656@gmail.com,Silver,2025-12-05,Yes
+GST00843,Priya,White,F,35-44,Leicester,United Kingdom,LE,priya.white725@hotmail.com,Platinum,2021-05-18,Yes
+GST00844,Alice,Johnson,F,35-44,Birmingham,United Kingdom,B,alice.johnson710@outlook.com,Silver,2020-01-13,Yes
+GST00845,Amelia,Green,F,35-44,Sydney,Australia,,amelia.green633@yahoo.co.uk,Platinum,2023-09-24,Yes
+GST00846,Freya,Baker,F,18-24,Cardiff,United Kingdom,CF,freya.baker638@icloud.com,Non-member,,Yes
+GST00847,Lily,Green,F,35-44,Reading,United Kingdom,RG,lily.green190@yahoo.co.uk,Bronze,2025-06-07,No
+GST00848,Arjun,Harris,M,18-24,Sheffield,United Kingdom,S,arjun.harris250@icloud.com,Gold,2022-03-02,Yes
+GST00849,Isla,Parker,F,45-54,Cambridge,United Kingdom,CB,isla.parker538@proton.me,Bronze,2025-11-19,Yes
+GST00850,Matthew,Harris,M,25-34,London,United Kingdom,SE,matthew.harris414@outlook.com,Bronze,2019-02-09,Yes
+GST00851,Mohammed,Mitchell,M,18-24,Leicester,United Kingdom,LE,mohammed.mitchell459@outlook.com,Silver,2024-03-28,No
+GST00852,Grace,Taylor,F,35-44,Birmingham,United Kingdom,B,grace.taylor824@outlook.com,Non-member,,Yes
+GST00853,Sophie,Wilson,F,18-24,Reading,United Kingdom,RG,sophie.wilson912@hotmail.com,Silver,2022-03-09,No
+GST00854,Sara,Robinson,F,35-44,London,United Kingdom,SE,sara.robinson182@yahoo.co.uk,Silver,2020-11-22,Yes
+GST00855,Jacob,Gupta,M,45-54,Milan,Italy,,jacob.gupta24@gmail.com,Silver,2020-03-11,No
+GST00856,Lewis,Hussain,M,65+,Birmingham,United Kingdom,B,lewis.hussain844@proton.me,Bronze,2025-12-21,Yes
+GST00857,Sophie,Stewart,F,45-54,London,United Kingdom,SE,sophie.stewart419@proton.me,Platinum,2019-03-24,Yes
+GST00858,Jack,Walker,M,18-24,Nottingham,United Kingdom,NG,jack.walker969@yahoo.co.uk,Bronze,2020-05-08,No
+GST00859,Isla,Mehta,F,25-34,Liverpool,United Kingdom,L,isla.mehta559@hotmail.com,Silver,2018-09-08,Yes
+GST00860,Mohammed,Patel,M,55-64,Sheffield,United Kingdom,S,mohammed.patel534@hotmail.com,Silver,2020-01-25,Yes
+GST00861,Noah,Parker,M,45-54,Newcastle,United Kingdom,NE,noah.parker669@yahoo.co.uk,Non-member,,No
+GST00862,James,White,M,55-64,Glasgow,United Kingdom,G,james.white667@gmail.com,Non-member,,Yes
+GST00863,Ava,King,F,45-54,Nottingham,United Kingdom,NG,ava.king184@icloud.com,Bronze,2024-11-15,Yes
+GST00864,Arjun,Martin,M,35-44,London,United Kingdom,SE,arjun.martin922@outlook.com,Bronze,2019-11-27,Yes
+GST00865,Chloe,Ali,F,35-44,Bristol,United Kingdom,BS,chloe.ali92@gmail.com,Silver,2024-02-20,Yes
+GST00866,Georgia,Reid,F,18-24,Birmingham,United Kingdom,B,georgia.reid765@yahoo.co.uk,Bronze,2023-05-14,Yes
+GST00867,Bethany,Patel,F,35-44,Milan,Italy,,bethany.patel442@outlook.com,Non-member,,Yes
+GST00868,Nathan,Thompson,M,25-34,Sydney,Australia,,nathan.thompson764@yahoo.co.uk,Bronze,2023-04-06,Yes
+GST00869,Sophie,Jackson,F,45-54,Birmingham,United Kingdom,B,sophie.jackson844@gmail.com,Bronze,2024-12-21,No
+GST00870,Sophie,Williams,F,45-54,Newcastle,United Kingdom,NE,sophie.williams974@gmail.com,Bronze,2019-08-21,No
+GST00871,James,Murray,M,25-34,Sheffield,United Kingdom,S,james.murray566@gmail.com,Bronze,2025-09-22,No
+GST00872,Olivia,Turner,F,35-44,Liverpool,United Kingdom,L,olivia.turner549@icloud.com,Silver,2025-04-08,No
+GST00873,Daniel,Clarke,M,18-24,Reading,United Kingdom,RG,daniel.clarke965@proton.me,Bronze,2025-08-16,No
+GST00874,Samuel,Campbell,M,45-54,Toronto,Canada,,samuel.campbell92@hotmail.com,Bronze,2020-03-19,No
+GST00875,Emily,White,F,18-24,Birmingham,United Kingdom,B,emily.white177@hotmail.com,Gold,2026-01-14,No
+GST00876,Alice,Wilson,F,65+,Leicester,United Kingdom,LE,alice.wilson738@proton.me,Gold,2018-02-05,Yes
+GST00877,Sara,Fraser,F,55-64,Manchester,United Kingdom,M,sara.fraser155@icloud.com,Silver,2019-11-23,Yes
+GST00878,Alice,Hussain,F,35-44,Reading,United Kingdom,RG,alice.hussain113@outlook.com,Gold,2019-09-06,Yes
+GST00879,Benjamin,Evans,M,18-24,London,United Kingdom,SE,benjamin.evans601@yahoo.co.uk,Silver,2021-10-07,No
+GST00880,Meera,Williams,F,25-34,New York,United States,,meera.williams580@outlook.com,Bronze,2022-09-11,Yes
+GST00881,Joshua,Wood,M,65+,London,United Kingdom,SE,joshua.wood249@outlook.com,Bronze,2021-08-31,Yes
+GST00882,Luke,Clarke,M,35-44,Sydney,Australia,,luke.clarke564@proton.me,Non-member,,No
+GST00883,Freya,Baker,F,35-44,Milan,Italy,,freya.baker955@gmail.com,Bronze,2023-04-15,Yes
+GST00884,Jacob,Campbell,M,55-64,Toronto,Canada,,jacob.campbell148@proton.me,Non-member,,Yes
+GST00885,Benjamin,Hall,M,35-44,Glasgow,United Kingdom,G,benjamin.hall859@yahoo.co.uk,Gold,2022-01-19,No
+GST00886,Aisha,Jones,F,25-34,Newcastle,United Kingdom,NE,aisha.jones665@gmail.com,Gold,2018-01-19,No
+GST00887,Lily,Clarke,F,25-34,Edinburgh,United Kingdom,EH,lily.clarke705@gmail.com,Platinum,2022-11-19,No
+GST00888,Harry,Robinson,M,55-64,New York,United States,,harry.robinson303@icloud.com,Bronze,2018-02-24,Yes
+GST00889,Chloe,Martin,F,45-54,Oxford,United Kingdom,OX,chloe.martin881@outlook.com,Silver,2021-10-10,No
+GST00890,William,Hall,M,35-44,Glasgow,United Kingdom,G,william.hall434@gmail.com,Silver,2023-05-10,Yes
+GST00891,Thomas,Thompson,M,25-34,Newcastle,United Kingdom,NE,thomas.thompson911@icloud.com,Bronze,2020-03-15,Yes
+GST00892,Georgia,Wilson,F,45-54,Cardiff,United Kingdom,CF,georgia.wilson70@outlook.com,Bronze,2018-08-23,Yes
+GST00893,Leah,Campbell,F,65+,Cambridge,United Kingdom,CB,leah.campbell745@yahoo.co.uk,Bronze,2019-03-07,Yes
+GST00894,David,Baker,M,45-54,Sheffield,United Kingdom,S,david.baker393@gmail.com,Non-member,,No
+GST00895,Thomas,Wright,M,55-64,Oxford,United Kingdom,OX,thomas.wright321@gmail.com,Bronze,2019-07-27,No
+GST00896,Emily,Morris,F,55-64,Leicester,United Kingdom,LE,emily.morris196@yahoo.co.uk,Platinum,2018-08-01,Yes
+GST00897,Rohan,Fraser,M,25-34,Reading,United Kingdom,RG,rohan.fraser983@hotmail.com,Bronze,2021-06-04,No
+GST00898,Mia,Smith,F,25-34,Birmingham,United Kingdom,B,mia.smith878@hotmail.com,Gold,2026-07-04,No
+GST00899,Luke,Wood,M,45-54,Sheffield,United Kingdom,S,luke.wood584@proton.me,Gold,2019-09-05,No
+GST00900,Noah,Clarke,M,35-44,Manchester,United Kingdom,M,noah.clarke890@hotmail.com,Gold,2025-06-22,No
+GST00901,Leah,Wood,F,25-34,Birmingham,United Kingdom,B,leah.wood496@yahoo.co.uk,Silver,2025-03-29,Yes
+GST00902,Adam,Cooper,M,18-24,Paris,France,,adam.cooper954@outlook.com,Silver,2019-01-12,Yes
+GST00903,Chloe,Khan,F,25-34,Amsterdam,Netherlands,,chloe.khan909@proton.me,Gold,2018-08-26,Yes
+GST00904,Ryan,Martin,M,55-64,Edinburgh,United Kingdom,EH,ryan.martin670@proton.me,Non-member,,Yes
+GST00905,Rohan,Fraser,M,65+,Bristol,United Kingdom,BS,rohan.fraser630@gmail.com,Bronze,2023-09-24,No
+GST00906,Olivia,Campbell,F,65+,Nottingham,United Kingdom,NG,olivia.campbell240@gmail.com,Gold,2024-01-31,No
+GST00907,Henry,Evans,M,45-54,Sheffield,United Kingdom,S,henry.evans450@outlook.com,Bronze,2018-06-18,Yes
+GST00908,Samuel,Carter,M,25-34,Edinburgh,United Kingdom,EH,samuel.carter492@gmail.com,Gold,2020-06-23,Yes
+GST00909,Jack,Johnson,M,18-24,Edinburgh,United Kingdom,EH,jack.johnson230@yahoo.co.uk,Bronze,2020-11-01,Yes
+GST00910,Hannah,Wilson,F,35-44,Bristol,United Kingdom,BS,hannah.wilson881@proton.me,Silver,2024-01-19,Yes
+GST00911,Zara,Smith,F,25-34,Bristol,United Kingdom,BS,zara.smith688@outlook.com,Silver,2019-10-28,No
+GST00912,Freya,Cooper,F,25-34,Edinburgh,United Kingdom,EH,freya.cooper166@proton.me,Silver,2022-11-20,Yes
+GST00913,Leo,Shah,M,25-34,Glasgow,United Kingdom,G,leo.shah878@proton.me,Platinum,2018-02-20,Yes
+GST00914,Ethan,Phillips,M,35-44,Manchester,United Kingdom,M,ethan.phillips413@gmail.com,Platinum,2023-07-24,Yes
+GST00915,Lucy,Patel,F,65+,Leeds,United Kingdom,LS,lucy.patel768@proton.me,Non-member,,Yes
+GST00916,Ella,Mitchell,F,25-34,London,United Kingdom,SE,ella.mitchell45@icloud.com,Gold,2019-12-04,No
+GST00917,Sara,Clarke,F,45-54,Dublin,Ireland,,sara.clarke961@icloud.com,Bronze,2025-03-15,Yes
+GST00918,Sophia,Mitchell,F,45-54,Glasgow,United Kingdom,G,sophia.mitchell926@proton.me,Bronze,2026-03-06,Yes
+GST00919,Zara,Mehta,F,35-44,Oxford,United Kingdom,OX,zara.mehta3@yahoo.co.uk,Bronze,2022-10-20,Yes
+GST00920,Sara,Ahmed,F,25-34,Nottingham,United Kingdom,NG,sara.ahmed859@hotmail.com,Bronze,2019-05-03,Yes
+GST00921,Georgia,Hall,F,25-34,Cardiff,United Kingdom,CF,georgia.hall816@yahoo.co.uk,Silver,2025-03-07,Yes
+GST00922,Daniel,Robinson,M,25-34,Newcastle,United Kingdom,NE,daniel.robinson668@gmail.com,Silver,2025-04-27,Yes
+GST00923,Charlotte,Cooper,F,45-54,Reading,United Kingdom,RG,charlotte.cooper157@yahoo.co.uk,Bronze,2024-10-05,No
+GST00924,Lewis,Gupta,M,25-34,Leicester,United Kingdom,LE,lewis.gupta883@hotmail.com,Gold,2025-04-04,Yes
+GST00925,Ethan,King,M,35-44,Reading,United Kingdom,RG,ethan.king70@icloud.com,Non-member,,Yes
+GST00926,Lewis,Smith,M,45-54,Bristol,United Kingdom,BS,lewis.smith340@proton.me,Non-member,,Yes
+GST00927,Alfie,Edwards,M,35-44,Paris,France,,alfie.edwards367@outlook.com,Non-member,,Yes
+GST00928,Bethany,Parker,F,35-44,Cardiff,United Kingdom,CF,bethany.parker66@yahoo.co.uk,Bronze,2025-09-14,Yes
+GST00929,Jessica,Campbell,F,55-64,Nottingham,United Kingdom,NG,jessica.campbell491@icloud.com,Gold,2021-09-01,Yes
+GST00930,Sara,Johnson,F,35-44,Edinburgh,United Kingdom,EH,sara.johnson880@icloud.com,Non-member,,Yes
+GST00931,Bethany,White,F,55-64,Madrid,Spain,,bethany.white557@outlook.com,Silver,2020-10-30,Yes
+GST00932,Ethan,Morris,M,45-54,Berlin,Germany,,ethan.morris203@icloud.com,Non-member,,No
+GST00933,Callum,Stewart,M,35-44,Cambridge,United Kingdom,CB,callum.stewart641@gmail.com,Bronze,2019-08-27,Yes
+GST00934,Amelia,Martin,F,55-64,Reading,United Kingdom,RG,amelia.martin662@proton.me,Bronze,2023-07-05,Yes
+GST00935,Oliver,Thompson,M,25-34,Nottingham,United Kingdom,NG,oliver.thompson187@icloud.com,Non-member,,Yes
+GST00936,Zara,Ali,F,45-54,Mumbai,India,,zara.ali635@proton.me,Non-member,,Yes
+GST00937,Harry,Reid,M,35-44,Oxford,United Kingdom,OX,harry.reid729@outlook.com,Bronze,2026-07-20,Yes
+GST00938,Benjamin,Baker,M,45-54,Edinburgh,United Kingdom,EH,benjamin.baker843@yahoo.co.uk,Bronze,2024-04-25,Yes
+GST00939,Priya,Reid,F,35-44,Cardiff,United Kingdom,CF,priya.reid396@gmail.com,Gold,2026-04-16,Yes
+GST00940,Ella,Patel,F,65+,Leeds,United Kingdom,LS,ella.patel45@proton.me,Silver,2025-02-01,Yes
+GST00941,Matthew,Baker,M,25-34,Sheffield,United Kingdom,S,matthew.baker933@yahoo.co.uk,Silver,2023-01-19,No
+GST00942,Rebecca,Johnson,F,45-54,Reading,United Kingdom,RG,rebecca.johnson196@proton.me,Bronze,2025-09-23,Yes
+GST00943,Jacob,Wright,M,35-44,Bristol,United Kingdom,BS,jacob.wright856@proton.me,Bronze,2019-10-10,Yes
+GST00944,Bethany,Campbell,F,45-54,Cardiff,United Kingdom,CF,bethany.campbell118@icloud.com,Silver,2020-03-06,No
+GST00945,Joshua,Hall,M,25-34,Berlin,Germany,,joshua.hall186@icloud.com,Bronze,2026-02-17,Yes
+GST00946,Jack,Taylor,M,25-34,Cambridge,United Kingdom,CB,jack.taylor664@icloud.com,Bronze,2024-03-11,Yes
+GST00947,Benjamin,King,M,25-34,Liverpool,United Kingdom,L,benjamin.king65@icloud.com,Silver,2020-05-16,Yes
+GST00948,Rebecca,Brown,F,35-44,London,United Kingdom,SE,rebecca.brown85@proton.me,Gold,2024-12-28,No
+GST00949,Maya,Turner,F,55-64,Glasgow,United Kingdom,G,maya.turner576@icloud.com,Bronze,2024-12-05,Yes
+GST00950,Sophia,Wood,F,55-64,Sheffield,United Kingdom,S,sophia.wood485@hotmail.com,Bronze,2021-07-06,Yes
+GST00951,Adam,Edwards,M,35-44,Dublin,Ireland,,adam.edwards489@gmail.com,Bronze,2020-04-27,Yes
+GST00952,Daniel,Parker,M,35-44,Reading,United Kingdom,RG,daniel.parker306@icloud.com,Bronze,2023-02-21,Yes
+GST00953,Matthew,Davies,M,18-24,Sydney,Australia,,matthew.davies783@outlook.com,Silver,2021-04-22,Yes
+GST00954,Jacob,Fraser,M,25-34,Sheffield,United Kingdom,S,jacob.fraser808@gmail.com,Bronze,2025-04-17,Yes
+GST00955,Emily,Wilson,F,45-54,Liverpool,United Kingdom,L,emily.wilson502@hotmail.com,Non-member,,Yes
+GST00956,Mohammed,Hussain,M,55-64,Manchester,United Kingdom,M,mohammed.hussain606@proton.me,Silver,2026-06-11,Yes
+GST00957,Ella,Reid,F,35-44,London,United Kingdom,SE,ella.reid436@proton.me,Non-member,,No
+GST00958,Lily,Jones,F,55-64,New York,United States,,lily.jones365@gmail.com,Gold,2024-04-05,Yes
+GST00959,Chloe,Martin,F,45-54,Edinburgh,United Kingdom,EH,chloe.martin735@outlook.com,Silver,2026-02-10,Yes
+GST00960,Samuel,Walker,M,35-44,Newcastle,United Kingdom,NE,samuel.walker249@icloud.com,Silver,2024-09-21,Yes
+GST00961,Chloe,Khan,F,55-64,Liverpool,United Kingdom,L,chloe.khan718@outlook.com,Bronze,2020-10-17,Yes
+GST00962,Omar,Reid,M,25-34,Sheffield,United Kingdom,S,omar.reid974@icloud.com,Silver,2023-04-06,Yes
+GST00963,George,Morris,M,25-34,Birmingham,United Kingdom,B,george.morris617@icloud.com,Bronze,2023-10-16,Yes
+GST00964,Yusuf,Morris,M,18-24,Reading,United Kingdom,RG,yusuf.morris253@proton.me,Silver,2024-04-16,Yes
+GST00965,Georgia,Stewart,F,45-54,Bristol,United Kingdom,BS,georgia.stewart458@proton.me,Bronze,2025-03-31,No
+GST00966,Jack,Parker,M,65+,Amsterdam,Netherlands,,jack.parker617@outlook.com,Silver,2021-07-22,No
+GST00967,Fatima,Davies,F,18-24,Manchester,United Kingdom,M,fatima.davies319@outlook.com,Platinum,2025-03-31,Yes
+GST00968,James,Baker,M,25-34,Birmingham,United Kingdom,B,james.baker748@proton.me,Non-member,,Yes
+GST00969,Leah,Walker,F,65+,Manchester,United Kingdom,M,leah.walker835@proton.me,Platinum,2023-01-12,No
+GST00970,David,Thompson,M,45-54,Newcastle,United Kingdom,NE,david.thompson767@outlook.com,Non-member,,Yes
+GST00971,Meera,Gupta,F,45-54,Cardiff,United Kingdom,CF,meera.gupta10@hotmail.com,Bronze,2021-09-02,Yes
+GST00972,Aisha,Williams,F,45-54,Newcastle,United Kingdom,NE,aisha.williams56@hotmail.com,Bronze,2019-07-05,No
+GST00973,Chloe,Carter,F,55-64,Glasgow,United Kingdom,G,chloe.carter166@outlook.com,Bronze,2025-09-01,No
+GST00974,Lewis,Gupta,M,25-34,Bristol,United Kingdom,BS,lewis.gupta533@hotmail.com,Platinum,2018-02-21,Yes
+GST00975,Freya,Clarke,F,55-64,Oxford,United Kingdom,OX,freya.clarke856@outlook.com,Silver,2018-10-08,Yes
+GST00976,William,Williams,M,18-24,Mumbai,India,,william.williams644@proton.me,Gold,2020-03-04,No
+GST00977,George,Robinson,M,45-54,Nottingham,United Kingdom,NG,george.robinson565@hotmail.com,Silver,2018-02-20,Yes
+GST00978,Zara,Gupta,F,25-34,Cardiff,United Kingdom,CF,zara.gupta336@icloud.com,Non-member,,Yes
+GST00979,Ava,Jones,F,35-44,Cardiff,United Kingdom,CF,ava.jones164@icloud.com,Bronze,2021-09-27,Yes
+GST00980,Hannah,Fraser,F,45-54,Madrid,Spain,,hannah.fraser898@yahoo.co.uk,Gold,2022-12-02,Yes
+GST00981,Zara,Williams,F,45-54,Toronto,Canada,,zara.williams802@proton.me,Bronze,2023-09-12,Yes
+GST00982,Noah,Cooper,M,55-64,Toronto,Canada,,noah.cooper104@hotmail.com,Silver,2024-02-21,No
+GST00983,Chloe,Patel,F,25-34,Newcastle,United Kingdom,NE,chloe.patel717@hotmail.com,Non-member,,Yes
+GST00984,Henry,Wood,M,35-44,Toronto,Canada,,henry.wood585@icloud.com,Bronze,2020-09-10,Yes
+GST00985,Nadia,Wood,F,18-24,Leeds,United Kingdom,LS,nadia.wood525@proton.me,Bronze,2021-10-14,Yes
+GST00986,Charlotte,Shah,F,55-64,Cambridge,United Kingdom,CB,charlotte.shah318@proton.me,Silver,2024-01-07,Yes
+GST00987,Lewis,Edwards,M,35-44,Oxford,United Kingdom,OX,lewis.edwards356@gmail.com,Gold,2026-06-30,Yes
+GST00988,Alfie,Patel,M,45-54,Nottingham,United Kingdom,NG,alfie.patel117@proton.me,Bronze,2026-06-01,No
+GST00989,Georgia,Jones,F,25-34,Cambridge,United Kingdom,CB,georgia.jones16@icloud.com,Gold,2024-04-23,No
+GST00990,Ella,Taylor,F,45-54,Glasgow,United Kingdom,G,ella.taylor615@hotmail.com,Bronze,2023-02-01,No
+GST00991,Zara,Collins,F,55-64,Edinburgh,United Kingdom,EH,zara.collins66@hotmail.com,Silver,2024-02-26,Yes
+GST00992,Mohammed,Clarke,M,45-54,Liverpool,United Kingdom,L,mohammed.clarke429@outlook.com,Bronze,2025-01-15,Yes
+GST00993,Hannah,Shah,F,35-44,Sheffield,United Kingdom,S,hannah.shah846@proton.me,Silver,2026-04-23,Yes
+GST00994,Alice,Carter,F,45-54,Paris,France,,alice.carter438@hotmail.com,Bronze,2021-10-13,No
+GST00995,Alice,Johnson,F,55-64,Manchester,United Kingdom,M,alice.johnson920@outlook.com,Non-member,,Yes
+GST00996,Maya,Hall,F,45-54,Leicester,United Kingdom,LE,maya.hall826@outlook.com,Non-member,,Yes
+GST00997,Luke,King,M,25-34,Cardiff,United Kingdom,CF,luke.king282@yahoo.co.uk,Platinum,2021-03-16,No
+GST00998,James,Stewart,M,35-44,Glasgow,United Kingdom,G,james.stewart917@gmail.com,Bronze,2021-04-10,No
+GST00999,Henry,Davies,M,45-54,London,United Kingdom,SE,henry.davies568@proton.me,Silver,2021-09-02,Yes
+GST01000,Freya,Campbell,F,35-44,Reading,United Kingdom,RG,freya.campbell864@hotmail.com,Bronze,2025-03-13,Yes
+GST01001,Nadia,Wood,F,25-34,Glasgow,United Kingdom,G,nadia.wood176@icloud.com,Silver,2026-07-08,Yes
+GST01002,Matthew,Ali,M,25-34,Reading,United Kingdom,RG,matthew.ali139@hotmail.com,Bronze,2020-04-25,Yes
+GST01003,Ethan,Martin,M,45-54,Toronto,Canada,,ethan.martin708@hotmail.com,Gold,2024-02-24,Yes
+GST01004,Amelia,Shah,F,25-34,Cardiff,United Kingdom,CF,amelia.shah732@icloud.com,Bronze,2019-06-08,No
+GST01005,Evie,Jackson,F,35-44,Sheffield,United Kingdom,S,evie.jackson413@proton.me,Platinum,2018-11-18,No
+GST01006,Alice,King,F,35-44,London,United Kingdom,SE,alice.king628@outlook.com,Silver,2024-08-29,Yes
+GST01007,Sophie,Shah,F,25-34,Newcastle,United Kingdom,NE,sophie.shah374@gmail.com,Bronze,2023-01-08,Yes
+GST01008,Aisha,Patel,F,35-44,Mumbai,India,,aisha.patel429@proton.me,Bronze,2025-09-06,Yes
+GST01009,Jack,Cooper,M,18-24,Manchester,United Kingdom,M,jack.cooper586@hotmail.com,Silver,2024-05-04,Yes
+GST01010,Nadia,Murray,F,55-64,Sheffield,United Kingdom,S,nadia.murray900@hotmail.com,Silver,2025-01-24,Yes
+GST01011,Ananya,Evans,F,35-44,Nottingham,United Kingdom,NG,ananya.evans503@gmail.com,Bronze,2024-03-24,No
+GST01012,Hannah,Ali,F,55-64,Paris,France,,hannah.ali777@gmail.com,Silver,2023-11-30,No
+GST01013,Rohan,Walker,M,65+,New York,United States,,rohan.walker900@gmail.com,Bronze,2024-09-21,Yes
+GST01014,Isla,Evans,F,18-24,Bristol,United Kingdom,BS,isla.evans229@outlook.com,Silver,2022-03-19,Yes
+GST01015,Lily,White,F,18-24,Sydney,Australia,,lily.white797@proton.me,Bronze,2022-02-21,No
+GST01016,Ryan,Jackson,M,35-44,Dublin,Ireland,,ryan.jackson701@gmail.com,Non-member,,Yes
+GST01017,Adam,Cooper,M,25-34,Bristol,United Kingdom,BS,adam.cooper998@outlook.com,Bronze,2026-01-03,Yes
+GST01018,Sophie,White,F,45-54,Newcastle,United Kingdom,NE,sophie.white231@outlook.com,Bronze,2022-07-07,Yes
+GST01019,Leo,Mehta,M,25-34,Cambridge,United Kingdom,CB,leo.mehta547@icloud.com,Non-member,,No
+GST01020,Noah,Fraser,M,18-24,Liverpool,United Kingdom,L,noah.fraser36@hotmail.com,Bronze,2021-02-28,Yes
+GST01021,Luke,Taylor,M,25-34,Liverpool,United Kingdom,L,luke.taylor621@proton.me,Bronze,2026-04-10,Yes
+GST01022,Sophie,Singh,F,65+,Edinburgh,United Kingdom,EH,sophie.singh364@outlook.com,Gold,2023-08-22,Yes
+GST01023,Alice,King,F,35-44,Newcastle,United Kingdom,NE,alice.king859@gmail.com,Bronze,2020-08-29,Yes
+GST01024,Sophia,Brown,F,25-34,Reading,United Kingdom,RG,sophia.brown390@icloud.com,Non-member,,Yes
+GST01025,Charlie,Collins,M,35-44,Edinburgh,United Kingdom,EH,charlie.collins670@proton.me,Non-member,,Yes
+GST01026,Georgia,Cooper,F,45-54,Manchester,United Kingdom,M,georgia.cooper380@gmail.com,Gold,2020-12-11,Yes
+GST01027,Emily,Jackson,F,55-64,Oxford,United Kingdom,OX,emily.jackson558@yahoo.co.uk,Platinum,2026-01-22,No
+GST01028,Nadia,Singh,F,45-54,Bristol,United Kingdom,BS,nadia.singh201@gmail.com,Non-member,,Yes
+GST01029,Grace,Johnson,F,35-44,Glasgow,United Kingdom,G,grace.johnson419@outlook.com,Non-member,,No
+GST01030,Emily,Carter,F,45-54,Toronto,Canada,,emily.carter855@proton.me,Bronze,2019-06-04,Yes
+GST01031,Joshua,Davies,M,35-44,Bristol,United Kingdom,BS,joshua.davies786@yahoo.co.uk,Gold,2021-04-28,Yes
+GST01032,Lewis,Taylor,M,45-54,Amsterdam,Netherlands,,lewis.taylor337@proton.me,Silver,2026-06-26,No
+GST01033,Nadia,Stewart,F,25-34,Nottingham,United Kingdom,NG,nadia.stewart752@gmail.com,Silver,2020-09-12,Yes
+GST01034,Ananya,Smith,F,35-44,Berlin,Germany,,ananya.smith117@proton.me,Non-member,,Yes
+GST01035,Hannah,Ahmed,F,55-64,Sydney,Australia,,hannah.ahmed695@gmail.com,Bronze,2022-01-23,Yes
+GST01036,Alfie,Martin,M,25-34,Sydney,Australia,,alfie.martin405@outlook.com,Bronze,2018-09-06,No
+GST01037,Bethany,Stewart,F,35-44,London,United Kingdom,SE,bethany.stewart206@outlook.com,Bronze,2019-05-29,Yes
+GST01038,Mohammed,Wilson,M,35-44,London,United Kingdom,SE,mohammed.wilson55@proton.me,Silver,2020-11-09,Yes
+GST01039,William,King,M,25-34,Leeds,United Kingdom,LS,william.king421@proton.me,Platinum,2018-10-27,Yes
+GST01040,Benjamin,Mitchell,M,45-54,Leicester,United Kingdom,LE,benjamin.mitchell873@hotmail.com,Bronze,2023-09-24,No
+GST01041,Daniel,White,M,65+,Toronto,Canada,,daniel.white485@yahoo.co.uk,Bronze,2018-07-02,No
+GST01042,Lily,Davies,F,45-54,Madrid,Spain,,lily.davies411@proton.me,Silver,2025-11-10,Yes
+GST01043,Yusuf,Jackson,M,45-54,Bristol,United Kingdom,BS,yusuf.jackson70@outlook.com,Gold,2018-11-26,Yes
+GST01044,Aisha,Robinson,F,25-34,London,United Kingdom,SE,aisha.robinson942@proton.me,Bronze,2018-06-08,Yes
+GST01045,Priya,Taylor,F,25-34,Madrid,Spain,,priya.taylor539@hotmail.com,Silver,2021-10-10,Yes
+GST01046,Emily,Gupta,F,55-64,Newcastle,United Kingdom,NE,emily.gupta888@outlook.com,Gold,2024-05-29,No
+GST01047,Nathan,Smith,M,45-54,Edinburgh,United Kingdom,EH,nathan.smith464@proton.me,Silver,2018-07-22,Yes
+GST01048,Alice,Hussain,F,25-34,Oxford,United Kingdom,OX,alice.hussain5@proton.me,Bronze,2025-09-09,Yes
+GST01049,Mohammed,Martin,M,35-44,Mumbai,India,,mohammed.martin419@outlook.com,Platinum,2021-01-16,No
+GST01050,Noah,Hussain,M,25-34,Paris,France,,noah.hussain993@hotmail.com,Silver,2018-05-01,Yes
+GST01051,Callum,Khan,M,35-44,Leicester,United Kingdom,LE,callum.khan76@proton.me,Silver,2019-01-31,Yes
+GST01052,Evie,Singh,F,35-44,Milan,Italy,,evie.singh342@outlook.com,Non-member,,Yes
+GST01053,Hannah,Evans,F,35-44,Toronto,Canada,,hannah.evans250@gmail.com,Bronze,2024-09-03,Yes
+GST01054,Ava,Brown,F,65+,Oxford,United Kingdom,OX,ava.brown388@hotmail.com,Bronze,2019-09-02,Yes
+GST01055,Ava,Smith,F,55-64,London,United Kingdom,SE,ava.smith117@hotmail.com,Silver,2026-01-13,Yes
+GST01056,Yusuf,Ahmed,M,55-64,Sheffield,United Kingdom,S,yusuf.ahmed334@proton.me,Bronze,2024-06-29,Yes
+GST01057,Omar,Mitchell,M,45-54,Newcastle,United Kingdom,NE,omar.mitchell263@outlook.com,Platinum,2018-11-14,Yes
+GST01058,Maya,Mehta,F,45-54,Edinburgh,United Kingdom,EH,maya.mehta287@outlook.com,Bronze,2019-08-19,Yes
+GST01059,Ethan,Ahmed,M,18-24,Amsterdam,Netherlands,,ethan.ahmed200@icloud.com,Silver,2021-03-04,Yes
+GST01060,David,Ali,M,35-44,Cardiff,United Kingdom,CF,david.ali372@icloud.com,Silver,2023-02-10,No
+GST01061,Noah,Wright,M,35-44,Leeds,United Kingdom,LS,noah.wright529@outlook.com,Non-member,,Yes
+GST01062,Noah,Smith,M,25-34,Manchester,United Kingdom,M,noah.smith365@gmail.com,Gold,2020-09-15,Yes
+GST01063,Lewis,Brown,M,35-44,Oxford,United Kingdom,OX,lewis.brown912@outlook.com,Gold,2018-09-08,Yes
+GST01064,Charlie,Clarke,M,35-44,Cardiff,United Kingdom,CF,charlie.clarke682@hotmail.com,Bronze,2024-02-03,Yes
+GST01065,Samuel,Mehta,M,25-34,Manchester,United Kingdom,M,samuel.mehta940@hotmail.com,Gold,2023-03-02,No
+GST01066,William,Davies,M,25-34,Birmingham,United Kingdom,B,william.davies941@yahoo.co.uk,Bronze,2021-05-08,Yes
+GST01067,David,Fraser,M,25-34,Reading,United Kingdom,RG,david.fraser651@yahoo.co.uk,Non-member,,Yes
+GST01068,Bethany,Fraser,F,55-64,Sydney,Australia,,bethany.fraser131@gmail.com,Non-member,,Yes
+GST01069,Omar,Khan,M,25-34,Bristol,United Kingdom,BS,omar.khan531@proton.me,Platinum,2024-06-23,No
+GST01070,Meera,Walker,F,45-54,Leicester,United Kingdom,LE,meera.walker710@outlook.com,Bronze,2024-12-31,No
+GST01071,Alice,Wood,F,45-54,Glasgow,United Kingdom,G,alice.wood608@hotmail.com,Non-member,,Yes
+GST01072,Georgia,Edwards,F,55-64,Leeds,United Kingdom,LS,georgia.edwards712@hotmail.com,Bronze,2025-10-19,Yes
+GST01073,Ethan,Ali,M,25-34,London,United Kingdom,SE,ethan.ali285@outlook.com,Bronze,2020-06-13,Yes
+GST01074,James,Campbell,M,55-64,Glasgow,United Kingdom,G,james.campbell745@yahoo.co.uk,Silver,2023-12-01,No
+GST01075,William,Williams,M,18-24,Toronto,Canada,,william.williams800@yahoo.co.uk,Non-member,,No
+GST01076,Emily,Hussain,F,35-44,Newcastle,United Kingdom,NE,emily.hussain509@proton.me,Non-member,,No
+GST01077,Freya,Smith,F,45-54,Liverpool,United Kingdom,L,freya.smith28@hotmail.com,Silver,2025-05-11,Yes
+GST01078,William,Edwards,M,45-54,Amsterdam,Netherlands,,william.edwards296@yahoo.co.uk,Bronze,2025-01-15,Yes
+GST01079,Jessica,Edwards,F,45-54,Sydney,Australia,,jessica.edwards396@gmail.com,Platinum,2025-01-04,No
+GST01080,William,Ali,M,18-24,Sydney,Australia,,william.ali178@gmail.com,Silver,2024-01-24,No
+GST01081,James,Wilson,M,35-44,Glasgow,United Kingdom,G,james.wilson651@icloud.com,Silver,2021-10-31,Yes
+GST01082,Ryan,Martin,M,18-24,Oxford,United Kingdom,OX,ryan.martin677@outlook.com,Bronze,2022-10-10,Yes
+GST01083,Oscar,Cooper,M,25-34,Liverpool,United Kingdom,L,oscar.cooper918@yahoo.co.uk,Silver,2023-09-24,Yes
+GST01084,Leo,Robinson,M,18-24,Leeds,United Kingdom,LS,leo.robinson880@outlook.com,Silver,2019-06-28,No
+GST01085,Thomas,Patel,M,35-44,Oxford,United Kingdom,OX,thomas.patel987@hotmail.com,Gold,2018-04-29,Yes
+GST01086,Maya,Wilson,F,18-24,Reading,United Kingdom,RG,maya.wilson969@icloud.com,Silver,2018-08-12,Yes
+GST01087,Isla,King,F,65+,Edinburgh,United Kingdom,EH,isla.king897@hotmail.com,Gold,2021-01-12,No
+GST01088,Leo,Stewart,M,25-34,Toronto,Canada,,leo.stewart753@gmail.com,Silver,2021-07-18,Yes
+GST01089,Amelia,Stewart,F,35-44,Milan,Italy,,amelia.stewart118@proton.me,Bronze,2020-04-04,No
+GST01090,Lewis,Baker,M,18-24,Leeds,United Kingdom,LS,lewis.baker100@yahoo.co.uk,Bronze,2018-09-23,Yes
+GST01091,Yusuf,White,M,25-34,Milan,Italy,,yusuf.white214@hotmail.com,Silver,2024-05-23,Yes
+GST01092,Meera,Collins,F,35-44,Edinburgh,United Kingdom,EH,meera.collins28@outlook.com,Silver,2026-02-27,Yes
+GST01093,Alice,Cooper,F,25-34,Leicester,United Kingdom,LE,alice.cooper547@gmail.com,Bronze,2019-10-24,Yes
+GST01094,Lily,Ahmed,F,25-34,Sheffield,United Kingdom,S,lily.ahmed915@outlook.com,Non-member,,Yes
+GST01095,Chloe,White,F,35-44,Reading,United Kingdom,RG,chloe.white423@outlook.com,Bronze,2021-06-08,No
+GST01096,Ananya,Phillips,F,35-44,London,United Kingdom,SE,ananya.phillips906@yahoo.co.uk,Silver,2020-06-29,Yes
+GST01097,Henry,Jones,M,35-44,Nottingham,United Kingdom,NG,henry.jones778@proton.me,Bronze,2024-02-23,Yes
+GST01098,Lucy,Khan,F,25-34,Leicester,United Kingdom,LE,lucy.khan972@yahoo.co.uk,Bronze,2021-08-21,Yes
+GST01099,Harry,Fraser,M,35-44,Mumbai,India,,harry.fraser391@outlook.com,Silver,2018-08-22,Yes
+GST01100,Alice,Brown,F,45-54,Leicester,United Kingdom,LE,alice.brown656@outlook.com,Bronze,2025-08-20,Yes
+GST01101,Sophia,Jones,F,25-34,Newcastle,United Kingdom,NE,sophia.jones237@icloud.com,Silver,2025-12-05,Yes
+GST01102,Benjamin,Carter,M,25-34,Liverpool,United Kingdom,L,benjamin.carter80@yahoo.co.uk,Non-member,,No
+GST01103,Nathan,Martin,M,35-44,Sydney,Australia,,nathan.martin303@yahoo.co.uk,Bronze,2026-05-10,Yes
+GST01104,Evie,Jones,F,35-44,Leeds,United Kingdom,LS,evie.jones885@hotmail.com,Bronze,2025-09-26,Yes
+GST01105,Amelia,Baker,F,25-34,Dublin,Ireland,,amelia.baker84@icloud.com,Gold,2025-10-05,Yes
+GST01106,Leah,Martin,F,65+,Manchester,United Kingdom,M,leah.martin182@proton.me,Bronze,2022-01-27,Yes
+GST01107,Arjun,Wood,M,18-24,Edinburgh,United Kingdom,EH,arjun.wood45@hotmail.com,Silver,2024-05-28,Yes
+GST01108,Ethan,Phillips,M,45-54,Reading,United Kingdom,RG,ethan.phillips154@yahoo.co.uk,Non-member,,Yes
+GST01109,Charlie,Parker,M,35-44,Oxford,United Kingdom,OX,charlie.parker163@gmail.com,Bronze,2025-12-29,Yes
+GST01110,Henry,Harris,M,45-54,Paris,France,,henry.harris481@hotmail.com,Bronze,2021-10-23,Yes
+GST01111,Nathan,Khan,M,45-54,Nottingham,United Kingdom,NG,nathan.khan12@yahoo.co.uk,Silver,2018-05-04,No
+GST01112,Oscar,Hall,M,25-34,Leeds,United Kingdom,LS,oscar.hall320@outlook.com,Bronze,2020-01-15,Yes
+GST01113,Georgia,Thompson,F,25-34,Bristol,United Kingdom,BS,georgia.thompson712@proton.me,Gold,2026-05-13,Yes
+GST01114,Evie,Cooper,F,25-34,Amsterdam,Netherlands,,evie.cooper77@gmail.com,Non-member,,Yes
+GST01115,Hannah,Davies,F,25-34,Cardiff,United Kingdom,CF,hannah.davies58@icloud.com,Gold,2023-01-07,Yes
+GST01116,Meera,Stewart,F,35-44,Manchester,United Kingdom,M,meera.stewart683@proton.me,Bronze,2024-09-02,Yes
+GST01117,Benjamin,Morris,M,35-44,Sheffield,United Kingdom,S,benjamin.morris509@hotmail.com,Non-member,,Yes
+GST01118,Omar,Mitchell,M,18-24,Leeds,United Kingdom,LS,omar.mitchell95@outlook.com,Non-member,,Yes
+GST01119,Ananya,Carter,F,25-34,Berlin,Germany,,ananya.carter446@proton.me,Bronze,2022-07-04,No
+GST01120,Meera,Brown,F,45-54,Leicester,United Kingdom,LE,meera.brown384@proton.me,Gold,2025-07-12,No
+GST01121,Omar,Singh,M,55-64,Nottingham,United Kingdom,NG,omar.singh231@icloud.com,Silver,2021-01-21,No
+GST01122,Yusuf,Davies,M,35-44,Birmingham,United Kingdom,B,yusuf.davies798@proton.me,Bronze,2023-10-04,Yes
+GST01123,Arjun,Green,M,35-44,Glasgow,United Kingdom,G,arjun.green30@outlook.com,Silver,2026-05-28,Yes
+GST01124,Priya,Morris,F,45-54,Milan,Italy,,priya.morris60@icloud.com,Bronze,2024-07-17,Yes
+GST01125,Sophia,Fraser,F,35-44,Madrid,Spain,,sophia.fraser987@outlook.com,Silver,2025-04-25,No
+GST01126,Grace,Davies,F,35-44,Mumbai,India,,grace.davies663@hotmail.com,Silver,2022-09-29,No
+GST01127,Rebecca,Martin,F,25-34,London,United Kingdom,SE,rebecca.martin652@icloud.com,Silver,2019-11-09,No
+GST01128,Charlotte,Khan,F,35-44,Dublin,Ireland,,charlotte.khan715@yahoo.co.uk,Bronze,2018-05-19,Yes
+GST01129,Arjun,Reid,M,25-34,Edinburgh,United Kingdom,EH,arjun.reid209@yahoo.co.uk,Gold,2026-03-11,No
+GST01130,Yusuf,Phillips,M,25-34,Reading,United Kingdom,RG,yusuf.phillips27@yahoo.co.uk,Gold,2025-10-04,Yes
+GST01131,Oscar,Smith,M,25-34,Manchester,United Kingdom,M,oscar.smith285@icloud.com,Non-member,,Yes
+GST01132,Lily,Morris,F,25-34,London,United Kingdom,SE,lily.morris157@hotmail.com,Silver,2023-03-19,Yes
+GST01133,Joshua,Patel,M,25-34,Nottingham,United Kingdom,NG,joshua.patel96@hotmail.com,Non-member,,Yes
+GST01134,Fatima,Fraser,F,45-54,Leicester,United Kingdom,LE,fatima.fraser619@hotmail.com,Bronze,2021-03-02,Yes
+GST01135,Alfie,Wright,M,18-24,Toronto,Canada,,alfie.wright26@outlook.com,Bronze,2019-05-17,No
+GST01136,Priya,Shah,F,25-34,Cardiff,United Kingdom,CF,priya.shah815@gmail.com,Silver,2025-08-21,Yes
+GST01137,Luke,Turner,M,25-34,Edinburgh,United Kingdom,EH,luke.turner285@outlook.com,Non-member,,No
+GST01138,Bethany,Shah,F,25-34,Reading,United Kingdom,RG,bethany.shah945@gmail.com,Bronze,2025-02-14,Yes
+GST01139,Evie,Murray,F,45-54,Mumbai,India,,evie.murray86@gmail.com,Silver,2022-03-05,No
+GST01140,Ryan,Davies,M,25-34,Edinburgh,United Kingdom,EH,ryan.davies897@icloud.com,Gold,2022-02-04,No
+GST01141,Samuel,Murray,M,45-54,Mumbai,India,,samuel.murray472@proton.me,Gold,2021-09-08,Yes
+GST01142,Lily,Johnson,F,25-34,Manchester,United Kingdom,M,lily.johnson747@gmail.com,Bronze,2024-06-01,Yes
+GST01143,Oscar,Patel,M,65+,Cambridge,United Kingdom,CB,oscar.patel83@gmail.com,Non-member,,No
+GST01144,Yusuf,Smith,M,25-34,Cardiff,United Kingdom,CF,yusuf.smith447@yahoo.co.uk,Bronze,2023-12-14,Yes
+GST01145,Amelia,King,F,45-54,Glasgow,United Kingdom,G,amelia.king931@gmail.com,Bronze,2024-10-18,Yes
+GST01146,Alfie,Khan,M,25-34,Madrid,Spain,,alfie.khan537@proton.me,Bronze,2021-08-03,Yes
+GST01147,Freya,Johnson,F,35-44,Bristol,United Kingdom,BS,freya.johnson185@hotmail.com,Silver,2023-04-19,No
+GST01148,Arjun,Baker,M,45-54,Manchester,United Kingdom,M,arjun.baker562@outlook.com,Bronze,2026-06-28,Yes
+GST01149,Freya,Brown,F,18-24,London,United Kingdom,SE,freya.brown838@yahoo.co.uk,Bronze,2018-11-05,No
+GST01150,Ethan,Shah,M,25-34,Glasgow,United Kingdom,G,ethan.shah188@outlook.com,Gold,2019-06-02,No
+GST01151,William,Brown,M,35-44,Reading,United Kingdom,RG,william.brown954@proton.me,Bronze,2024-03-19,No
+GST01152,Amelia,Khan,F,25-34,Oxford,United Kingdom,OX,amelia.khan312@outlook.com,Non-member,,No
+GST01153,Arjun,Green,M,55-64,Leicester,United Kingdom,LE,arjun.green237@yahoo.co.uk,Bronze,2023-01-16,No
+GST01154,Leo,Campbell,M,35-44,Birmingham,United Kingdom,B,leo.campbell526@outlook.com,Silver,2018-04-28,Yes
+GST01155,Leah,Khan,F,25-34,Glasgow,United Kingdom,G,leah.khan467@yahoo.co.uk,Bronze,2023-12-16,No
+GST01156,Sophia,Shah,F,25-34,Liverpool,United Kingdom,L,sophia.shah293@outlook.com,Non-member,,Yes
+GST01157,Charlotte,Carter,F,25-34,Leeds,United Kingdom,LS,charlotte.carter751@icloud.com,Non-member,,Yes
+GST01158,Freya,Khan,F,18-24,Edinburgh,United Kingdom,EH,freya.khan877@hotmail.com,Bronze,2021-03-29,Yes
+GST01159,Jacob,King,M,18-24,Liverpool,United Kingdom,L,jacob.king804@icloud.com,Non-member,,No
+GST01160,Adam,Wood,M,25-34,Leeds,United Kingdom,LS,adam.wood949@gmail.com,Silver,2019-11-13,No
+GST01161,Samuel,Evans,M,45-54,Paris,France,,samuel.evans70@outlook.com,Gold,2021-09-15,Yes
+GST01162,Oliver,Robinson,M,35-44,Sheffield,United Kingdom,S,oliver.robinson96@outlook.com,Silver,2020-03-17,Yes
+GST01163,Emily,Mehta,F,25-34,Dublin,Ireland,,emily.mehta315@hotmail.com,Bronze,2021-04-06,Yes
+GST01164,Alfie,Mehta,M,45-54,Edinburgh,United Kingdom,EH,alfie.mehta15@yahoo.co.uk,Bronze,2026-05-19,No
+GST01165,Nathan,Cooper,M,25-34,Sheffield,United Kingdom,S,nathan.cooper618@yahoo.co.uk,Gold,2023-12-04,No
+GST01166,Callum,White,M,65+,Cardiff,United Kingdom,CF,callum.white405@gmail.com,Bronze,2022-12-08,Yes
+GST01167,Ananya,Ali,F,35-44,Madrid,Spain,,ananya.ali347@outlook.com,Silver,2025-08-04,No
+GST01168,Sophie,Shah,F,65+,Cambridge,United Kingdom,CB,sophie.shah170@yahoo.co.uk,Silver,2022-07-06,No
+GST01169,Harry,Baker,M,55-64,Madrid,Spain,,harry.baker70@icloud.com,Non-member,,No
+GST01170,Ella,Johnson,F,35-44,London,United Kingdom,SE,ella.johnson201@gmail.com,Gold,2025-12-15,Yes
+GST01171,Luke,Morris,M,25-34,Nottingham,United Kingdom,NG,luke.morris111@gmail.com,Bronze,2022-12-31,Yes
+GST01172,Noah,Singh,M,45-54,Mumbai,India,,noah.singh597@icloud.com,Bronze,2020-12-10,Yes
+GST01173,Charlotte,White,F,55-64,Nottingham,United Kingdom,NG,charlotte.white412@icloud.com,Non-member,,Yes
+GST01174,Callum,Robinson,M,55-64,London,United Kingdom,SE,callum.robinson572@hotmail.com,Non-member,,Yes
+GST01175,Oliver,Parker,M,25-34,Newcastle,United Kingdom,NE,oliver.parker570@yahoo.co.uk,Gold,2024-10-27,Yes
+GST01176,Rebecca,Ali,F,55-64,Paris,France,,rebecca.ali514@hotmail.com,Bronze,2021-09-16,Yes
+GST01177,Yusuf,Davies,M,65+,Glasgow,United Kingdom,G,yusuf.davies154@icloud.com,Silver,2026-06-12,No
+GST01178,Lucy,Collins,F,55-64,Milan,Italy,,lucy.collins160@outlook.com,Silver,2022-08-13,Yes
+GST01179,Ella,Davies,F,25-34,Liverpool,United Kingdom,L,ella.davies660@gmail.com,Silver,2024-10-24,Yes
+GST01180,William,Patel,M,35-44,Nottingham,United Kingdom,NG,william.patel635@proton.me,Silver,2021-05-20,No
+GST01181,Yusuf,Johnson,M,45-54,Edinburgh,United Kingdom,EH,yusuf.johnson116@hotmail.com,Gold,2018-01-18,Yes
+GST01182,Benjamin,Fraser,M,25-34,Edinburgh,United Kingdom,EH,benjamin.fraser502@icloud.com,Non-member,,Yes
+GST01183,Meera,Baker,F,65+,Milan,Italy,,meera.baker67@yahoo.co.uk,Bronze,2023-04-28,Yes
+GST01184,Hannah,Ali,F,18-24,Nottingham,United Kingdom,NG,hannah.ali381@proton.me,Bronze,2023-04-10,No
+GST01185,Olivia,Hussain,F,45-54,Sydney,Australia,,olivia.hussain732@outlook.com,Bronze,2024-09-02,Yes
+GST01186,Jessica,Hall,F,45-54,Paris,France,,jessica.hall107@outlook.com,Non-member,,No
+GST01187,David,Thompson,M,35-44,Milan,Italy,,david.thompson256@outlook.com,Silver,2020-06-17,Yes
+GST01188,Hannah,Evans,F,45-54,Newcastle,United Kingdom,NE,hannah.evans752@hotmail.com,Silver,2018-09-18,No
+GST01189,Noah,Phillips,M,55-64,Cambridge,United Kingdom,CB,noah.phillips221@hotmail.com,Gold,2023-08-02,Yes
+GST01190,Jessica,Gupta,F,65+,Paris,France,,jessica.gupta809@hotmail.com,Non-member,,Yes
+GST01191,Samuel,Thompson,M,45-54,Toronto,Canada,,samuel.thompson840@icloud.com,Non-member,,Yes
+GST01192,Jack,Murray,M,35-44,Amsterdam,Netherlands,,jack.murray319@outlook.com,Bronze,2025-09-26,Yes
+GST01193,Callum,Taylor,M,35-44,Sheffield,United Kingdom,S,callum.taylor119@icloud.com,Bronze,2022-09-19,Yes
+GST01194,Jacob,Singh,M,25-34,Manchester,United Kingdom,M,jacob.singh849@yahoo.co.uk,Silver,2023-03-07,No
+GST01195,Matthew,King,M,25-34,Berlin,Germany,,matthew.king83@icloud.com,Bronze,2025-11-17,Yes
+GST01196,Lewis,Fraser,M,45-54,Liverpool,United Kingdom,L,lewis.fraser548@proton.me,Platinum,2020-03-30,No
+GST01197,Omar,Reid,M,35-44,Leeds,United Kingdom,LS,omar.reid811@gmail.com,Gold,2019-09-22,Yes
+GST01198,Chloe,Jackson,F,45-54,Milan,Italy,,chloe.jackson343@outlook.com,Bronze,2024-01-20,Yes
+GST01199,Chloe,Walker,F,35-44,Cardiff,United Kingdom,CF,chloe.walker3@icloud.com,Gold,2020-09-24,Yes
+GST01200,Ananya,Carter,F,35-44,Bristol,United Kingdom,BS,ananya.carter384@gmail.com,Bronze,2021-09-01,Yes
+GST01201,Rohan,Williams,M,35-44,Sheffield,United Kingdom,S,rohan.williams209@proton.me,Non-member,,No
+GST01202,Isla,Singh,F,55-64,Cardiff,United Kingdom,CF,isla.singh502@outlook.com,Bronze,2024-06-28,Yes
+GST01203,Jacob,Taylor,M,35-44,Amsterdam,Netherlands,,jacob.taylor934@icloud.com,Bronze,2020-10-10,Yes
+GST01204,Leah,Fraser,F,35-44,Berlin,Germany,,leah.fraser947@icloud.com,Non-member,,Yes
+GST01205,Lucy,Shah,F,25-34,Toronto,Canada,,lucy.shah923@outlook.com,Bronze,2025-12-17,No
+GST01206,David,Harris,M,35-44,New York,United States,,david.harris477@gmail.com,Platinum,2021-04-20,Yes
+GST01207,Thomas,Ali,M,25-34,Reading,United Kingdom,RG,thomas.ali453@outlook.com,Bronze,2025-07-15,Yes
+GST01208,Oliver,Hall,M,45-54,London,United Kingdom,SE,oliver.hall407@outlook.com,Silver,2022-08-02,Yes
+GST01209,Bethany,Mitchell,F,18-24,Newcastle,United Kingdom,NE,bethany.mitchell988@outlook.com,Bronze,2025-11-17,Yes
+GST01210,Fatima,Clarke,F,45-54,Cardiff,United Kingdom,CF,fatima.clarke528@hotmail.com,Gold,2021-12-11,Yes
+GST01211,Lucy,Jackson,F,18-24,Milan,Italy,,lucy.jackson214@outlook.com,Silver,2020-09-19,Yes
+GST01212,Meera,Fraser,F,25-34,Cardiff,United Kingdom,CF,meera.fraser734@hotmail.com,Bronze,2023-01-02,Yes
+GST01213,Benjamin,Wilson,M,35-44,Birmingham,United Kingdom,B,benjamin.wilson333@hotmail.com,Silver,2018-09-21,Yes
+GST01214,James,Wright,M,35-44,Liverpool,United Kingdom,L,james.wright889@yahoo.co.uk,Bronze,2023-11-19,Yes
+GST01215,Charlotte,Cooper,F,65+,Reading,United Kingdom,RG,charlotte.cooper367@icloud.com,Bronze,2024-12-20,Yes
+GST01216,Adam,Clarke,M,18-24,Bristol,United Kingdom,BS,adam.clarke76@proton.me,Non-member,,Yes
+GST01217,Sophia,Davies,F,35-44,Oxford,United Kingdom,OX,sophia.davies565@gmail.com,Bronze,2018-02-05,Yes
+GST01218,Georgia,Smith,F,35-44,Sheffield,United Kingdom,S,georgia.smith578@gmail.com,Non-member,,Yes
+GST01219,Rohan,Baker,M,55-64,Sheffield,United Kingdom,S,rohan.baker701@gmail.com,Bronze,2021-04-18,Yes
+GST01220,Bethany,Hussain,F,55-64,Sheffield,United Kingdom,S,bethany.hussain731@outlook.com,Silver,2019-10-31,Yes
+GST01221,Grace,Carter,F,45-54,Sydney,Australia,,grace.carter620@yahoo.co.uk,Gold,2021-06-23,No
+GST01222,Jessica,Phillips,F,45-54,Leicester,United Kingdom,LE,jessica.phillips473@gmail.com,Silver,2024-10-25,Yes
+GST01223,Jacob,White,M,35-44,Birmingham,United Kingdom,B,jacob.white20@outlook.com,Gold,2019-10-11,No
+GST01224,Amelia,King,F,35-44,Cardiff,United Kingdom,CF,amelia.king72@hotmail.com,Non-member,,Yes
+GST01225,Sophia,Singh,F,35-44,Reading,United Kingdom,RG,sophia.singh935@yahoo.co.uk,Non-member,,No
+GST01226,Ava,Wilson,F,55-64,Dublin,Ireland,,ava.wilson488@hotmail.com,Gold,2025-11-29,Yes
+GST01227,Matthew,Turner,M,35-44,Reading,United Kingdom,RG,matthew.turner864@gmail.com,Bronze,2022-03-07,No
+GST01228,Joshua,Baker,M,25-34,Edinburgh,United Kingdom,EH,joshua.baker419@proton.me,Silver,2018-02-23,Yes
+GST01229,George,Parker,M,18-24,Glasgow,United Kingdom,G,george.parker376@proton.me,Platinum,2020-01-01,Yes
+GST01230,James,Ahmed,M,25-34,Amsterdam,Netherlands,,james.ahmed495@yahoo.co.uk,Gold,2025-03-20,No
+GST01231,Sara,Thompson,F,18-24,Newcastle,United Kingdom,NE,sara.thompson472@hotmail.com,Bronze,2020-06-01,Yes
+GST01232,Lucy,Morris,F,18-24,Manchester,United Kingdom,M,lucy.morris915@icloud.com,Silver,2025-05-12,Yes
+GST01233,Harry,Jackson,M,25-34,Edinburgh,United Kingdom,EH,harry.jackson604@hotmail.com,Bronze,2020-01-16,Yes
+GST01234,Thomas,Wright,M,35-44,Glasgow,United Kingdom,G,thomas.wright997@hotmail.com,Bronze,2026-05-16,Yes
+GST01235,Jessica,Hussain,F,55-64,Cardiff,United Kingdom,CF,jessica.hussain943@outlook.com,Bronze,2020-04-30,Yes
+GST01236,Hannah,Green,F,45-54,Oxford,United Kingdom,OX,hannah.green685@hotmail.com,Silver,2022-11-27,Yes
+GST01237,Jack,Thompson,M,35-44,Leicester,United Kingdom,LE,jack.thompson235@proton.me,Bronze,2019-07-04,No
+GST01238,Arjun,Morris,M,35-44,Cambridge,United Kingdom,CB,arjun.morris409@proton.me,Platinum,2018-01-07,Yes
+GST01239,Evie,Evans,F,35-44,Edinburgh,United Kingdom,EH,evie.evans731@proton.me,Non-member,,No
+GST01240,Fatima,Singh,F,25-34,Sheffield,United Kingdom,S,fatima.singh130@gmail.com,Silver,2020-01-06,No
+GST01241,Nathan,Carter,M,25-34,Oxford,United Kingdom,OX,nathan.carter818@proton.me,Bronze,2018-05-06,Yes
+GST01242,James,Hussain,M,35-44,Leicester,United Kingdom,LE,james.hussain325@yahoo.co.uk,Silver,2023-08-05,Yes
+GST01243,Ava,Johnson,F,35-44,Reading,United Kingdom,RG,ava.johnson99@icloud.com,Silver,2024-03-13,Yes
+GST01244,Ryan,Carter,M,18-24,Liverpool,United Kingdom,L,ryan.carter955@proton.me,Platinum,2021-07-18,Yes
+GST01245,Alice,Campbell,F,55-64,Oxford,United Kingdom,OX,alice.campbell444@outlook.com,Silver,2026-07-16,Yes
+GST01246,Aisha,Jackson,F,55-64,Birmingham,United Kingdom,B,aisha.jackson529@outlook.com,Bronze,2024-07-07,Yes
+GST01247,Mia,Wilson,F,25-34,Edinburgh,United Kingdom,EH,mia.wilson526@yahoo.co.uk,Silver,2019-03-14,Yes
+GST01248,Harry,Walker,M,65+,Birmingham,United Kingdom,B,harry.walker393@yahoo.co.uk,Bronze,2018-02-04,No
+GST01249,Luke,Collins,M,35-44,Cardiff,United Kingdom,CF,luke.collins665@yahoo.co.uk,Gold,2019-09-10,Yes
+GST01250,Priya,Patel,F,25-34,Newcastle,United Kingdom,NE,priya.patel36@icloud.com,Bronze,2018-02-03,Yes
+GST01251,Alfie,Shah,M,55-64,Newcastle,United Kingdom,NE,alfie.shah789@icloud.com,Silver,2021-05-16,No
+GST01252,Sophie,Mehta,F,35-44,Edinburgh,United Kingdom,EH,sophie.mehta187@outlook.com,Non-member,,Yes
+GST01253,Callum,Hall,M,18-24,New York,United States,,callum.hall110@proton.me,Gold,2021-12-05,Yes
+GST01254,Yusuf,Morris,M,65+,Manchester,United Kingdom,M,yusuf.morris523@yahoo.co.uk,Bronze,2019-12-02,Yes
+GST01255,Callum,Mitchell,M,35-44,Mumbai,India,,callum.mitchell440@proton.me,Silver,2024-09-24,Yes
+GST01256,Freya,Thompson,F,45-54,Leicester,United Kingdom,LE,freya.thompson957@icloud.com,Bronze,2018-08-24,Yes
+GST01257,Priya,Parker,F,45-54,Leeds,United Kingdom,LS,priya.parker50@gmail.com,Bronze,2019-09-27,Yes
+GST01258,Lewis,Evans,M,35-44,Cambridge,United Kingdom,CB,lewis.evans35@outlook.com,Non-member,,Yes
+GST01259,Fatima,Hussain,F,18-24,Edinburgh,United Kingdom,EH,fatima.hussain757@gmail.com,Bronze,2023-09-21,No
+GST01260,Lucy,Johnson,F,45-54,Birmingham,United Kingdom,B,lucy.johnson525@gmail.com,Non-member,,No
+GST01261,Alfie,White,M,25-34,Glasgow,United Kingdom,G,alfie.white869@hotmail.com,Silver,2023-09-04,Yes
+GST01262,Charlie,Shah,M,25-34,Toronto,Canada,,charlie.shah646@proton.me,Silver,2022-12-04,No
+GST01263,Alfie,Singh,M,25-34,Leeds,United Kingdom,LS,alfie.singh400@proton.me,Bronze,2020-04-20,Yes
+GST01264,Fatima,Murray,F,25-34,Paris,France,,fatima.murray970@icloud.com,Silver,2021-03-19,No
+GST01265,Ella,Williams,F,18-24,Mumbai,India,,ella.williams622@hotmail.com,Gold,2022-10-12,Yes
+GST01266,Thomas,Wilson,M,25-34,Berlin,Germany,,thomas.wilson715@yahoo.co.uk,Silver,2024-07-12,Yes
+GST01267,Noah,Hussain,M,35-44,Cambridge,United Kingdom,CB,noah.hussain761@proton.me,Bronze,2024-08-04,No
+GST01268,Charlotte,Hussain,F,35-44,Leicester,United Kingdom,LE,charlotte.hussain806@hotmail.com,Platinum,2023-12-21,Yes
+GST01269,George,Phillips,M,35-44,Glasgow,United Kingdom,G,george.phillips310@proton.me,Non-member,,Yes
+GST01270,Noah,Baker,M,55-64,Cambridge,United Kingdom,CB,noah.baker301@icloud.com,Silver,2021-10-20,Yes
+GST01271,Oscar,Ali,M,55-64,Manchester,United Kingdom,M,oscar.ali639@yahoo.co.uk,Silver,2019-03-28,Yes
+GST01272,Charlie,Stewart,M,35-44,Manchester,United Kingdom,M,charlie.stewart805@yahoo.co.uk,Non-member,,No
+GST01273,Alfie,Phillips,M,25-34,Amsterdam,Netherlands,,alfie.phillips125@gmail.com,Bronze,2025-04-27,Yes
+GST01274,Noah,Harris,M,25-34,Manchester,United Kingdom,M,noah.harris724@yahoo.co.uk,Silver,2020-06-24,No
+GST01275,Mia,Smith,F,35-44,Bristol,United Kingdom,BS,mia.smith6@outlook.com,Non-member,,No
+GST01276,Luke,Brown,M,35-44,Nottingham,United Kingdom,NG,luke.brown197@outlook.com,Silver,2026-03-06,Yes
+GST01277,Chloe,Mitchell,F,55-64,Manchester,United Kingdom,M,chloe.mitchell742@outlook.com,Platinum,2021-10-21,Yes
+GST01278,Priya,Taylor,F,45-54,Nottingham,United Kingdom,NG,priya.taylor775@outlook.com,Bronze,2024-12-03,Yes
+GST01279,Noah,Baker,M,35-44,Nottingham,United Kingdom,NG,noah.baker605@yahoo.co.uk,Non-member,,Yes
+GST01280,Oliver,King,M,25-34,Milan,Italy,,oliver.king706@proton.me,Non-member,,No
+GST01281,Fatima,Brown,F,18-24,London,United Kingdom,SE,fatima.brown814@hotmail.com,Non-member,,Yes
+GST01282,Jacob,Reid,M,18-24,Liverpool,United Kingdom,L,jacob.reid820@gmail.com,Bronze,2024-07-19,Yes
+GST01283,Callum,Taylor,M,25-34,Toronto,Canada,,callum.taylor13@yahoo.co.uk,Gold,2018-10-31,Yes
+GST01284,Harry,Gupta,M,25-34,Nottingham,United Kingdom,NG,harry.gupta749@proton.me,Gold,2018-09-24,No
+GST01285,Leah,Jackson,F,18-24,Liverpool,United Kingdom,L,leah.jackson772@proton.me,Bronze,2018-11-03,Yes
+GST01286,Lewis,Singh,M,18-24,Liverpool,United Kingdom,L,lewis.singh410@hotmail.com,Bronze,2020-08-21,Yes
+GST01287,Alfie,Wilson,M,25-34,Milan,Italy,,alfie.wilson766@hotmail.com,Gold,2025-01-22,No
+GST01288,Lily,Baker,F,25-34,Sheffield,United Kingdom,S,lily.baker767@icloud.com,Non-member,,Yes
+GST01289,Priya,Carter,F,25-34,Leeds,United Kingdom,LS,priya.carter963@hotmail.com,Non-member,,No
+GST01290,Jack,Collins,M,45-54,Manchester,United Kingdom,M,jack.collins145@hotmail.com,Gold,2025-02-15,No
+GST01291,Isla,Robinson,F,25-34,Birmingham,United Kingdom,B,isla.robinson634@proton.me,Non-member,,No
+GST01292,Ryan,Reid,M,35-44,Oxford,United Kingdom,OX,ryan.reid113@gmail.com,Silver,2021-11-24,No
+GST01293,Ava,Mitchell,F,25-34,Toronto,Canada,,ava.mitchell212@icloud.com,Bronze,2024-09-28,Yes
+GST01294,Maya,Hussain,F,25-34,Cambridge,United Kingdom,CB,maya.hussain535@yahoo.co.uk,Bronze,2021-11-25,Yes
+GST01295,Chloe,Williams,F,25-34,Glasgow,United Kingdom,G,chloe.williams888@outlook.com,Non-member,,Yes
+GST01296,Priya,Hussain,F,45-54,New York,United States,,priya.hussain223@proton.me,Non-member,,No
+GST01297,Noah,White,M,25-34,London,United Kingdom,SE,noah.white899@icloud.com,Non-member,,No
+GST01298,David,Baker,M,45-54,Cambridge,United Kingdom,CB,david.baker806@gmail.com,Bronze,2021-03-31,Yes
+GST01299,Rohan,Wilson,M,65+,Manchester,United Kingdom,M,rohan.wilson951@yahoo.co.uk,Non-member,,No
+GST01300,Alfie,Singh,M,45-54,Dublin,Ireland,,alfie.singh849@icloud.com,Non-member,,No
+GST01301,Bethany,Carter,F,35-44,Glasgow,United Kingdom,G,bethany.carter186@yahoo.co.uk,Bronze,2023-05-09,Yes
+GST01302,Ava,Gupta,F,35-44,Leeds,United Kingdom,LS,ava.gupta556@gmail.com,Silver,2024-11-29,Yes
+GST01303,Mia,Thompson,F,25-34,Milan,Italy,,mia.thompson319@hotmail.com,Bronze,2020-08-21,Yes
+GST01304,Fatima,Robinson,F,55-64,Cardiff,United Kingdom,CF,fatima.robinson412@icloud.com,Non-member,,Yes
+GST01305,Olivia,Baker,F,35-44,Edinburgh,United Kingdom,EH,olivia.baker916@gmail.com,Silver,2023-12-10,No
+GST01306,Luke,Smith,M,45-54,Dublin,Ireland,,luke.smith951@outlook.com,Platinum,2020-03-18,Yes
+GST01307,Sophie,Walker,F,35-44,Liverpool,United Kingdom,L,sophie.walker272@proton.me,Bronze,2019-05-11,Yes
+GST01308,Matthew,Khan,M,45-54,Leeds,United Kingdom,LS,matthew.khan77@gmail.com,Bronze,2022-09-23,Yes
+GST01309,Sophie,Collins,F,45-54,New York,United States,,sophie.collins749@hotmail.com,Silver,2025-08-17,Yes
+GST01310,Oliver,Khan,M,45-54,Nottingham,United Kingdom,NG,oliver.khan462@yahoo.co.uk,Bronze,2021-10-01,Yes
+GST01311,Evie,Fraser,F,35-44,Birmingham,United Kingdom,B,evie.fraser774@gmail.com,Silver,2026-07-26,Yes
+GST01312,Joshua,Walker,M,35-44,Toronto,Canada,,joshua.walker859@yahoo.co.uk,Non-member,,Yes
+GST01313,Isla,Carter,F,35-44,Cardiff,United Kingdom,CF,isla.carter820@gmail.com,Non-member,,Yes
+GST01314,Adam,Edwards,M,45-54,London,United Kingdom,SE,adam.edwards398@proton.me,Non-member,,Yes
+GST01315,Oscar,Campbell,M,18-24,Berlin,Germany,,oscar.campbell835@icloud.com,Silver,2025-01-31,No
+GST01316,Leo,Ahmed,M,55-64,Paris,France,,leo.ahmed223@gmail.com,Non-member,,No
+GST01317,Luke,Thompson,M,35-44,Newcastle,United Kingdom,NE,luke.thompson368@icloud.com,Bronze,2026-03-10,No
+GST01318,Callum,Phillips,M,45-54,Madrid,Spain,,callum.phillips120@proton.me,Bronze,2023-05-04,No
+GST01319,Nadia,King,F,45-54,Reading,United Kingdom,RG,nadia.king165@proton.me,Bronze,2022-04-23,No
+GST01320,Matthew,Wright,M,45-54,Berlin,Germany,,matthew.wright175@gmail.com,Bronze,2023-11-10,Yes
+GST01321,Alice,Hussain,F,55-64,Cardiff,United Kingdom,CF,alice.hussain521@yahoo.co.uk,Bronze,2025-11-02,No
+GST01322,Alice,Green,F,18-24,Sydney,Australia,,alice.green414@hotmail.com,Silver,2022-11-23,Yes
+GST01323,James,Fraser,M,18-24,Amsterdam,Netherlands,,james.fraser737@proton.me,Gold,2021-05-16,Yes
+GST01324,Alice,Thompson,F,25-34,Nottingham,United Kingdom,NG,alice.thompson258@gmail.com,Gold,2025-05-15,No
+GST01325,Olivia,Ali,F,35-44,Nottingham,United Kingdom,NG,olivia.ali497@outlook.com,Silver,2021-05-07,Yes
+GST01326,Henry,Singh,M,25-34,Oxford,United Kingdom,OX,henry.singh757@icloud.com,Bronze,2018-02-09,Yes
+GST01327,Daniel,Collins,M,18-24,Cambridge,United Kingdom,CB,daniel.collins480@icloud.com,Gold,2025-07-24,Yes
+GST01328,Emily,King,F,55-64,Paris,France,,emily.king788@yahoo.co.uk,Gold,2022-04-20,Yes
+GST01329,Mia,Ahmed,F,45-54,Cambridge,United Kingdom,CB,mia.ahmed414@yahoo.co.uk,Bronze,2025-02-18,No
+GST01330,Leah,Singh,F,45-54,Nottingham,United Kingdom,NG,leah.singh527@proton.me,Non-member,,Yes
+GST01331,Rebecca,White,F,25-34,Liverpool,United Kingdom,L,rebecca.white522@proton.me,Bronze,2024-04-28,Yes
+GST01332,Joshua,Wilson,M,25-34,Leeds,United Kingdom,LS,joshua.wilson664@outlook.com,Platinum,2019-03-28,Yes
+GST01333,Callum,Davies,M,18-24,Oxford,United Kingdom,OX,callum.davies847@yahoo.co.uk,Silver,2019-03-31,Yes
+GST01334,Isla,King,F,35-44,Liverpool,United Kingdom,L,isla.king315@proton.me,Bronze,2024-07-10,No
+GST01335,Ava,Martin,F,35-44,Cambridge,United Kingdom,CB,ava.martin310@gmail.com,Silver,2023-03-10,Yes
+GST01336,Freya,Morris,F,45-54,Liverpool,United Kingdom,L,freya.morris900@gmail.com,Gold,2022-04-20,Yes
+GST01337,Ethan,Jones,M,45-54,Glasgow,United Kingdom,G,ethan.jones138@hotmail.com,Silver,2025-07-12,Yes
+GST01338,Mia,Stewart,F,35-44,Oxford,United Kingdom,OX,mia.stewart980@hotmail.com,Platinum,2023-05-18,No
+GST01339,Henry,Harris,M,35-44,Newcastle,United Kingdom,NE,henry.harris321@proton.me,Gold,2025-08-11,Yes
+GST01340,Chloe,Fraser,F,25-34,Oxford,United Kingdom,OX,chloe.fraser751@gmail.com,Bronze,2024-11-30,Yes
+GST01341,Chloe,Ahmed,F,35-44,Cambridge,United Kingdom,CB,chloe.ahmed955@yahoo.co.uk,Non-member,,No
+GST01342,Adam,Khan,M,45-54,Reading,United Kingdom,RG,adam.khan963@outlook.com,Non-member,,Yes
+GST01343,Meera,Clarke,F,25-34,Cardiff,United Kingdom,CF,meera.clarke533@hotmail.com,Bronze,2023-10-06,Yes
+GST01344,Charlie,Williams,M,25-34,Milan,Italy,,charlie.williams330@icloud.com,Gold,2021-04-27,Yes
+GST01345,Ethan,Stewart,M,55-64,Milan,Italy,,ethan.stewart492@hotmail.com,Bronze,2020-02-15,Yes
+GST01346,Lewis,Fraser,M,55-64,Liverpool,United Kingdom,L,lewis.fraser788@icloud.com,Bronze,2024-05-18,Yes
+GST01347,James,Hussain,M,65+,Liverpool,United Kingdom,L,james.hussain988@gmail.com,Bronze,2026-07-27,No
+GST01348,Nathan,Walker,M,25-34,Newcastle,United Kingdom,NE,nathan.walker380@icloud.com,Silver,2021-08-06,Yes
+GST01349,Amelia,Jones,F,35-44,Newcastle,United Kingdom,NE,amelia.jones248@hotmail.com,Non-member,,Yes
+GST01350,Nadia,Evans,F,35-44,Milan,Italy,,nadia.evans535@proton.me,Bronze,2019-12-20,Yes
+GST01351,Ella,Davies,F,55-64,Mumbai,India,,ella.davies634@yahoo.co.uk,Bronze,2021-03-02,Yes
+GST01352,Adam,Hussain,M,25-34,Liverpool,United Kingdom,L,adam.hussain902@yahoo.co.uk,Gold,2019-09-16,No
+GST01353,Meera,Walker,F,25-34,Cambridge,United Kingdom,CB,meera.walker172@proton.me,Bronze,2023-06-08,No
+GST01354,Hannah,Jones,F,65+,Edinburgh,United Kingdom,EH,hannah.jones746@outlook.com,Gold,2021-02-02,Yes
+GST01355,Lucy,Reid,F,25-34,Liverpool,United Kingdom,L,lucy.reid514@yahoo.co.uk,Non-member,,Yes
+GST01356,Charlie,Williams,M,18-24,Liverpool,United Kingdom,L,charlie.williams17@hotmail.com,Bronze,2018-09-03,Yes
+GST01357,Rohan,King,M,35-44,Manchester,United Kingdom,M,rohan.king840@icloud.com,Non-member,,Yes
+GST01358,Isla,Morris,F,25-34,Liverpool,United Kingdom,L,isla.morris478@hotmail.com,Non-member,,No
+GST01359,George,Davies,M,25-34,Cardiff,United Kingdom,CF,george.davies45@outlook.com,Non-member,,Yes
+GST01360,Omar,Shah,M,45-54,Toronto,Canada,,omar.shah313@hotmail.com,Bronze,2024-01-01,Yes
+GST01361,Isla,Edwards,F,35-44,Leeds,United Kingdom,LS,isla.edwards562@icloud.com,Silver,2023-06-22,Yes
+GST01362,Nadia,Collins,F,35-44,Newcastle,United Kingdom,NE,nadia.collins893@proton.me,Gold,2026-04-13,Yes
+GST01363,Ethan,Ahmed,M,18-24,Leicester,United Kingdom,LE,ethan.ahmed149@hotmail.com,Bronze,2022-04-01,Yes
+GST01364,Freya,Evans,F,25-34,London,United Kingdom,SE,freya.evans670@proton.me,Bronze,2023-07-12,Yes
+GST01365,Leo,Hall,M,55-64,Newcastle,United Kingdom,NE,leo.hall67@proton.me,Bronze,2022-12-07,No
+GST01366,Meera,Smith,F,55-64,Liverpool,United Kingdom,L,meera.smith944@gmail.com,Silver,2021-07-23,Yes
+GST01367,Charlotte,Cooper,F,35-44,Liverpool,United Kingdom,L,charlotte.cooper785@icloud.com,Bronze,2023-04-19,Yes
+GST01368,Alice,Turner,F,45-54,Cambridge,United Kingdom,CB,alice.turner710@outlook.com,Bronze,2019-10-19,Yes
+GST01369,Henry,Hall,M,35-44,London,United Kingdom,SE,henry.hall23@hotmail.com,Non-member,,Yes
+GST01370,Oliver,Patel,M,45-54,Amsterdam,Netherlands,,oliver.patel948@icloud.com,Bronze,2021-03-11,Yes
+GST01371,Charlotte,Wright,F,25-34,Liverpool,United Kingdom,L,charlotte.wright250@yahoo.co.uk,Non-member,,Yes
+GST01372,Daniel,Taylor,M,55-64,Mumbai,India,,daniel.taylor265@yahoo.co.uk,Non-member,,No
+GST01373,Jacob,Phillips,M,45-54,Oxford,United Kingdom,OX,jacob.phillips108@outlook.com,Bronze,2025-06-24,Yes
+GST01374,Ava,Jackson,F,25-34,Sheffield,United Kingdom,S,ava.jackson999@yahoo.co.uk,Bronze,2020-07-10,Yes
+GST01375,Jacob,Wilson,M,25-34,Bristol,United Kingdom,BS,jacob.wilson528@gmail.com,Bronze,2022-06-29,Yes
+GST01376,Ella,Mehta,F,18-24,Glasgow,United Kingdom,G,ella.mehta741@gmail.com,Gold,2025-06-06,No
+GST01377,Ava,Robinson,F,55-64,Amsterdam,Netherlands,,ava.robinson687@proton.me,Bronze,2018-09-27,No
+GST01378,Evie,Jackson,F,25-34,Oxford,United Kingdom,OX,evie.jackson984@yahoo.co.uk,Bronze,2020-09-26,Yes
+GST01379,Maya,Shah,F,45-54,Bristol,United Kingdom,BS,maya.shah216@hotmail.com,Non-member,,No
+GST01380,Jacob,Baker,M,35-44,London,United Kingdom,SE,jacob.baker841@outlook.com,Bronze,2024-04-14,Yes
+GST01381,Samuel,Thompson,M,25-34,Manchester,United Kingdom,M,samuel.thompson654@yahoo.co.uk,Silver,2019-05-30,No
+GST01382,Charlie,Gupta,M,25-34,Madrid,Spain,,charlie.gupta754@yahoo.co.uk,Bronze,2021-09-01,Yes
+GST01383,Luke,Wilson,M,35-44,Madrid,Spain,,luke.wilson614@yahoo.co.uk,Non-member,,Yes
+GST01384,David,Wright,M,25-34,Birmingham,United Kingdom,B,david.wright796@outlook.com,Bronze,2022-04-02,Yes
+GST01385,Lily,Phillips,F,45-54,Reading,United Kingdom,RG,lily.phillips111@icloud.com,Gold,2020-12-06,No
+GST01386,Meera,Collins,F,65+,Bristol,United Kingdom,BS,meera.collins44@hotmail.com,Non-member,,Yes
+GST01387,Isla,Baker,F,35-44,London,United Kingdom,SE,isla.baker806@outlook.com,Non-member,,No
+GST01388,David,Williams,M,18-24,Oxford,United Kingdom,OX,david.williams507@gmail.com,Bronze,2021-12-31,Yes
+GST01389,Freya,Green,F,45-54,Leicester,United Kingdom,LE,freya.green793@proton.me,Silver,2018-08-15,Yes
+GST01390,Freya,Wilson,F,35-44,Leicester,United Kingdom,LE,freya.wilson810@yahoo.co.uk,Non-member,,No
+GST01391,Lucy,Taylor,F,45-54,Newcastle,United Kingdom,NE,lucy.taylor453@icloud.com,Silver,2021-03-15,No
+GST01392,Ryan,Walker,M,18-24,Edinburgh,United Kingdom,EH,ryan.walker409@outlook.com,Silver,2022-06-26,No
+GST01393,George,Phillips,M,25-34,Bristol,United Kingdom,BS,george.phillips956@hotmail.com,Platinum,2018-02-16,Yes
+GST01394,Maya,Ahmed,F,35-44,Toronto,Canada,,maya.ahmed61@proton.me,Gold,2018-06-16,Yes
+GST01395,Oscar,Ahmed,M,25-34,Edinburgh,United Kingdom,EH,oscar.ahmed140@icloud.com,Gold,2022-01-01,Yes
+GST01396,Oscar,Thompson,M,25-34,Birmingham,United Kingdom,B,oscar.thompson44@gmail.com,Bronze,2026-04-05,Yes
+GST01397,Lucy,Mehta,F,45-54,Milan,Italy,,lucy.mehta776@yahoo.co.uk,Silver,2020-08-24,No
+GST01398,Jack,Harris,M,45-54,Liverpool,United Kingdom,L,jack.harris286@proton.me,Silver,2025-12-29,Yes
+GST01399,Emily,King,F,25-34,Bristol,United Kingdom,BS,emily.king811@proton.me,Platinum,2022-03-19,No
+GST01400,Oscar,Davies,M,25-34,Newcastle,United Kingdom,NE,oscar.davies220@outlook.com,Bronze,2023-02-05,Yes
+GST01401,Ava,Campbell,F,45-54,Sheffield,United Kingdom,S,ava.campbell544@proton.me,Bronze,2026-05-01,Yes
+GST01402,Lewis,Parker,M,25-34,Leicester,United Kingdom,LE,lewis.parker239@hotmail.com,Gold,2021-01-09,Yes
+GST01403,David,Mitchell,M,25-34,London,United Kingdom,SE,david.mitchell141@icloud.com,Gold,2023-03-26,Yes
+GST01404,Harry,Fraser,M,18-24,Leicester,United Kingdom,LE,harry.fraser9@gmail.com,Bronze,2024-12-04,Yes
+GST01405,Amelia,Stewart,F,25-34,Nottingham,United Kingdom,NG,amelia.stewart228@outlook.com,Bronze,2020-10-19,Yes
+GST01406,Leo,Jones,M,25-34,Glasgow,United Kingdom,G,leo.jones288@proton.me,Bronze,2026-05-19,Yes
+GST01407,Alice,Patel,F,45-54,Newcastle,United Kingdom,NE,alice.patel393@outlook.com,Silver,2021-03-27,Yes
+GST01408,Georgia,Williams,F,18-24,London,United Kingdom,SE,georgia.williams405@outlook.com,Non-member,,No
+GST01409,Joshua,Martin,M,35-44,Sydney,Australia,,joshua.martin991@yahoo.co.uk,Gold,2021-02-03,Yes
+GST01410,Lucy,Williams,F,35-44,Oxford,United Kingdom,OX,lucy.williams190@icloud.com,Platinum,2019-06-27,Yes
+GST01411,Rebecca,Fraser,F,55-64,Sydney,Australia,,rebecca.fraser475@yahoo.co.uk,Silver,2018-04-20,Yes
+GST01412,Luke,Williams,M,25-34,Sheffield,United Kingdom,S,luke.williams399@gmail.com,Bronze,2020-11-25,No
+GST01413,Aisha,Murray,F,35-44,Sheffield,United Kingdom,S,aisha.murray502@proton.me,Gold,2025-02-24,No
+GST01414,Nathan,Turner,M,35-44,Leicester,United Kingdom,LE,nathan.turner256@icloud.com,Non-member,,Yes
+GST01415,Daniel,Green,M,18-24,Nottingham,United Kingdom,NG,daniel.green758@icloud.com,Non-member,,Yes
+GST01416,Nathan,Evans,M,55-64,Manchester,United Kingdom,M,nathan.evans957@icloud.com,Gold,2023-01-20,Yes
+GST01417,Callum,Baker,M,45-54,Nottingham,United Kingdom,NG,callum.baker966@gmail.com,Gold,2020-04-09,No
+GST01418,Isla,Taylor,F,18-24,Nottingham,United Kingdom,NG,isla.taylor457@yahoo.co.uk,Silver,2022-04-29,Yes
+GST01419,Callum,White,M,35-44,Manchester,United Kingdom,M,callum.white699@outlook.com,Silver,2022-04-26,Yes
+GST01420,Ananya,Smith,F,25-34,Leeds,United Kingdom,LS,ananya.smith103@yahoo.co.uk,Platinum,2024-05-20,No
+GST01421,Zara,Fraser,F,25-34,Liverpool,United Kingdom,L,zara.fraser813@yahoo.co.uk,Gold,2018-09-06,No
+GST01422,Oscar,Walker,M,35-44,Bristol,United Kingdom,BS,oscar.walker329@gmail.com,Bronze,2026-03-13,Yes
+GST01423,Aisha,Murray,F,55-64,Oxford,United Kingdom,OX,aisha.murray667@yahoo.co.uk,Silver,2018-12-05,Yes
+GST01424,Aisha,Hussain,F,35-44,Birmingham,United Kingdom,B,aisha.hussain339@yahoo.co.uk,Silver,2023-09-13,Yes
+GST01425,Rebecca,Collins,F,35-44,Cambridge,United Kingdom,CB,rebecca.collins314@outlook.com,Bronze,2019-12-18,No
+GST01426,Joshua,Reid,M,25-34,Glasgow,United Kingdom,G,joshua.reid429@yahoo.co.uk,Bronze,2024-04-21,Yes
+GST01427,Sophie,Walker,F,55-64,Dublin,Ireland,,sophie.walker813@icloud.com,Bronze,2024-01-30,Yes
+GST01428,Jacob,Green,M,45-54,Berlin,Germany,,jacob.green172@yahoo.co.uk,Gold,2022-03-31,Yes
+GST01429,Grace,Williams,F,45-54,Madrid,Spain,,grace.williams481@icloud.com,Bronze,2019-01-14,Yes
+GST01430,George,King,M,35-44,Cardiff,United Kingdom,CF,george.king205@icloud.com,Bronze,2021-10-10,Yes
+GST01431,Mia,White,F,35-44,Reading,United Kingdom,RG,mia.white248@outlook.com,Non-member,,Yes
+GST01432,Aisha,Walker,F,18-24,Leeds,United Kingdom,LS,aisha.walker885@gmail.com,Silver,2023-04-21,Yes
+GST01433,Isla,Wood,F,35-44,Leicester,United Kingdom,LE,isla.wood185@gmail.com,Bronze,2021-03-14,Yes
+GST01434,Jessica,Hussain,F,35-44,Berlin,Germany,,jessica.hussain907@icloud.com,Silver,2025-01-28,No
+GST01435,Lewis,Khan,M,55-64,Reading,United Kingdom,RG,lewis.khan456@icloud.com,Bronze,2020-08-25,Yes
+GST01436,Noah,Mehta,M,25-34,Edinburgh,United Kingdom,EH,noah.mehta895@proton.me,Silver,2021-12-27,Yes
+GST01437,Lily,Morris,F,25-34,Leeds,United Kingdom,LS,lily.morris625@outlook.com,Bronze,2023-01-17,Yes
+GST01438,Daniel,King,M,35-44,Cambridge,United Kingdom,CB,daniel.king800@gmail.com,Bronze,2018-12-21,Yes
+GST01439,Charlie,Fraser,M,18-24,Toronto,Canada,,charlie.fraser5@gmail.com,Bronze,2019-01-27,Yes
+GST01440,Leah,Wright,F,65+,Manchester,United Kingdom,M,leah.wright795@outlook.com,Gold,2020-09-29,No
+GST01441,Ava,Smith,F,25-34,Cambridge,United Kingdom,CB,ava.smith207@proton.me,Silver,2024-08-21,Yes
+GST01442,George,Reid,M,35-44,New York,United States,,george.reid50@icloud.com,Silver,2019-06-10,No
+GST01443,Ryan,Mehta,M,55-64,Cardiff,United Kingdom,CF,ryan.mehta22@gmail.com,Bronze,2018-10-18,Yes
+GST01444,Isla,Phillips,F,25-34,Sydney,Australia,,isla.phillips216@hotmail.com,Non-member,,No
+GST01445,Mia,Mitchell,F,25-34,Glasgow,United Kingdom,G,mia.mitchell954@icloud.com,Non-member,,No
+GST01446,Noah,Stewart,M,55-64,Leicester,United Kingdom,LE,noah.stewart481@gmail.com,Bronze,2022-07-28,No
+GST01447,Jessica,Carter,F,18-24,Leeds,United Kingdom,LS,jessica.carter49@gmail.com,Gold,2021-01-16,Yes
+GST01448,David,Patel,M,45-54,Oxford,United Kingdom,OX,david.patel239@outlook.com,Silver,2021-12-03,No
+GST01449,Jack,Hall,M,35-44,Reading,United Kingdom,RG,jack.hall850@icloud.com,Silver,2021-09-11,Yes
+GST01450,Zara,Williams,F,45-54,Dublin,Ireland,,zara.williams774@hotmail.com,Silver,2019-06-29,Yes
+GST01451,Samuel,Green,M,55-64,Reading,United Kingdom,RG,samuel.green401@proton.me,Gold,2019-08-15,No
+GST01452,Benjamin,Harris,M,18-24,London,United Kingdom,SE,benjamin.harris563@proton.me,Non-member,,No
+GST01453,Ethan,Ahmed,M,35-44,Newcastle,United Kingdom,NE,ethan.ahmed793@proton.me,Gold,2020-04-15,Yes
+GST01454,Nathan,Mehta,M,25-34,Newcastle,United Kingdom,NE,nathan.mehta873@gmail.com,Gold,2025-12-10,No
+GST01455,Callum,Hall,M,25-34,Edinburgh,United Kingdom,EH,callum.hall524@hotmail.com,Bronze,2019-09-05,Yes
+GST01456,Daniel,Turner,M,55-64,Newcastle,United Kingdom,NE,daniel.turner859@proton.me,Silver,2023-06-29,Yes
+GST01457,Priya,Shah,F,55-64,Cardiff,United Kingdom,CF,priya.shah649@icloud.com,Bronze,2021-10-28,Yes
+GST01458,Leah,Ahmed,F,55-64,Leicester,United Kingdom,LE,leah.ahmed342@yahoo.co.uk,Bronze,2025-07-18,No
+GST01459,Ella,Patel,F,35-44,London,United Kingdom,SE,ella.patel824@hotmail.com,Bronze,2024-10-11,Yes
+GST01460,Lily,Hall,F,45-54,Bristol,United Kingdom,BS,lily.hall952@hotmail.com,Silver,2018-02-27,Yes
+GST01461,Evie,King,F,25-34,Liverpool,United Kingdom,L,evie.king843@icloud.com,Non-member,,Yes
+GST01462,Henry,Fraser,M,25-34,Liverpool,United Kingdom,L,henry.fraser946@icloud.com,Non-member,,No
+GST01463,Matthew,Smith,M,35-44,Sheffield,United Kingdom,S,matthew.smith212@gmail.com,Non-member,,No
+GST01464,James,Campbell,M,65+,Nottingham,United Kingdom,NG,james.campbell353@hotmail.com,Non-member,,Yes
+GST01465,Zara,Brown,F,18-24,Leeds,United Kingdom,LS,zara.brown642@proton.me,Bronze,2026-03-06,Yes
+GST01466,Hannah,Harris,F,55-64,Newcastle,United Kingdom,NE,hannah.harris456@proton.me,Bronze,2022-10-02,No
+GST01467,Henry,Evans,M,35-44,Cardiff,United Kingdom,CF,henry.evans473@outlook.com,Gold,2021-02-18,Yes
+GST01468,Noah,Gupta,M,35-44,Bristol,United Kingdom,BS,noah.gupta943@gmail.com,Silver,2021-11-18,Yes
+GST01469,Leah,Patel,F,18-24,Cardiff,United Kingdom,CF,leah.patel859@proton.me,Silver,2025-08-13,Yes
+GST01470,Hannah,Gupta,F,65+,Liverpool,United Kingdom,L,hannah.gupta552@gmail.com,Silver,2022-01-06,Yes
+GST01471,Fatima,Stewart,F,45-54,Cardiff,United Kingdom,CF,fatima.stewart481@gmail.com,Silver,2025-02-21,Yes
+GST01472,Alfie,Shah,M,45-54,Milan,Italy,,alfie.shah509@yahoo.co.uk,Silver,2024-10-16,Yes
+GST01473,Bethany,Taylor,F,35-44,Newcastle,United Kingdom,NE,bethany.taylor211@gmail.com,Bronze,2021-07-20,Yes
+GST01474,Oscar,Hall,M,18-24,Newcastle,United Kingdom,NE,oscar.hall675@icloud.com,Bronze,2021-02-04,No
+GST01475,William,Singh,M,25-34,New York,United States,,william.singh403@gmail.com,Bronze,2026-06-30,Yes
+GST01476,Alice,Johnson,F,35-44,Nottingham,United Kingdom,NG,alice.johnson17@icloud.com,Silver,2025-02-11,No
+GST01477,Sara,Wright,F,45-54,Cardiff,United Kingdom,CF,sara.wright94@icloud.com,Non-member,,Yes
+GST01478,Lily,Shah,F,18-24,Reading,United Kingdom,RG,lily.shah159@gmail.com,Non-member,,No
+GST01479,Thomas,Thompson,M,25-34,Birmingham,United Kingdom,B,thomas.thompson533@icloud.com,Non-member,,Yes
+GST01480,Daniel,Mehta,M,45-54,Oxford,United Kingdom,OX,daniel.mehta974@hotmail.com,Platinum,2023-11-26,Yes
+GST01481,Harry,Thompson,M,55-64,Nottingham,United Kingdom,NG,harry.thompson108@gmail.com,Bronze,2018-01-22,No
+GST01482,Priya,Robinson,F,18-24,Leicester,United Kingdom,LE,priya.robinson663@gmail.com,Platinum,2024-08-30,No
+GST01483,Ava,Reid,F,25-34,Edinburgh,United Kingdom,EH,ava.reid191@proton.me,Silver,2020-05-21,No
+GST01484,Meera,Mitchell,F,45-54,Amsterdam,Netherlands,,meera.mitchell852@gmail.com,Gold,2025-08-22,No
+GST01485,Ava,Thompson,F,45-54,Manchester,United Kingdom,M,ava.thompson725@icloud.com,Non-member,,Yes
+GST01486,George,Baker,M,18-24,Birmingham,United Kingdom,B,george.baker15@proton.me,Silver,2023-10-10,Yes
+GST01487,Hannah,Campbell,F,25-34,Bristol,United Kingdom,BS,hannah.campbell174@yahoo.co.uk,Bronze,2019-09-25,Yes
+GST01488,Ethan,Shah,M,25-34,Berlin,Germany,,ethan.shah421@gmail.com,Bronze,2022-10-18,Yes
+GST01489,Aisha,Turner,F,25-34,Toronto,Canada,,aisha.turner235@outlook.com,Non-member,,Yes
+GST01490,Ethan,Collins,M,18-24,Newcastle,United Kingdom,NE,ethan.collins307@outlook.com,Gold,2019-07-18,Yes
+GST01491,Maya,Taylor,F,25-34,Cambridge,United Kingdom,CB,maya.taylor115@proton.me,Silver,2021-03-03,Yes
+GST01492,Oscar,Murray,M,55-64,Paris,France,,oscar.murray657@proton.me,Bronze,2018-08-31,Yes
+GST01493,Amelia,Jackson,F,35-44,Oxford,United Kingdom,OX,amelia.jackson38@yahoo.co.uk,Gold,2025-10-28,Yes
+GST01494,Yusuf,Walker,M,18-24,Liverpool,United Kingdom,L,yusuf.walker449@icloud.com,Bronze,2021-05-16,Yes
+GST01495,Chloe,Martin,F,25-34,Sheffield,United Kingdom,S,chloe.martin972@icloud.com,Silver,2018-12-19,No
+GST01496,Zara,Patel,F,25-34,Reading,United Kingdom,RG,zara.patel280@outlook.com,Bronze,2022-03-07,No
+GST01497,Omar,Gupta,M,35-44,New York,United States,,omar.gupta927@yahoo.co.uk,Non-member,,Yes
+GST01498,Jacob,Brown,M,35-44,Liverpool,United Kingdom,L,jacob.brown789@gmail.com,Bronze,2022-12-02,Yes
+GST01499,Rebecca,Wood,F,45-54,Bristol,United Kingdom,BS,rebecca.wood848@gmail.com,Silver,2020-10-16,Yes
+GST01500,Aisha,Baker,F,35-44,Glasgow,United Kingdom,G,aisha.baker24@outlook.com,Silver,2024-10-27,No
+GST01501,Rohan,Campbell,M,35-44,Birmingham,United Kingdom,B,rohan.campbell761@proton.me,Non-member,,No
+GST01502,Lewis,Parker,M,25-34,Cambridge,United Kingdom,CB,lewis.parker130@hotmail.com,Non-member,,No
+GST01503,Daniel,Patel,M,35-44,Birmingham,United Kingdom,B,daniel.patel790@outlook.com,Bronze,2018-03-17,Yes
+GST01504,Freya,Gupta,F,25-34,Glasgow,United Kingdom,G,freya.gupta443@gmail.com,Silver,2024-05-20,No
+GST01505,Aisha,Fraser,F,25-34,Reading,United Kingdom,RG,aisha.fraser398@hotmail.com,Silver,2020-12-06,Yes
+GST01506,Amelia,Jackson,F,25-34,Cardiff,United Kingdom,CF,amelia.jackson753@yahoo.co.uk,Gold,2022-12-16,Yes
+GST01507,Joshua,Campbell,M,35-44,Nottingham,United Kingdom,NG,joshua.campbell131@icloud.com,Silver,2019-06-17,No
+GST01508,Sophia,Robinson,F,25-34,New York,United States,,sophia.robinson211@icloud.com,Silver,2022-08-01,Yes
+GST01509,Isla,Cooper,F,25-34,Leicester,United Kingdom,LE,isla.cooper27@yahoo.co.uk,Non-member,,No
+GST01510,George,Hussain,M,25-34,Sheffield,United Kingdom,S,george.hussain323@proton.me,Silver,2024-04-03,Yes
+GST01511,Sophie,Gupta,F,18-24,Mumbai,India,,sophie.gupta243@yahoo.co.uk,Bronze,2018-09-04,Yes
+GST01512,Adam,Singh,M,25-34,Manchester,United Kingdom,M,adam.singh770@proton.me,Bronze,2022-05-14,Yes
+GST01513,Sophia,Fraser,F,65+,Leicester,United Kingdom,LE,sophia.fraser52@proton.me,Bronze,2021-01-17,Yes
+GST01514,Samuel,Gupta,M,45-54,Sydney,Australia,,samuel.gupta947@outlook.com,Silver,2023-01-11,No
+GST01515,Sophie,Mitchell,F,55-64,New York,United States,,sophie.mitchell306@gmail.com,Silver,2023-06-30,Yes
+GST01516,Ava,Evans,F,45-54,Birmingham,United Kingdom,B,ava.evans983@proton.me,Platinum,2021-09-15,No
+GST01517,Chloe,Parker,F,55-64,Edinburgh,United Kingdom,EH,chloe.parker134@outlook.com,Bronze,2023-04-02,Yes
+GST01518,Charlotte,Carter,F,25-34,Amsterdam,Netherlands,,charlotte.carter340@outlook.com,Silver,2019-04-06,No
+GST01519,Maya,Turner,F,35-44,Cambridge,United Kingdom,CB,maya.turner508@outlook.com,Gold,2024-12-17,No
+GST01520,Georgia,Morris,F,18-24,Cardiff,United Kingdom,CF,georgia.morris418@proton.me,Platinum,2025-09-12,Yes
+GST01521,Nathan,Walker,M,45-54,Sheffield,United Kingdom,S,nathan.walker438@gmail.com,Silver,2021-04-27,Yes
+GST01522,Amelia,Hussain,F,35-44,Reading,United Kingdom,RG,amelia.hussain143@yahoo.co.uk,Silver,2022-12-04,Yes
+GST01523,Benjamin,Wood,M,35-44,Oxford,United Kingdom,OX,benjamin.wood311@proton.me,Bronze,2022-07-20,No
+GST01524,Mia,Johnson,F,35-44,Madrid,Spain,,mia.johnson162@yahoo.co.uk,Platinum,2020-11-11,Yes
+GST01525,Grace,Walker,F,65+,Sheffield,United Kingdom,S,grace.walker535@yahoo.co.uk,Bronze,2022-07-19,Yes
+GST01526,Daniel,Brown,M,25-34,Leeds,United Kingdom,LS,daniel.brown828@outlook.com,Gold,2022-02-09,Yes
+GST01527,Isla,Johnson,F,55-64,Manchester,United Kingdom,M,isla.johnson685@yahoo.co.uk,Silver,2020-07-25,No
+GST01528,Noah,Fraser,M,35-44,Cardiff,United Kingdom,CF,noah.fraser978@icloud.com,Gold,2023-01-21,Yes
+GST01529,Luke,Shah,M,25-34,Manchester,United Kingdom,M,luke.shah873@gmail.com,Gold,2020-08-17,Yes
+GST01530,Maya,Khan,F,55-64,Paris,France,,maya.khan988@yahoo.co.uk,Platinum,2021-08-10,Yes
+GST01531,Rohan,Turner,M,35-44,Sheffield,United Kingdom,S,rohan.turner573@outlook.com,Bronze,2024-08-22,Yes
+GST01532,Thomas,Edwards,M,45-54,Birmingham,United Kingdom,B,thomas.edwards184@outlook.com,Gold,2022-05-24,Yes
+GST01533,Freya,Wood,F,45-54,Edinburgh,United Kingdom,EH,freya.wood20@icloud.com,Bronze,2024-07-06,Yes
+GST01534,Evie,Davies,F,35-44,Leicester,United Kingdom,LE,evie.davies802@icloud.com,Bronze,2023-01-19,Yes
+GST01535,Alice,Martin,F,45-54,Berlin,Germany,,alice.martin251@yahoo.co.uk,Silver,2026-04-13,Yes
+GST01536,David,Edwards,M,25-34,London,United Kingdom,SE,david.edwards29@proton.me,Bronze,2018-05-28,Yes
+GST01537,Ava,Fraser,F,25-34,Milan,Italy,,ava.fraser457@hotmail.com,Silver,2020-01-02,No
+GST01538,Maya,Turner,F,35-44,Newcastle,United Kingdom,NE,maya.turner177@proton.me,Gold,2018-05-22,Yes
+GST01539,Meera,Murray,F,25-34,Leeds,United Kingdom,LS,meera.murray676@gmail.com,Bronze,2023-02-17,Yes
+GST01540,Charlotte,Khan,F,18-24,Manchester,United Kingdom,M,charlotte.khan702@proton.me,Bronze,2024-11-20,Yes
+GST01541,Fatima,Carter,F,55-64,Nottingham,United Kingdom,NG,fatima.carter473@icloud.com,Gold,2020-09-29,Yes
+GST01542,Lewis,Parker,M,35-44,Leeds,United Kingdom,LS,lewis.parker412@hotmail.com,Bronze,2020-10-13,Yes
+GST01543,Nathan,Gupta,M,25-34,Reading,United Kingdom,RG,nathan.gupta488@yahoo.co.uk,Bronze,2022-07-09,Yes
+GST01544,Nadia,Phillips,F,55-64,Paris,France,,nadia.phillips973@gmail.com,Bronze,2021-07-25,Yes
+GST01545,Bethany,Thompson,F,45-54,Birmingham,United Kingdom,B,bethany.thompson647@hotmail.com,Bronze,2024-01-29,Yes
+GST01546,Ryan,Johnson,M,45-54,Newcastle,United Kingdom,NE,ryan.johnson935@yahoo.co.uk,Bronze,2021-06-21,No
+GST01547,Lily,Reid,F,45-54,New York,United States,,lily.reid636@yahoo.co.uk,Non-member,,Yes
+GST01548,Charlie,Harris,M,45-54,Birmingham,United Kingdom,B,charlie.harris216@proton.me,Gold,2024-11-29,Yes
+GST01549,James,Green,M,35-44,Cambridge,United Kingdom,CB,james.green721@icloud.com,Silver,2022-09-16,No
+GST01550,Oliver,Jones,M,18-24,Toronto,Canada,,oliver.jones586@proton.me,Silver,2021-06-19,Yes
+GST01551,Alice,Mehta,F,45-54,Cambridge,United Kingdom,CB,alice.mehta189@outlook.com,Bronze,2019-07-21,Yes
+GST01552,George,Williams,M,35-44,London,United Kingdom,SE,george.williams405@proton.me,Non-member,,Yes
+GST01553,Freya,Wilson,F,25-34,Oxford,United Kingdom,OX,freya.wilson622@icloud.com,Bronze,2023-09-07,Yes
+GST01554,Samuel,Robinson,M,35-44,Leicester,United Kingdom,LE,samuel.robinson843@yahoo.co.uk,Bronze,2022-09-23,Yes
+GST01555,David,White,M,25-34,Reading,United Kingdom,RG,david.white946@gmail.com,Bronze,2026-07-30,Yes
+GST01556,Chloe,Patel,F,45-54,Dublin,Ireland,,chloe.patel139@hotmail.com,Bronze,2018-09-08,Yes
+GST01557,Matthew,Shah,M,55-64,Liverpool,United Kingdom,L,matthew.shah77@gmail.com,Silver,2023-04-18,Yes
+GST01558,Joshua,Fraser,M,35-44,Newcastle,United Kingdom,NE,joshua.fraser510@outlook.com,Bronze,2021-10-14,No
+GST01559,Maya,Harris,F,35-44,Birmingham,United Kingdom,B,maya.harris715@proton.me,Bronze,2023-09-26,Yes
+GST01560,Lewis,Wright,M,45-54,Reading,United Kingdom,RG,lewis.wright455@proton.me,Bronze,2021-12-28,Yes
+GST01561,Lucy,Ali,F,25-34,Oxford,United Kingdom,OX,lucy.ali719@gmail.com,Silver,2019-02-01,Yes
+GST01562,Jack,King,M,25-34,Liverpool,United Kingdom,L,jack.king310@yahoo.co.uk,Platinum,2019-06-02,Yes
+GST01563,Maya,Brown,F,35-44,Toronto,Canada,,maya.brown906@yahoo.co.uk,Bronze,2019-08-24,Yes
+GST01564,James,Fraser,M,25-34,Manchester,United Kingdom,M,james.fraser10@proton.me,Bronze,2020-11-21,No
+GST01565,Nadia,Johnson,F,35-44,Glasgow,United Kingdom,G,nadia.johnson715@yahoo.co.uk,Gold,2019-10-22,Yes
+GST01566,Olivia,Khan,F,55-64,Reading,United Kingdom,RG,olivia.khan745@gmail.com,Bronze,2024-03-25,Yes
+GST01567,Alice,Ali,F,55-64,Madrid,Spain,,alice.ali882@hotmail.com,Silver,2022-12-01,No
+GST01568,Ava,Thompson,F,55-64,Newcastle,United Kingdom,NE,ava.thompson976@icloud.com,Bronze,2023-10-10,Yes
+GST01569,Sara,Mitchell,F,35-44,Paris,France,,sara.mitchell904@outlook.com,Gold,2025-04-27,No
+GST01570,Evie,King,F,18-24,Sheffield,United Kingdom,S,evie.king940@hotmail.com,Gold,2021-09-19,No
+GST01571,George,Wood,M,35-44,London,United Kingdom,SE,george.wood711@icloud.com,Silver,2023-10-05,Yes
+GST01572,Emily,Collins,F,45-54,Leicester,United Kingdom,LE,emily.collins423@hotmail.com,Gold,2022-03-12,Yes
+GST01573,Ava,Mehta,F,35-44,Oxford,United Kingdom,OX,ava.mehta648@hotmail.com,Bronze,2026-06-04,Yes
+GST01574,Oscar,Green,M,25-34,Newcastle,United Kingdom,NE,oscar.green736@proton.me,Bronze,2020-08-01,Yes
+GST01575,Jessica,Martin,F,35-44,Glasgow,United Kingdom,G,jessica.martin492@icloud.com,Silver,2024-07-09,Yes
+GST01576,Henry,Evans,M,35-44,Nottingham,United Kingdom,NG,henry.evans318@icloud.com,Bronze,2020-09-09,Yes
+GST01577,Sara,Collins,F,45-54,Leeds,United Kingdom,LS,sara.collins80@proton.me,Bronze,2022-06-12,Yes
+GST01578,Omar,Hall,M,35-44,Newcastle,United Kingdom,NE,omar.hall836@proton.me,Bronze,2020-01-31,No
+GST01579,Ella,Cooper,F,25-34,Milan,Italy,,ella.cooper288@outlook.com,Silver,2023-04-25,Yes
+GST01580,Adam,Johnson,M,45-54,Liverpool,United Kingdom,L,adam.johnson284@icloud.com,Non-member,,No
+GST01581,Olivia,Johnson,F,35-44,Glasgow,United Kingdom,G,olivia.johnson149@proton.me,Silver,2022-05-23,Yes
+GST01582,Nathan,Brown,M,45-54,Mumbai,India,,nathan.brown516@hotmail.com,Non-member,,Yes
+GST01583,Lucy,Khan,F,45-54,Dublin,Ireland,,lucy.khan764@hotmail.com,Platinum,2024-10-02,Yes
+GST01584,Adam,Cooper,M,25-34,Oxford,United Kingdom,OX,adam.cooper639@icloud.com,Bronze,2023-08-18,Yes
+GST01585,Grace,Harris,F,18-24,Berlin,Germany,,grace.harris662@icloud.com,Bronze,2020-07-27,No
+GST01586,Luke,Johnson,M,35-44,London,United Kingdom,SE,luke.johnson991@gmail.com,Gold,2023-06-08,Yes
+GST01587,Sophia,Taylor,F,35-44,Newcastle,United Kingdom,NE,sophia.taylor112@gmail.com,Silver,2021-07-02,Yes
+GST01588,Daniel,White,M,55-64,Reading,United Kingdom,RG,daniel.white736@gmail.com,Silver,2023-06-25,No
+GST01589,Noah,Jackson,M,55-64,Reading,United Kingdom,RG,noah.jackson200@icloud.com,Non-member,,Yes
+GST01590,Sara,Ahmed,F,65+,Nottingham,United Kingdom,NG,sara.ahmed583@outlook.com,Platinum,2026-05-16,Yes
+GST01591,Olivia,Taylor,F,25-34,Oxford,United Kingdom,OX,olivia.taylor113@hotmail.com,Non-member,,Yes
+GST01592,Charlotte,Gupta,F,55-64,Amsterdam,Netherlands,,charlotte.gupta521@outlook.com,Platinum,2018-06-30,Yes
+GST01593,Bethany,Mitchell,F,35-44,Birmingham,United Kingdom,B,bethany.mitchell831@icloud.com,Silver,2018-11-06,Yes
+GST01594,Adam,Parker,M,55-64,Amsterdam,Netherlands,,adam.parker560@proton.me,Gold,2018-05-13,Yes
+GST01595,Benjamin,Wilson,M,35-44,Paris,France,,benjamin.wilson234@proton.me,Silver,2024-03-29,Yes
+GST01596,Sophie,Smith,F,25-34,Manchester,United Kingdom,M,sophie.smith616@gmail.com,Non-member,,Yes
+GST01597,James,Taylor,M,25-34,Mumbai,India,,james.taylor588@proton.me,Platinum,2025-11-05,Yes
+GST01598,Maya,Hall,F,65+,London,United Kingdom,SE,maya.hall820@icloud.com,Silver,2019-11-26,No
+GST01599,Callum,Mehta,M,45-54,Edinburgh,United Kingdom,EH,callum.mehta459@gmail.com,Gold,2021-04-17,No
+GST01600,Adam,Hall,M,35-44,Dublin,Ireland,,adam.hall379@proton.me,Bronze,2026-05-30,Yes
+GST01601,Fatima,Mitchell,F,45-54,Edinburgh,United Kingdom,EH,fatima.mitchell10@hotmail.com,Bronze,2020-03-22,Yes
+GST01602,Mia,Ali,F,45-54,Paris,France,,mia.ali257@gmail.com,Bronze,2024-11-18,Yes
+GST01603,Joshua,Morris,M,35-44,Madrid,Spain,,joshua.morris234@icloud.com,Gold,2018-02-24,Yes
+GST01604,Evie,Walker,F,55-64,Edinburgh,United Kingdom,EH,evie.walker845@icloud.com,Platinum,2023-03-30,Yes
+GST01605,Ethan,Fraser,M,35-44,Milan,Italy,,ethan.fraser379@hotmail.com,Gold,2019-10-05,Yes
+GST01606,Oliver,Jones,M,25-34,Sheffield,United Kingdom,S,oliver.jones953@hotmail.com,Bronze,2019-03-14,Yes
+GST01607,Fatima,Collins,F,35-44,Oxford,United Kingdom,OX,fatima.collins877@yahoo.co.uk,Silver,2018-06-21,Yes
+GST01608,Leah,Robinson,F,35-44,Bristol,United Kingdom,BS,leah.robinson166@outlook.com,Silver,2026-07-22,Yes
+GST01609,Grace,Cooper,F,45-54,Newcastle,United Kingdom,NE,grace.cooper688@icloud.com,Gold,2021-01-15,No
+GST01610,Henry,Singh,M,25-34,Paris,France,,henry.singh434@hotmail.com,Bronze,2021-11-15,Yes
+GST01611,Ella,Campbell,F,65+,Sheffield,United Kingdom,S,ella.campbell572@proton.me,Bronze,2020-09-13,Yes
+GST01612,Ella,Walker,F,25-34,Madrid,Spain,,ella.walker344@hotmail.com,Silver,2025-03-11,No
+GST01613,Ethan,Taylor,M,35-44,Glasgow,United Kingdom,G,ethan.taylor864@gmail.com,Bronze,2018-08-11,Yes
+GST01614,Ava,Jackson,F,55-64,Bristol,United Kingdom,BS,ava.jackson839@proton.me,Non-member,,Yes
+GST01615,Nathan,King,M,35-44,Glasgow,United Kingdom,G,nathan.king25@gmail.com,Silver,2023-08-04,Yes
+GST01616,Evie,Robinson,F,35-44,Glasgow,United Kingdom,G,evie.robinson813@outlook.com,Silver,2019-07-06,Yes
+GST01617,Aisha,Campbell,F,25-34,Leicester,United Kingdom,LE,aisha.campbell897@proton.me,Platinum,2022-05-25,Yes
+GST01618,Emily,Turner,F,35-44,Sheffield,United Kingdom,S,emily.turner818@proton.me,Bronze,2018-07-15,Yes
+GST01619,Meera,Evans,F,45-54,Reading,United Kingdom,RG,meera.evans85@yahoo.co.uk,Non-member,,No
+GST01620,Callum,Parker,M,35-44,Oxford,United Kingdom,OX,callum.parker366@icloud.com,Platinum,2019-10-31,Yes
+GST01621,Leah,Ahmed,F,35-44,Liverpool,United Kingdom,L,leah.ahmed837@gmail.com,Gold,2025-01-10,No
+GST01622,Amelia,Campbell,F,45-54,Bristol,United Kingdom,BS,amelia.campbell231@outlook.com,Silver,2024-11-26,Yes
+GST01623,Sara,Walker,F,25-34,Dublin,Ireland,,sara.walker849@gmail.com,Gold,2021-04-07,No
+GST01624,Ryan,Ahmed,M,65+,London,United Kingdom,SE,ryan.ahmed383@yahoo.co.uk,Silver,2019-03-06,No
+GST01625,Ananya,Phillips,F,55-64,Bristol,United Kingdom,BS,ananya.phillips183@hotmail.com,Platinum,2019-03-26,No
+GST01626,Lily,Stewart,F,35-44,Reading,United Kingdom,RG,lily.stewart71@gmail.com,Platinum,2024-03-31,No
+GST01627,James,Singh,M,25-34,Oxford,United Kingdom,OX,james.singh476@proton.me,Non-member,,Yes
+GST01628,Aisha,King,F,45-54,Oxford,United Kingdom,OX,aisha.king47@hotmail.com,Silver,2021-12-06,No
+GST01629,Henry,Ahmed,M,25-34,Sheffield,United Kingdom,S,henry.ahmed88@yahoo.co.uk,Silver,2022-05-15,No
+GST01630,Lily,Green,F,65+,London,United Kingdom,SE,lily.green735@yahoo.co.uk,Bronze,2019-10-09,Yes
+GST01631,Isla,Brown,F,45-54,Sydney,Australia,,isla.brown702@icloud.com,Non-member,,Yes
+GST01632,Daniel,Baker,M,18-24,Cambridge,United Kingdom,CB,daniel.baker425@proton.me,Bronze,2026-03-24,Yes
+GST01633,Zara,Parker,F,25-34,Reading,United Kingdom,RG,zara.parker499@gmail.com,Bronze,2022-12-26,Yes
+GST01634,Yusuf,Phillips,M,35-44,Oxford,United Kingdom,OX,yusuf.phillips752@hotmail.com,Bronze,2025-08-16,No
+GST01635,Fatima,Stewart,F,45-54,Nottingham,United Kingdom,NG,fatima.stewart317@hotmail.com,Non-member,,Yes
+GST01636,Arjun,Khan,M,35-44,Cambridge,United Kingdom,CB,arjun.khan449@proton.me,Bronze,2024-05-20,No
+GST01637,Jack,Wilson,M,35-44,Oxford,United Kingdom,OX,jack.wilson465@icloud.com,Gold,2024-02-03,No
+GST01638,Harry,Taylor,M,55-64,Bristol,United Kingdom,BS,harry.taylor649@outlook.com,Gold,2019-03-24,Yes
+GST01639,Alice,Patel,F,25-34,Cambridge,United Kingdom,CB,alice.patel453@outlook.com,Silver,2023-05-27,Yes
+GST01640,Ryan,Patel,M,25-34,Manchester,United Kingdom,M,ryan.patel504@hotmail.com,Bronze,2025-05-21,Yes
+GST01641,Rohan,Green,M,65+,Cardiff,United Kingdom,CF,rohan.green502@icloud.com,Gold,2018-01-18,Yes
+GST01642,Samuel,King,M,65+,Birmingham,United Kingdom,B,samuel.king908@icloud.com,Silver,2019-03-30,Yes
+GST01643,Ethan,Cooper,M,35-44,Cambridge,United Kingdom,CB,ethan.cooper481@outlook.com,Silver,2022-09-12,No
+GST01644,Benjamin,Thompson,M,55-64,Liverpool,United Kingdom,L,benjamin.thompson321@proton.me,Silver,2024-06-23,Yes
+GST01645,Thomas,Shah,M,45-54,Bristol,United Kingdom,BS,thomas.shah497@outlook.com,Silver,2019-05-10,Yes
+GST01646,Sara,Wilson,F,45-54,Leicester,United Kingdom,LE,sara.wilson756@proton.me,Gold,2026-03-03,No
+GST01647,Mia,Mitchell,F,45-54,Cardiff,United Kingdom,CF,mia.mitchell695@icloud.com,Silver,2018-01-14,Yes
+GST01648,Callum,Shah,M,35-44,Bristol,United Kingdom,BS,callum.shah296@icloud.com,Gold,2020-08-31,Yes
+GST01649,Grace,Collins,F,35-44,Cardiff,United Kingdom,CF,grace.collins343@proton.me,Gold,2019-05-23,Yes
+GST01650,Sara,Wood,F,25-34,Manchester,United Kingdom,M,sara.wood788@outlook.com,Bronze,2018-09-19,Yes
+GST01651,Mia,Smith,F,35-44,Dublin,Ireland,,mia.smith269@icloud.com,Bronze,2023-07-14,Yes
+GST01652,Sara,Campbell,F,55-64,Reading,United Kingdom,RG,sara.campbell175@icloud.com,Non-member,,No
+GST01653,Alice,King,F,18-24,Reading,United Kingdom,RG,alice.king812@yahoo.co.uk,Bronze,2024-01-29,Yes
+GST01654,Thomas,Morris,M,25-34,Cardiff,United Kingdom,CF,thomas.morris587@icloud.com,Non-member,,Yes
+GST01655,Jack,Jackson,M,35-44,Leeds,United Kingdom,LS,jack.jackson500@hotmail.com,Non-member,,Yes
+GST01656,Omar,Reid,M,35-44,Amsterdam,Netherlands,,omar.reid551@proton.me,Silver,2025-11-06,No
+GST01657,Nathan,Robinson,M,25-34,Paris,France,,nathan.robinson403@outlook.com,Bronze,2025-04-18,Yes
+GST01658,Oliver,Murray,M,35-44,Leeds,United Kingdom,LS,oliver.murray379@outlook.com,Bronze,2024-05-02,Yes
+GST01659,Thomas,Khan,M,45-54,London,United Kingdom,SE,thomas.khan759@proton.me,Gold,2018-10-14,Yes
+GST01660,Jacob,Jones,M,45-54,Toronto,Canada,,jacob.jones790@gmail.com,Silver,2021-09-16,Yes
+GST01661,Charlotte,Thompson,F,45-54,New York,United States,,charlotte.thompson24@proton.me,Non-member,,No
+GST01662,Matthew,Walker,M,25-34,Leeds,United Kingdom,LS,matthew.walker918@hotmail.com,Bronze,2023-04-14,Yes
+GST01663,Meera,Turner,F,35-44,Milan,Italy,,meera.turner841@gmail.com,Silver,2025-04-28,Yes
+GST01664,Jessica,Johnson,F,35-44,Leicester,United Kingdom,LE,jessica.johnson329@hotmail.com,Bronze,2024-07-07,Yes
+GST01665,Adam,Murray,M,55-64,Oxford,United Kingdom,OX,adam.murray104@hotmail.com,Bronze,2020-03-11,Yes
+GST01666,Leah,Mehta,F,45-54,Glasgow,United Kingdom,G,leah.mehta163@outlook.com,Non-member,,No
+GST01667,Callum,Ali,M,35-44,Bristol,United Kingdom,BS,callum.ali339@proton.me,Bronze,2019-04-24,No
+GST01668,Samuel,Robinson,M,35-44,Glasgow,United Kingdom,G,samuel.robinson662@proton.me,Non-member,,Yes
+GST01669,Ethan,Ahmed,M,25-34,Leeds,United Kingdom,LS,ethan.ahmed560@gmail.com,Bronze,2021-04-19,No
+GST01670,Bethany,Mehta,F,45-54,New York,United States,,bethany.mehta764@icloud.com,Non-member,,Yes
+GST01671,Rebecca,Murray,F,25-34,Reading,United Kingdom,RG,rebecca.murray710@gmail.com,Silver,2023-07-31,No
+GST01672,Leo,King,M,25-34,Toronto,Canada,,leo.king529@yahoo.co.uk,Silver,2024-04-03,No
+GST01673,Fatima,Edwards,F,35-44,Liverpool,United Kingdom,L,fatima.edwards200@gmail.com,Bronze,2018-04-01,Yes
+GST01674,David,Martin,M,25-34,Oxford,United Kingdom,OX,david.martin738@yahoo.co.uk,Bronze,2019-01-19,Yes
+GST01675,Jessica,Collins,F,45-54,New York,United States,,jessica.collins512@outlook.com,Silver,2019-04-22,Yes
+GST01676,Leah,Brown,F,25-34,Glasgow,United Kingdom,G,leah.brown945@proton.me,Bronze,2020-07-04,Yes
+GST01677,Jack,Shah,M,45-54,Sydney,Australia,,jack.shah322@icloud.com,Gold,2018-12-29,Yes
+GST01678,Henry,Campbell,M,65+,New York,United States,,henry.campbell238@icloud.com,Silver,2020-07-12,No
+GST01679,Lewis,Gupta,M,25-34,Manchester,United Kingdom,M,lewis.gupta744@proton.me,Bronze,2018-05-22,Yes
+GST01680,Oliver,Thompson,M,18-24,Birmingham,United Kingdom,B,oliver.thompson949@proton.me,Bronze,2021-09-12,Yes
+GST01681,Ava,King,F,35-44,Leeds,United Kingdom,LS,ava.king990@hotmail.com,Gold,2022-03-11,No
+GST01682,Daniel,Green,M,35-44,Glasgow,United Kingdom,G,daniel.green335@icloud.com,Bronze,2020-05-11,Yes
+GST01683,Oliver,Jones,M,35-44,Leeds,United Kingdom,LS,oliver.jones73@proton.me,Bronze,2022-10-14,Yes
+GST01684,Freya,Green,F,18-24,Liverpool,United Kingdom,L,freya.green779@yahoo.co.uk,Bronze,2026-07-15,Yes
+GST01685,Sophie,Shah,F,35-44,Manchester,United Kingdom,M,sophie.shah779@hotmail.com,Gold,2026-07-02,Yes
+GST01686,Bethany,Ahmed,F,35-44,Oxford,United Kingdom,OX,bethany.ahmed751@hotmail.com,Non-member,,Yes
+GST01687,William,Khan,M,25-34,Oxford,United Kingdom,OX,william.khan554@hotmail.com,Bronze,2021-03-31,Yes
+GST01688,Rebecca,Taylor,F,55-64,Sheffield,United Kingdom,S,rebecca.taylor871@proton.me,Bronze,2020-05-25,Yes
+GST01689,Ethan,Murray,M,18-24,Reading,United Kingdom,RG,ethan.murray222@hotmail.com,Gold,2024-06-05,Yes
+GST01690,Ananya,Murray,F,35-44,Leeds,United Kingdom,LS,ananya.murray432@icloud.com,Gold,2022-11-28,Yes
+GST01691,Daniel,Jackson,M,35-44,Sheffield,United Kingdom,S,daniel.jackson594@outlook.com,Bronze,2022-07-12,Yes
+GST01692,Ella,Harris,F,25-34,Birmingham,United Kingdom,B,ella.harris313@yahoo.co.uk,Silver,2019-10-02,Yes
+GST01693,Amelia,Walker,F,25-34,Liverpool,United Kingdom,L,amelia.walker772@gmail.com,Bronze,2025-12-23,Yes
+GST01694,Adam,Carter,M,25-34,Oxford,United Kingdom,OX,adam.carter554@gmail.com,Silver,2025-12-01,Yes
+GST01695,Omar,Khan,M,45-54,Liverpool,United Kingdom,L,omar.khan840@icloud.com,Non-member,,Yes
+GST01696,Lucy,Harris,F,35-44,Mumbai,India,,lucy.harris420@proton.me,Platinum,2018-11-10,No
+GST01697,Ethan,Khan,M,65+,Cardiff,United Kingdom,CF,ethan.khan300@icloud.com,Silver,2023-09-14,No
+GST01698,Rebecca,Gupta,F,25-34,Edinburgh,United Kingdom,EH,rebecca.gupta755@yahoo.co.uk,Silver,2025-03-26,No
+GST01699,Fatima,Jones,F,35-44,Dublin,Ireland,,fatima.jones987@hotmail.com,Silver,2022-01-15,Yes
+GST01700,Jack,Thompson,M,25-34,Mumbai,India,,jack.thompson189@hotmail.com,Gold,2022-12-21,Yes
+GST01701,Aisha,Martin,F,25-34,Edinburgh,United Kingdom,EH,aisha.martin87@yahoo.co.uk,Silver,2020-04-16,Yes
+GST01702,Freya,Singh,F,25-34,Leicester,United Kingdom,LE,freya.singh682@icloud.com,Bronze,2018-09-22,Yes
+GST01703,Georgia,Jackson,F,25-34,Liverpool,United Kingdom,L,georgia.jackson190@outlook.com,Platinum,2019-06-22,Yes
+GST01704,Samuel,Morris,M,35-44,Edinburgh,United Kingdom,EH,samuel.morris486@outlook.com,Bronze,2024-10-01,Yes
+GST01705,Arjun,Carter,M,45-54,New York,United States,,arjun.carter806@icloud.com,Bronze,2020-05-29,Yes
+GST01706,Jessica,Campbell,F,35-44,Leeds,United Kingdom,LS,jessica.campbell512@icloud.com,Bronze,2026-05-12,Yes
+GST01707,Daniel,Taylor,M,35-44,Nottingham,United Kingdom,NG,daniel.taylor377@hotmail.com,Silver,2024-12-27,Yes
+GST01708,Alfie,Fraser,M,35-44,Toronto,Canada,,alfie.fraser721@icloud.com,Silver,2025-02-21,Yes
+GST01709,Joshua,Baker,M,35-44,Nottingham,United Kingdom,NG,joshua.baker638@outlook.com,Silver,2023-02-24,Yes
+GST01710,Lily,Walker,F,35-44,Liverpool,United Kingdom,L,lily.walker249@gmail.com,Bronze,2021-08-10,Yes
+GST01711,Nadia,Thompson,F,35-44,Milan,Italy,,nadia.thompson146@hotmail.com,Bronze,2021-09-20,Yes
+GST01712,Jessica,Taylor,F,25-34,Amsterdam,Netherlands,,jessica.taylor197@icloud.com,Silver,2022-05-06,Yes
+GST01713,Meera,Stewart,F,45-54,Cardiff,United Kingdom,CF,meera.stewart750@outlook.com,Bronze,2020-02-04,No
+GST01714,Amelia,Johnson,F,35-44,Leeds,United Kingdom,LS,amelia.johnson42@gmail.com,Silver,2021-06-18,No
+GST01715,Freya,Robinson,F,18-24,Leeds,United Kingdom,LS,freya.robinson75@outlook.com,Gold,2022-09-17,No
+GST01716,Jacob,Taylor,M,35-44,Oxford,United Kingdom,OX,jacob.taylor168@outlook.com,Bronze,2019-03-21,Yes
+GST01717,Oliver,Martin,M,35-44,Newcastle,United Kingdom,NE,oliver.martin313@hotmail.com,Bronze,2021-12-16,No
+GST01718,Luke,Turner,M,55-64,Manchester,United Kingdom,M,luke.turner488@proton.me,Non-member,,No
+GST01719,Sara,Harris,F,25-34,Nottingham,United Kingdom,NG,sara.harris768@yahoo.co.uk,Bronze,2023-03-15,No
+GST01720,Daniel,Wilson,M,35-44,Birmingham,United Kingdom,B,daniel.wilson286@gmail.com,Non-member,,No
+GST01721,Nadia,Phillips,F,25-34,Glasgow,United Kingdom,G,nadia.phillips532@icloud.com,Silver,2019-01-04,Yes
+GST01722,Rebecca,Brown,F,35-44,Leeds,United Kingdom,LS,rebecca.brown82@gmail.com,Bronze,2020-10-24,Yes
+GST01723,Priya,Williams,F,18-24,Liverpool,United Kingdom,L,priya.williams296@yahoo.co.uk,Bronze,2025-03-25,Yes
+GST01724,Zara,Hall,F,55-64,Cardiff,United Kingdom,CF,zara.hall261@yahoo.co.uk,Bronze,2024-12-15,Yes
+GST01725,Ella,Parker,F,55-64,Newcastle,United Kingdom,NE,ella.parker122@icloud.com,Non-member,,No
+GST01726,Benjamin,Patel,M,45-54,Cardiff,United Kingdom,CF,benjamin.patel361@proton.me,Non-member,,No
+GST01727,Alfie,Martin,M,45-54,Liverpool,United Kingdom,L,alfie.martin363@icloud.com,Non-member,,Yes
+GST01728,Ananya,Martin,F,18-24,Paris,France,,ananya.martin134@yahoo.co.uk,Silver,2025-05-10,Yes
+GST01729,Meera,Patel,F,25-34,Reading,United Kingdom,RG,meera.patel918@outlook.com,Non-member,,No
+GST01730,Grace,Walker,F,45-54,Glasgow,United Kingdom,G,grace.walker683@icloud.com,Non-member,,No
+GST01731,Chloe,Brown,F,55-64,Birmingham,United Kingdom,B,chloe.brown707@yahoo.co.uk,Gold,2022-02-06,Yes
+GST01732,Thomas,Hussain,M,65+,Oxford,United Kingdom,OX,thomas.hussain188@icloud.com,Gold,2019-10-16,Yes
+GST01733,Evie,Hussain,F,55-64,Cambridge,United Kingdom,CB,evie.hussain109@yahoo.co.uk,Bronze,2018-10-30,No
+GST01734,Jacob,Fraser,M,35-44,Leicester,United Kingdom,LE,jacob.fraser916@hotmail.com,Platinum,2025-05-26,Yes
+GST01735,Leah,Johnson,F,35-44,Reading,United Kingdom,RG,leah.johnson296@gmail.com,Bronze,2021-03-31,Yes
+GST01736,Arjun,Reid,M,35-44,Birmingham,United Kingdom,B,arjun.reid699@icloud.com,Bronze,2024-03-31,Yes
+GST01737,Rohan,Wright,M,45-54,Manchester,United Kingdom,M,rohan.wright328@yahoo.co.uk,Platinum,2025-12-03,Yes
+GST01738,Jessica,Taylor,F,18-24,Cambridge,United Kingdom,CB,jessica.taylor136@outlook.com,Non-member,,Yes
+GST01739,Mohammed,Carter,M,18-24,Leeds,United Kingdom,LS,mohammed.carter275@gmail.com,Gold,2022-12-04,No
+GST01740,David,Morris,M,35-44,Nottingham,United Kingdom,NG,david.morris141@yahoo.co.uk,Gold,2023-05-05,Yes
+GST01741,Alfie,Khan,M,35-44,Liverpool,United Kingdom,L,alfie.khan414@outlook.com,Silver,2020-03-17,Yes
+GST01742,Benjamin,Singh,M,25-34,Leicester,United Kingdom,LE,benjamin.singh637@hotmail.com,Bronze,2019-12-09,Yes
+GST01743,Adam,Hussain,M,65+,Sheffield,United Kingdom,S,adam.hussain780@proton.me,Silver,2023-01-19,Yes
+GST01744,Hannah,Jones,F,25-34,Newcastle,United Kingdom,NE,hannah.jones678@proton.me,Silver,2018-02-05,No
+GST01745,William,Wood,M,25-34,Bristol,United Kingdom,BS,william.wood452@outlook.com,Bronze,2018-11-21,Yes
+GST01746,Adam,Phillips,M,35-44,Cardiff,United Kingdom,CF,adam.phillips253@hotmail.com,Silver,2021-08-26,Yes
+GST01747,Ananya,Reid,F,25-34,Oxford,United Kingdom,OX,ananya.reid758@gmail.com,Gold,2022-12-30,Yes
+GST01748,Ethan,Johnson,M,18-24,Reading,United Kingdom,RG,ethan.johnson39@gmail.com,Silver,2024-02-02,Yes
+GST01749,Thomas,Campbell,M,25-34,Edinburgh,United Kingdom,EH,thomas.campbell388@hotmail.com,Non-member,,Yes
+GST01750,Lewis,King,M,45-54,Reading,United Kingdom,RG,lewis.king452@icloud.com,Silver,2026-04-05,Yes
+GST01751,Priya,Stewart,F,18-24,Sydney,Australia,,priya.stewart722@gmail.com,Non-member,,Yes
+GST01752,Omar,Wilson,M,25-34,Cambridge,United Kingdom,CB,omar.wilson659@yahoo.co.uk,Bronze,2018-10-21,Yes
+GST01753,Lucy,Collins,F,65+,Birmingham,United Kingdom,B,lucy.collins719@hotmail.com,Bronze,2024-08-11,Yes
+GST01754,Thomas,Murray,M,45-54,Sheffield,United Kingdom,S,thomas.murray902@hotmail.com,Non-member,,Yes
+GST01755,Jack,Mitchell,M,25-34,Nottingham,United Kingdom,NG,jack.mitchell31@proton.me,Bronze,2025-01-14,Yes
+GST01756,Freya,Williams,F,25-34,Cardiff,United Kingdom,CF,freya.williams587@icloud.com,Silver,2022-03-04,Yes
+GST01757,Daniel,Walker,M,45-54,London,United Kingdom,SE,daniel.walker292@proton.me,Gold,2025-05-20,Yes
+GST01758,Olivia,Clarke,F,18-24,Mumbai,India,,olivia.clarke314@icloud.com,Bronze,2026-01-23,Yes
+GST01759,Mia,Cooper,F,35-44,Birmingham,United Kingdom,B,mia.cooper832@yahoo.co.uk,Silver,2024-06-15,No
+GST01760,Zara,Williams,F,45-54,Dublin,Ireland,,zara.williams741@icloud.com,Non-member,,Yes
+GST01761,Samuel,Patel,M,25-34,Bristol,United Kingdom,BS,samuel.patel152@proton.me,Bronze,2018-03-01,Yes
+GST01762,Mia,Green,F,35-44,Glasgow,United Kingdom,G,mia.green878@icloud.com,Non-member,,No
+GST01763,Zara,Ahmed,F,35-44,London,United Kingdom,SE,zara.ahmed241@proton.me,Silver,2023-07-16,Yes
+GST01764,David,Green,M,35-44,Bristol,United Kingdom,BS,david.green540@yahoo.co.uk,Silver,2018-07-23,Yes
+GST01765,Priya,Williams,F,45-54,Bristol,United Kingdom,BS,priya.williams873@icloud.com,Non-member,,No
+GST01766,Arjun,Carter,M,45-54,London,United Kingdom,SE,arjun.carter372@proton.me,Gold,2018-05-30,Yes
+GST01767,Ananya,Evans,F,25-34,Bristol,United Kingdom,BS,ananya.evans343@yahoo.co.uk,Bronze,2018-07-04,Yes
+GST01768,Mohammed,Wilson,M,45-54,Bristol,United Kingdom,BS,mohammed.wilson887@gmail.com,Bronze,2020-08-14,Yes
+GST01769,Mia,Fraser,F,55-64,Manchester,United Kingdom,M,mia.fraser469@yahoo.co.uk,Bronze,2024-10-11,Yes
+GST01770,Meera,Mehta,F,65+,Nottingham,United Kingdom,NG,meera.mehta605@hotmail.com,Silver,2026-02-03,No
+GST01771,Adam,Campbell,M,25-34,Manchester,United Kingdom,M,adam.campbell407@proton.me,Non-member,,Yes
+GST01772,Charlie,Wright,M,35-44,Glasgow,United Kingdom,G,charlie.wright750@outlook.com,Non-member,,Yes
+GST01773,Arjun,Reid,M,25-34,Berlin,Germany,,arjun.reid261@outlook.com,Bronze,2023-07-01,Yes
+GST01774,Rohan,Jones,M,45-54,Nottingham,United Kingdom,NG,rohan.jones547@hotmail.com,Silver,2021-10-04,No
+GST01775,Sara,Ali,F,25-34,Reading,United Kingdom,RG,sara.ali590@gmail.com,Gold,2024-12-20,Yes
+GST01776,Charlie,Wood,M,35-44,Bristol,United Kingdom,BS,charlie.wood68@hotmail.com,Silver,2022-05-26,Yes
+GST01777,David,Brown,M,25-34,Reading,United Kingdom,RG,david.brown44@gmail.com,Bronze,2022-06-16,No
+GST01778,Lily,Wright,F,65+,Manchester,United Kingdom,M,lily.wright85@gmail.com,Silver,2026-01-25,No
+GST01779,Jacob,Phillips,M,45-54,Oxford,United Kingdom,OX,jacob.phillips462@outlook.com,Non-member,,Yes
+GST01780,David,Harris,M,45-54,Reading,United Kingdom,RG,david.harris626@gmail.com,Bronze,2026-01-20,Yes
+GST01781,Jessica,Morris,F,35-44,Leicester,United Kingdom,LE,jessica.morris335@hotmail.com,Gold,2026-07-28,No
+GST01782,Sara,Harris,F,18-24,Manchester,United Kingdom,M,sara.harris960@outlook.com,Non-member,,Yes
+GST01783,Charlie,Reid,M,25-34,Bristol,United Kingdom,BS,charlie.reid580@proton.me,Bronze,2022-05-15,Yes
+GST01784,Ryan,Phillips,M,45-54,Oxford,United Kingdom,OX,ryan.phillips348@icloud.com,Silver,2025-01-28,No
+GST01785,Alfie,Cooper,M,25-34,Oxford,United Kingdom,OX,alfie.cooper487@yahoo.co.uk,Silver,2022-05-14,Yes
+GST01786,Matthew,Wood,M,18-24,Berlin,Germany,,matthew.wood622@hotmail.com,Non-member,,No
+GST01787,Olivia,Morris,F,35-44,New York,United States,,olivia.morris521@outlook.com,Silver,2018-11-17,Yes
+GST01788,Emily,Martin,F,25-34,Leeds,United Kingdom,LS,emily.martin13@icloud.com,Silver,2020-03-18,No
+GST01789,Evie,Shah,F,35-44,Mumbai,India,,evie.shah203@gmail.com,Gold,2018-09-13,Yes
+GST01790,Grace,Patel,F,35-44,Cambridge,United Kingdom,CB,grace.patel140@icloud.com,Bronze,2021-07-16,Yes
+GST01791,Alfie,Wood,M,18-24,New York,United States,,alfie.wood503@icloud.com,Non-member,,No
+GST01792,Nathan,Smith,M,35-44,Glasgow,United Kingdom,G,nathan.smith33@hotmail.com,Bronze,2022-11-07,Yes
+GST01793,Meera,Morris,F,18-24,Sydney,Australia,,meera.morris210@icloud.com,Non-member,,No
+GST01794,Sophia,Patel,F,25-34,Leeds,United Kingdom,LS,sophia.patel798@icloud.com,Non-member,,No
+GST01795,Sara,Patel,F,35-44,Birmingham,United Kingdom,B,sara.patel886@gmail.com,Silver,2025-05-25,Yes
+GST01796,Ella,Thompson,F,18-24,Bristol,United Kingdom,BS,ella.thompson557@yahoo.co.uk,Gold,2026-01-26,Yes
+GST01797,Harry,White,M,55-64,Liverpool,United Kingdom,L,harry.white833@yahoo.co.uk,Non-member,,Yes
+GST01798,Isla,Patel,F,45-54,Cardiff,United Kingdom,CF,isla.patel489@outlook.com,Silver,2021-09-03,Yes
+GST01799,Sara,Patel,F,25-34,New York,United States,,sara.patel113@proton.me,Platinum,2023-06-10,No
+GST01800,Thomas,Patel,M,55-64,Berlin,Germany,,thomas.patel733@gmail.com,Bronze,2018-12-05,Yes

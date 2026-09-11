@@ -1,0 +1,253 @@
+EmployeeID,HotelID,FirstName,LastName,Department,JobRole,HireDate,EmploymentType,PrimaryShift,AnnualSalaryGBP,PerformanceRating,TrainingHoursYTD,AbsenceDaysYTD,EmploymentStatus
+EMP0001,HTL001,Alice,King,General Management,General Manager,2024-07-16,Full-time,Day,62421,3.9,13,4,Active
+EMP0002,HTL001,Sophie,Murray,Food & Beverage,F&B Manager,2021-08-26,Full-time,Day,45972,3.9,29,12,Active
+EMP0003,HTL001,Luke,Jones,Food & Beverage,Bartender,2019-03-19,Part-time,Day,17641,3.8,28,1,Active
+EMP0004,HTL001,Benjamin,White,Front Office,Front Office Manager,2015-05-16,Full-time,Day,41402,3.3,23,3,Active
+EMP0005,HTL001,Jessica,Carter,Sales & Events,Sales Manager,2022-05-25,Part-time,Evening,27075,3.1,12,10,Active
+EMP0006,HTL001,Sophie,Thompson,Finance & Admin,Hotel Accountant,2016-08-28,Full-time,Day,43394,3.8,33,5,Active
+EMP0007,HTL001,Oliver,Jackson,Food & Beverage,F&B Manager,2023-12-16,Full-time,Day,46330,3.7,33,1,Active
+EMP0008,HTL001,Benjamin,Clarke,Housekeeping,Housekeeping Supervisor,2026-05-07,Casual,Evening,16573,4.5,19,15,Active
+EMP0009,HTL001,Oscar,Wright,Finance & Admin,Hotel Accountant,2023-08-17,Part-time,Day,23581,4.7,7,2,Active
+EMP0010,HTL001,Samuel,Murray,Finance & Admin,HR & Admin Coordinator,2023-04-01,Full-time,Rotating,30717,3.9,35,15,Active
+EMP0011,HTL001,Jack,Ahmed,Food & Beverage,F&B Manager,2023-02-16,Full-time,Evening,42797,3.5,39,14,Active
+EMP0012,HTL001,Oliver,Ahmed,Sales & Events,Sales Manager,2016-02-19,Full-time,Evening,44528,4.4,11,12,Active
+EMP0013,HTL001,Omar,Ali,Front Office,Receptionist,2019-01-01,Full-time,Rotating,25437,4.3,26,8,Active
+EMP0014,HTL001,Ava,Mehta,Sales & Events,Sales Executive,2024-03-16,Casual,Day,17439,3.8,3,11,Active
+EMP0015,HTL001,Ananya,Parker,Finance & Admin,HR & Admin Coordinator,2022-12-03,Full-time,Evening,33194,3.8,25,2,Active
+EMP0016,HTL001,Lily,White,Finance & Admin,Hotel Accountant,2020-11-18,Full-time,Day,35873,3.6,17,3,Left
+EMP0017,HTL001,James,Gupta,Front Office,Night Auditor,2024-06-01,Full-time,Day,30591,3.8,5,11,Active
+EMP0018,HTL001,Leo,Edwards,Housekeeping,Housekeeping Supervisor,2016-09-29,Full-time,Rotating,27185,5,0,0,Active
+EMP0019,HTL001,Aisha,Jones,Sales & Events,Sales Manager,2015-08-26,Full-time,Night,44081,3.9,7,8,Active
+EMP0020,HTL001,Leo,Johnson,Food & Beverage,Waiter/Server,2024-11-25,Full-time,Day,24553,2.7,24,15,Active
+EMP0021,HTL001,Lily,Green,Sales & Events,Sales Executive,2021-06-26,Full-time,Evening,31591,4.7,10,6,Left
+EMP0022,HTL001,Lucy,Collins,Front Office,Receptionist,2022-10-31,Full-time,Evening,26692,3.2,33,5,Active
+EMP0023,HTL001,Matthew,Stewart,Housekeeping,Housekeeping Supervisor,2022-03-29,Casual,Day,16381,4.1,16,5,On Leave
+EMP0024,HTL001,Matthew,Green,Food & Beverage,F&B Manager,2017-02-10,Full-time,Rotating,44262,3.6,3,15,Active
+EMP0025,HTL001,Arjun,Williams,Finance & Admin,Accounts Assistant,2020-04-03,Full-time,Night,29028,4,20,5,Active
+EMP0026,HTL001,Olivia,Johnson,Sales & Events,Events Coordinator,2019-01-18,Full-time,Evening,30974,3.6,14,5,Active
+EMP0027,HTL001,Maya,Campbell,Housekeeping,Executive Housekeeper,2017-07-15,Part-time,Evening,25839,4,33,9,Active
+EMP0028,HTL001,Leo,Singh,Front Office,Night Auditor,2015-06-12,Casual,Rotating,14479,3.8,42,2,Active
+EMP0029,HTL001,David,Hall,Food & Beverage,Chef de Partie,2021-12-13,Full-time,Day,29252,3,24,4,Active
+EMP0030,HTL001,Lewis,Walker,Food & Beverage,F&B Manager,2017-02-27,Full-time,Rotating,39750,3.7,42,15,Active
+EMP0031,HTL001,Samuel,Reid,Food & Beverage,Waiter/Server,2024-12-01,Part-time,Evening,15561,3.6,12,6,Active
+EMP0032,HTL001,Oliver,King,Sales & Events,Events Coordinator,2018-08-04,Part-time,Evening,19018,4.4,14,7,Active
+EMP0033,HTL001,Arjun,Fraser,Food & Beverage,F&B Manager,2026-05-12,Full-time,Day,43933,3.2,31,15,Active
+EMP0034,HTL001,Arjun,Martin,Maintenance,Maintenance Supervisor,2016-12-17,Part-time,Evening,20083,4.2,21,6,Active
+EMP0035,HTL001,Charlie,Jones,Food & Beverage,F&B Manager,2019-12-28,Full-time,Day,43982,3.6,25,1,Active
+EMP0036,HTL001,Ryan,Morris,Front Office,Receptionist,2018-06-15,Full-time,Day,25735,3.7,0,6,Active
+EMP0037,HTL001,Lily,Stewart,Food & Beverage,Waiter/Server,2021-05-16,Full-time,Day,24905,3.7,36,5,Active
+EMP0038,HTL001,Bethany,Jones,Food & Beverage,Chef de Partie,2018-06-29,Full-time,Day,31874,4.3,37,10,Active
+EMP0039,HTL001,Luke,Gupta,Front Office,Front Office Manager,2022-01-07,Full-time,Day,41309,3.4,5,14,Active
+EMP0040,HTL001,Lily,Jackson,Housekeeping,Room Attendant,2024-10-12,Full-time,Evening,26522,3.9,38,4,Active
+EMP0041,HTL001,George,Fraser,Finance & Admin,Hotel Accountant,2024-09-06,Part-time,Day,27021,3.8,7,13,Active
+EMP0042,HTL001,Evie,Smith,Food & Beverage,Bartender,2019-08-19,Full-time,Day,29506,3.2,15,10,Active
+EMP0043,HTL001,Ananya,Taylor,Housekeeping,Executive Housekeeper,2015-06-28,Full-time,Day,39472,2.7,9,14,Active
+EMP0044,HTL001,Oscar,Shah,Sales & Events,Sales Manager,2024-01-04,Full-time,Evening,41216,2.9,0,11,Active
+EMP0045,HTL001,Rebecca,Cooper,Food & Beverage,Sous Chef,2017-08-14,Full-time,Day,40576,3.2,3,12,Active
+EMP0046,HTL001,Lucy,Wright,Maintenance,Maintenance Supervisor,2020-08-02,Part-time,Day,24661,3.6,8,6,Active
+EMP0047,HTL001,Bethany,Khan,Front Office,Receptionist,2016-10-10,Part-time,Evening,16078,3.5,31,10,Active
+EMP0048,HTL001,Leo,Reid,Housekeeping,Housekeeping Supervisor,2023-02-20,Full-time,Night,29321,3.4,25,10,Active
+EMP0049,HTL001,Meera,Wood,Food & Beverage,F&B Manager,2022-04-27,Full-time,Day,46741,3.7,29,3,Active
+EMP0050,HTL001,Bethany,Baker,Front Office,Receptionist,2020-11-27,Full-time,Day,26985,3.3,40,14,Active
+EMP0051,HTL001,Rebecca,Mehta,Food & Beverage,Bartender,2024-03-20,Full-time,Rotating,26328,3.6,12,1,Active
+EMP0052,HTL001,Leah,Smith,Front Office,Receptionist,2016-01-12,Full-time,Night,27869,4.2,27,4,Active
+EMP0053,HTL002,Yusuf,Morris,General Management,General Manager,2014-06-18,Full-time,Day,52461,4.2,31,2,Active
+EMP0054,HTL002,Mohammed,Walker,Maintenance,Maintenance Supervisor,2024-12-19,Part-time,Evening,23188,3.3,15,9,Active
+EMP0055,HTL002,Evie,Parker,Food & Beverage,F&B Manager,2015-07-17,Full-time,Rotating,43694,3.8,9,2,Active
+EMP0056,HTL002,Nadia,Campbell,Front Office,Front Office Manager,2017-07-27,Full-time,Day,38994,3.8,1,8,Active
+EMP0057,HTL002,Ananya,White,Maintenance,Maintenance Technician,2026-06-04,Full-time,Day,32311,3.6,12,11,Active
+EMP0058,HTL002,Omar,Hall,Housekeeping,Housekeeping Supervisor,2017-10-05,Full-time,Night,30143,4.5,1,11,Active
+EMP0059,HTL002,Noah,Harris,Housekeeping,Housekeeping Supervisor,2016-12-15,Full-time,Evening,29608,4.7,38,13,Active
+EMP0060,HTL002,Lucy,Murray,Finance & Admin,Accounts Assistant,2021-07-24,Part-time,Evening,14517,4,34,3,Active
+EMP0061,HTL002,Freya,Clarke,Food & Beverage,Chef de Partie,2017-02-15,Full-time,Day,29080,3.7,0,11,Active
+EMP0062,HTL002,Ella,Phillips,Front Office,Night Auditor,2015-03-04,Part-time,Day,14695,4.1,0,2,Active
+EMP0063,HTL002,Leo,Hall,Front Office,Night Auditor,2017-11-28,Part-time,Day,16398,4.1,31,15,Active
+EMP0064,HTL002,Meera,Carter,Housekeeping,Executive Housekeeper,2020-12-05,Part-time,Day,18602,3.6,8,10,Active
+EMP0065,HTL002,Chloe,Brown,Front Office,Receptionist,2022-02-18,Full-time,Rotating,24711,4.8,7,4,Active
+EMP0066,HTL002,Amelia,Morris,Front Office,Night Auditor,2025-03-25,Full-time,Evening,26145,3.6,13,15,Active
+EMP0067,HTL002,Georgia,Mitchell,Finance & Admin,Accounts Assistant,2016-11-14,Full-time,Rotating,28528,3.8,28,1,Active
+EMP0068,HTL002,Aisha,Martin,Housekeeping,Room Attendant,2015-09-09,Full-time,Evening,24557,3.6,32,7,Active
+EMP0069,HTL002,Daniel,Jackson,Front Office,Night Auditor,2016-10-01,Full-time,Evening,27744,4,40,1,Active
+EMP0070,HTL002,George,Johnson,Housekeeping,Room Attendant,2024-08-13,Full-time,Night,24653,3.7,37,10,Left
+EMP0071,HTL002,Arjun,Thompson,Housekeeping,Executive Housekeeper,2024-03-30,Casual,Day,20119,3.5,1,14,Active
+EMP0072,HTL002,Lucy,Shah,Front Office,Front Office Supervisor,2015-02-16,Full-time,Day,29367,3.9,17,6,Active
+EMP0073,HTL002,Georgia,White,Food & Beverage,Chef de Partie,2016-01-14,Full-time,Night,33550,3.7,14,13,Active
+EMP0074,HTL002,Maya,Collins,Sales & Events,Events Coordinator,2018-06-22,Full-time,Evening,28424,3.3,2,1,Active
+EMP0075,HTL002,Ananya,Brown,Front Office,Front Office Supervisor,2020-12-22,Part-time,Rotating,23833,5,30,5,Active
+EMP0076,HTL002,Hannah,Hall,Food & Beverage,Waiter/Server,2019-04-24,Part-time,Day,16148,4,36,12,Active
+EMP0077,HTL002,Nathan,Thompson,Housekeeping,Room Attendant,2018-09-26,Full-time,Rotating,25255,3.8,7,3,Active
+EMP0078,HTL002,Leah,Ahmed,Housekeeping,Housekeeping Supervisor,2022-03-21,Part-time,Night,17975,3.5,3,1,Active
+EMP0079,HTL002,Nadia,White,Food & Beverage,Sous Chef,2015-02-09,Full-time,Evening,38460,3.9,33,13,Active
+EMP0080,HTL002,Oliver,Walker,Food & Beverage,F&B Manager,2024-01-08,Full-time,Evening,41833,4.1,31,0,Active
+EMP0081,HTL002,Meera,Morris,Front Office,Receptionist,2022-07-07,Full-time,Rotating,24820,4.1,11,5,Active
+EMP0082,HTL002,Nadia,Carter,Front Office,Night Auditor,2022-09-19,Part-time,Day,19229,3.2,37,11,Active
+EMP0083,HTL002,Sophie,King,Sales & Events,Sales Executive,2025-01-17,Full-time,Evening,33226,3.6,29,9,Active
+EMP0084,HTL002,Jacob,Williams,Maintenance,Maintenance Supervisor,2024-10-20,Part-time,Rotating,18940,4.1,27,4,Active
+EMP0085,HTL002,Charlotte,Smith,Housekeeping,Executive Housekeeper,2015-02-06,Full-time,Day,38388,3.7,23,8,Active
+EMP0086,HTL002,Daniel,King,Front Office,Front Office Manager,2017-08-09,Full-time,Evening,39756,4.3,22,13,Active
+EMP0087,HTL002,Lily,Collins,Front Office,Night Auditor,2023-02-27,Full-time,Day,26182,3.6,7,12,Active
+EMP0088,HTL002,Daniel,Brown,Sales & Events,Sales Manager,2015-01-26,Full-time,Evening,40951,3.6,19,1,Active
+EMP0089,HTL002,Harry,Fraser,Housekeeping,Housekeeping Supervisor,2018-11-26,Full-time,Day,28847,4.9,6,1,Active
+EMP0090,HTL002,Charlotte,Stewart,Sales & Events,Sales Manager,2018-09-09,Casual,Rotating,22255,4.2,23,3,Active
+EMP0091,HTL002,Rohan,Robinson,Sales & Events,Sales Manager,2025-04-18,Full-time,Day,44460,4.2,1,10,Active
+EMP0092,HTL002,Olivia,Fraser,Maintenance,Maintenance Supervisor,2015-12-01,Full-time,Day,40419,3.3,38,8,Active
+EMP0093,HTL002,George,Ali,Sales & Events,Events Coordinator,2024-02-05,Full-time,Evening,31735,3.8,35,8,Active
+EMP0094,HTL002,Mia,Hall,Food & Beverage,Chef de Partie,2016-12-16,Part-time,Rotating,19225,3.3,20,3,Active
+EMP0095,HTL002,Mia,Stewart,Front Office,Front Office Manager,2021-10-20,Casual,Evening,24368,4.5,11,11,Active
+EMP0096,HTL002,Aisha,Shah,Front Office,Receptionist,2020-08-29,Full-time,Day,26174,4.2,33,11,Active
+EMP0097,HTL002,Daniel,Jones,Front Office,Front Office Supervisor,2016-06-25,Full-time,Day,33318,4.7,30,3,Active
+EMP0098,HTL003,Arjun,Baker,General Management,General Manager,2023-01-22,Full-time,Day,61342,4.2,16,2,Active
+EMP0099,HTL003,Daniel,Brown,Housekeeping,Executive Housekeeper,2024-10-23,Part-time,Day,22876,3.9,21,15,On Leave
+EMP0100,HTL003,Mia,Patel,Housekeeping,Housekeeping Supervisor,2025-06-05,Casual,Rotating,16155,3.9,11,2,Active
+EMP0101,HTL003,Lucy,Gupta,Housekeeping,Housekeeping Supervisor,2019-07-28,Full-time,Day,27588,4.6,16,13,Active
+EMP0102,HTL003,Mohammed,Reid,Front Office,Front Office Supervisor,2020-10-14,Casual,Day,16164,4.1,40,13,Active
+EMP0103,HTL003,Adam,Patel,Food & Beverage,F&B Manager,2019-07-09,Full-time,Day,41463,4.1,37,15,Active
+EMP0104,HTL003,Samuel,Ali,Food & Beverage,Chef de Partie,2021-05-29,Part-time,Rotating,17984,3.8,5,10,Active
+EMP0105,HTL003,Aisha,Wright,Housekeeping,Housekeeping Supervisor,2023-03-01,Full-time,Day,27089,3.9,29,1,Active
+EMP0106,HTL003,Nathan,Smith,Front Office,Receptionist,2019-06-20,Full-time,Day,24574,3.4,36,13,Active
+EMP0107,HTL003,Ethan,Martin,Maintenance,Maintenance Supervisor,2017-08-03,Part-time,Night,22045,3.9,10,13,Active
+EMP0108,HTL003,Freya,Khan,Housekeeping,Executive Housekeeper,2020-05-26,Full-time,Day,42826,3.9,29,6,Active
+EMP0109,HTL003,Ananya,Wood,Front Office,Front Office Supervisor,2016-09-12,Full-time,Day,33251,3.3,26,7,Active
+EMP0110,HTL003,James,Fraser,Food & Beverage,Sous Chef,2019-10-04,Full-time,Rotating,40409,4.2,32,12,Active
+EMP0111,HTL003,Alice,Johnson,Food & Beverage,F&B Manager,2021-01-20,Full-time,Rotating,39564,3.8,7,14,Left
+EMP0112,HTL003,George,Mehta,Food & Beverage,Bartender,2017-02-15,Full-time,Evening,25139,3.9,2,9,Active
+EMP0113,HTL003,Harry,King,Food & Beverage,Waiter/Server,2018-02-05,Full-time,Day,24651,3.8,30,15,Active
+EMP0114,HTL003,Oliver,Wood,Finance & Admin,HR & Admin Coordinator,2018-07-28,Full-time,Rotating,34769,3.6,14,13,Active
+EMP0115,HTL003,Freya,Singh,Sales & Events,Sales Executive,2023-07-14,Full-time,Day,30791,3.9,37,7,Active
+EMP0116,HTL003,Evie,Evans,Sales & Events,Events Coordinator,2021-12-03,Full-time,Evening,30189,3.5,17,0,Active
+EMP0117,HTL003,Ryan,Smith,Maintenance,Maintenance Technician,2022-05-17,Part-time,Evening,15890,4.1,3,9,Active
+EMP0118,HTL003,Yusuf,Fraser,Housekeeping,Room Attendant,2020-08-20,Full-time,Night,25645,3.7,19,12,Active
+EMP0119,HTL003,Luke,Johnson,Food & Beverage,Bartender,2015-02-02,Full-time,Day,29116,3.2,15,12,Active
+EMP0120,HTL003,Mia,Smith,Food & Beverage,Waiter/Server,2019-09-25,Full-time,Day,24152,4.1,3,12,Active
+EMP0121,HTL003,Lewis,Gupta,Food & Beverage,Bartender,2017-02-13,Full-time,Night,25678,3.9,23,2,Active
+EMP0122,HTL003,Emily,Cooper,Food & Beverage,Waiter/Server,2026-06-20,Full-time,Day,27824,3.2,42,0,Active
+EMP0123,HTL003,Matthew,Murray,Food & Beverage,Bartender,2022-03-16,Full-time,Day,29482,4,37,14,Active
+EMP0124,HTL003,Isla,Singh,Food & Beverage,Chef de Partie,2024-11-18,Full-time,Evening,32349,3.7,21,4,Active
+EMP0125,HTL003,Omar,Campbell,Front Office,Night Auditor,2021-09-26,Full-time,Day,27893,3.6,22,7,Active
+EMP0126,HTL003,Sophie,Harris,Food & Beverage,Sous Chef,2018-01-08,Casual,Rotating,21875,4.8,2,15,Active
+EMP0127,HTL003,Harry,Murray,Maintenance,Maintenance Technician,2017-12-29,Full-time,Evening,33189,4.6,19,12,Active
+EMP0128,HTL003,Benjamin,Walker,Front Office,Front Office Manager,2025-11-05,Full-time,Day,41543,5,26,5,Active
+EMP0129,HTL003,George,Johnson,Food & Beverage,F&B Manager,2022-05-21,Part-time,Day,28665,3.7,27,7,Active
+EMP0130,HTL003,Sophia,Edwards,Food & Beverage,Bartender,2023-07-21,Full-time,Day,27615,4.6,30,8,Active
+EMP0131,HTL003,Ava,Wood,Housekeeping,Housekeeping Supervisor,2023-07-29,Full-time,Day,30338,4.3,28,5,Active
+EMP0132,HTL003,Fatima,Clarke,Front Office,Front Office Supervisor,2015-10-09,Part-time,Day,19660,3.9,26,0,Left
+EMP0133,HTL003,Sophia,Phillips,Housekeeping,Room Attendant,2019-02-28,Full-time,Evening,24695,3.8,27,10,Active
+EMP0134,HTL003,Leah,Jackson,Housekeeping,Room Attendant,2023-05-01,Full-time,Evening,23733,4.2,9,14,Active
+EMP0135,HTL003,Joshua,Wilson,Housekeeping,Executive Housekeeper,2022-10-25,Full-time,Day,41662,3.9,15,3,Active
+EMP0136,HTL003,Noah,Evans,Food & Beverage,Waiter/Server,2020-06-18,Part-time,Night,15780,4.1,19,14,Active
+EMP0137,HTL003,Omar,Jackson,Housekeeping,Housekeeping Supervisor,2018-07-30,Full-time,Rotating,27836,3.5,28,10,On Leave
+EMP0138,HTL003,Callum,Parker,Front Office,Front Office Supervisor,2016-10-06,Part-time,Evening,16140,3.7,30,8,Active
+EMP0139,HTL004,Jack,Carter,General Management,General Manager,2020-06-11,Full-time,Day,56809,4.5,25,5,Active
+EMP0140,HTL004,Joshua,Gupta,Food & Beverage,F&B Manager,2016-11-02,Full-time,Day,39674,4.1,5,9,Active
+EMP0141,HTL004,Sophie,Smith,Food & Beverage,Sous Chef,2019-06-14,Full-time,Night,38138,3.5,26,1,Active
+EMP0142,HTL004,Grace,Murray,Food & Beverage,Sous Chef,2024-07-23,Part-time,Rotating,17438,3.4,9,11,Active
+EMP0143,HTL004,Evie,Wilson,Housekeeping,Executive Housekeeper,2025-03-08,Part-time,Day,24225,4.1,12,2,Active
+EMP0144,HTL004,William,Green,Food & Beverage,Bartender,2026-03-24,Full-time,Evening,29391,4.2,24,11,Active
+EMP0145,HTL004,Nathan,Thompson,Maintenance,Maintenance Supervisor,2015-10-26,Full-time,Day,37635,4.5,9,10,Active
+EMP0146,HTL004,Nathan,Ahmed,Sales & Events,Events Coordinator,2017-01-24,Full-time,Evening,30937,3.7,21,5,Active
+EMP0147,HTL004,Meera,Murray,Front Office,Receptionist,2022-03-25,Full-time,Day,27197,3.8,38,15,Active
+EMP0148,HTL004,William,Singh,Finance & Admin,Hotel Accountant,2025-12-21,Full-time,Night,35029,3.6,4,12,Active
+EMP0149,HTL004,Henry,Green,Maintenance,Maintenance Technician,2020-03-30,Part-time,Night,19666,3.7,38,1,Active
+EMP0150,HTL004,Sophie,Evans,Front Office,Receptionist,2017-05-01,Full-time,Day,28177,3.7,10,15,Active
+EMP0151,HTL004,Omar,Collins,Front Office,Night Auditor,2017-02-16,Part-time,Day,14282,3.6,13,3,Active
+EMP0152,HTL004,Matthew,Campbell,Housekeeping,Housekeeping Supervisor,2024-03-02,Full-time,Evening,31156,4,16,2,Active
+EMP0153,HTL004,James,Carter,Food & Beverage,Sous Chef,2015-01-13,Part-time,Day,25027,3.9,23,5,Active
+EMP0154,HTL004,Oscar,Wright,Sales & Events,Sales Executive,2019-07-16,Full-time,Day,35602,3.5,8,1,Active
+EMP0155,HTL004,Yusuf,Johnson,Sales & Events,Sales Executive,2019-07-04,Full-time,Day,32077,4.2,28,13,Active
+EMP0156,HTL004,Mohammed,Reid,Housekeeping,Room Attendant,2019-11-04,Full-time,Night,26986,3.6,2,8,Active
+EMP0157,HTL004,Fatima,Morris,Housekeeping,Housekeeping Supervisor,2015-03-31,Full-time,Day,31355,4.1,24,2,Active
+EMP0158,HTL004,Samuel,Johnson,Housekeeping,Room Attendant,2019-05-02,Full-time,Night,24445,4,23,12,Active
+EMP0159,HTL004,William,Smith,Front Office,Receptionist,2025-09-30,Full-time,Day,27781,3.3,15,7,Active
+EMP0160,HTL004,Georgia,Smith,Front Office,Front Office Manager,2019-03-26,Full-time,Evening,37889,3.7,15,13,Active
+EMP0161,HTL004,Alfie,Carter,Food & Beverage,Chef de Partie,2023-03-10,Full-time,Rotating,29248,4,31,12,Active
+EMP0162,HTL004,Lily,Jones,Food & Beverage,Sous Chef,2018-05-06,Part-time,Day,20322,3.9,38,4,Active
+EMP0163,HTL004,Leo,Ali,Housekeeping,Room Attendant,2025-06-02,Casual,Day,13179,3.9,14,5,Active
+EMP0164,HTL004,Freya,Gupta,Housekeeping,Executive Housekeeper,2025-03-17,Full-time,Evening,42903,4.4,41,10,Active
+EMP0165,HTL004,Leah,Martin,Front Office,Front Office Supervisor,2023-10-10,Part-time,Rotating,18567,3.1,39,12,Active
+EMP0166,HTL004,Jack,Mitchell,Front Office,Front Office Manager,2016-05-19,Full-time,Day,43453,3.3,42,7,Active
+EMP0167,HTL004,Noah,Robinson,Front Office,Front Office Manager,2025-06-28,Full-time,Evening,40303,3,15,7,Active
+EMP0168,HTL004,Oscar,Smith,Housekeeping,Executive Housekeeper,2020-06-05,Full-time,Day,42765,4.3,12,4,Active
+EMP0169,HTL004,Rebecca,Davies,Maintenance,Maintenance Technician,2022-06-27,Full-time,Day,34216,4.1,19,10,Active
+EMP0170,HTL004,Priya,Parker,Front Office,Front Office Supervisor,2021-08-31,Casual,Rotating,17868,4,7,9,Active
+EMP0171,HTL004,Harry,Jackson,Front Office,Front Office Manager,2015-04-23,Full-time,Day,42722,3.7,28,2,Active
+EMP0172,HTL004,Olivia,Jones,Front Office,Night Auditor,2016-01-04,Part-time,Evening,15301,3.8,29,14,Active
+EMP0173,HTL004,Leah,Phillips,Front Office,Front Office Supervisor,2022-12-25,Part-time,Evening,19713,3.2,15,11,Active
+EMP0174,HTL004,Ananya,Evans,Sales & Events,Sales Manager,2018-12-20,Full-time,Day,38469,3.5,4,5,Active
+EMP0175,HTL004,Arjun,Shah,Front Office,Front Office Supervisor,2024-10-18,Part-time,Evening,14567,3.9,39,10,Active
+EMP0176,HTL004,Lucy,Phillips,Finance & Admin,HR & Admin Coordinator,2015-02-19,Full-time,Evening,30579,4,26,2,On Leave
+EMP0177,HTL004,Maya,Khan,Food & Beverage,Sous Chef,2015-07-05,Part-time,Evening,19889,3.6,25,3,Active
+EMP0178,HTL004,Adam,Mitchell,Maintenance,Maintenance Technician,2019-06-20,Full-time,Day,30841,3.9,10,9,Active
+EMP0179,HTL004,Lily,King,Food & Beverage,F&B Manager,2024-11-24,Full-time,Day,39097,3.8,37,15,Active
+EMP0180,HTL004,Matthew,Turner,Finance & Admin,Hotel Accountant,2021-02-03,Part-time,Day,26549,4.3,20,12,Active
+EMP0181,HTL005,Emily,Morris,General Management,General Manager,2016-09-13,Full-time,Day,68175,4.3,28,0,Active
+EMP0182,HTL005,Lewis,Singh,Maintenance,Maintenance Supervisor,2022-10-12,Part-time,Evening,27325,3.2,34,10,Active
+EMP0183,HTL005,William,Baker,Finance & Admin,HR & Admin Coordinator,2023-06-22,Part-time,Day,17211,4.7,22,7,Active
+EMP0184,HTL005,Daniel,Wilson,Food & Beverage,F&B Manager,2020-04-17,Part-time,Day,25771,3.1,28,15,Active
+EMP0185,HTL005,Emily,Phillips,Food & Beverage,Chef de Partie,2015-02-03,Casual,Rotating,17288,3.9,27,10,Active
+EMP0186,HTL005,Oscar,Evans,Sales & Events,Sales Executive,2024-01-10,Full-time,Rotating,34471,3.6,17,14,Active
+EMP0187,HTL005,Nadia,Phillips,Housekeeping,Executive Housekeeper,2018-01-27,Full-time,Rotating,37009,3.4,1,6,Left
+EMP0188,HTL005,Sara,Martin,Food & Beverage,Chef de Partie,2020-03-03,Casual,Day,15837,3.9,35,2,Active
+EMP0189,HTL005,Yusuf,Parker,Front Office,Night Auditor,2023-03-31,Full-time,Day,26843,3.6,20,9,Active
+EMP0190,HTL005,Mohammed,Evans,Housekeeping,Housekeeping Supervisor,2017-12-21,Full-time,Night,28872,4,27,6,Active
+EMP0191,HTL005,Ananya,Wright,Housekeeping,Housekeeping Supervisor,2018-09-25,Full-time,Evening,30898,3.5,30,1,Active
+EMP0192,HTL005,Samuel,Jones,Front Office,Night Auditor,2020-05-24,Casual,Day,15088,3.6,12,2,Active
+EMP0193,HTL005,Chloe,Brown,Sales & Events,Events Coordinator,2018-05-29,Full-time,Day,29108,4.1,20,7,On Leave
+EMP0194,HTL005,Lewis,Walker,Finance & Admin,Accounts Assistant,2019-03-17,Full-time,Night,27480,3.7,5,9,Active
+EMP0195,HTL005,Rebecca,Smith,Finance & Admin,Accounts Assistant,2022-06-08,Part-time,Night,22634,4.1,34,9,Active
+EMP0196,HTL005,Sara,Fraser,Housekeeping,Room Attendant,2023-06-08,Full-time,Evening,25790,4.2,37,6,Active
+EMP0197,HTL005,Sophia,Cooper,Housekeeping,Executive Housekeeper,2022-10-27,Full-time,Evening,38574,3.7,26,7,Active
+EMP0198,HTL005,James,Mitchell,Front Office,Front Office Supervisor,2025-03-23,Full-time,Day,29078,4.1,42,8,Active
+EMP0199,HTL005,David,Mitchell,Sales & Events,Sales Manager,2019-10-12,Full-time,Evening,45824,4.2,0,10,Left
+EMP0200,HTL005,Emily,Martin,Sales & Events,Events Coordinator,2017-07-18,Part-time,Night,21601,3.1,31,15,Active
+EMP0201,HTL005,Fatima,Thompson,Front Office,Night Auditor,2024-04-21,Full-time,Day,26085,4.1,20,12,Active
+EMP0202,HTL005,Samuel,Cooper,Front Office,Front Office Manager,2017-10-20,Full-time,Rotating,36694,3.5,13,11,Active
+EMP0203,HTL005,Meera,Gupta,Front Office,Front Office Manager,2025-02-16,Full-time,Day,37179,4.6,40,2,Left
+EMP0204,HTL005,Leo,Wilson,Housekeeping,Room Attendant,2020-09-15,Full-time,Day,26624,4.9,20,5,Active
+EMP0205,HTL005,Daniel,Williams,Front Office,Night Auditor,2017-02-10,Full-time,Day,27482,3.9,13,13,Active
+EMP0206,HTL005,Freya,Martin,Food & Beverage,Sous Chef,2020-03-25,Part-time,Rotating,21416,3.8,23,3,Active
+EMP0207,HTL005,Ananya,Phillips,Front Office,Front Office Supervisor,2021-10-30,Full-time,Rotating,30628,3,9,0,Active
+EMP0208,HTL005,Sara,Khan,Front Office,Front Office Supervisor,2019-09-04,Full-time,Rotating,31884,3.4,28,12,Active
+EMP0209,HTL005,James,Wood,Front Office,Receptionist,2018-11-28,Full-time,Night,26057,4.2,33,10,On Leave
+EMP0210,HTL005,Thomas,Carter,Food & Beverage,Chef de Partie,2024-02-10,Full-time,Day,30385,3.4,22,1,On Leave
+EMP0211,HTL005,Sara,Stewart,Housekeeping,Executive Housekeeper,2024-05-07,Full-time,Day,36909,3.6,28,12,Active
+EMP0212,HTL005,Oscar,Clarke,Food & Beverage,Bartender,2023-10-15,Full-time,Evening,26460,4.1,21,1,Active
+EMP0213,HTL005,Alice,Mitchell,Sales & Events,Events Coordinator,2021-04-17,Full-time,Rotating,33688,3,8,9,Active
+EMP0214,HTL005,Jacob,Walker,Finance & Admin,Hotel Accountant,2018-01-09,Full-time,Day,43559,3.6,3,11,Active
+EMP0215,HTL005,Fatima,Khan,Finance & Admin,Accounts Assistant,2024-02-19,Full-time,Rotating,31597,4.2,15,13,Active
+EMP0216,HTL005,George,Mitchell,Food & Beverage,Sous Chef,2025-12-08,Full-time,Night,39924,3.1,21,3,Active
+EMP0217,HTL005,Leah,Martin,Finance & Admin,Hotel Accountant,2015-04-22,Full-time,Rotating,38018,4.4,33,9,Active
+EMP0218,HTL005,William,Johnson,Front Office,Receptionist,2017-08-13,Full-time,Day,27614,4.5,14,10,Active
+EMP0219,HTL005,Alice,White,Maintenance,Maintenance Supervisor,2021-12-21,Full-time,Night,39225,4.5,23,14,Active
+EMP0220,HTL006,Thomas,Phillips,General Management,General Manager,2018-03-18,Full-time,Day,66387,3.9,13,6,Active
+EMP0221,HTL006,Zara,Jones,Front Office,Front Office Manager,2015-12-02,Full-time,Day,39395,4.6,37,4,Active
+EMP0222,HTL006,Ethan,Reid,Housekeeping,Housekeeping Supervisor,2022-04-28,Full-time,Day,31123,4.1,27,8,Active
+EMP0223,HTL006,Ella,Turner,Front Office,Front Office Supervisor,2018-10-02,Part-time,Day,19200,4.1,27,10,Active
+EMP0224,HTL006,Hannah,Ahmed,Housekeeping,Room Attendant,2015-12-25,Full-time,Day,25115,4,11,3,Active
+EMP0225,HTL006,Georgia,Harris,Sales & Events,Events Coordinator,2016-11-06,Full-time,Rotating,32124,3.3,35,1,Active
+EMP0226,HTL006,Leah,Johnson,Food & Beverage,Chef de Partie,2020-09-07,Full-time,Day,30774,3.9,17,5,Active
+EMP0227,HTL006,Adam,Turner,Housekeeping,Room Attendant,2017-05-12,Full-time,Night,26403,4.4,9,14,Active
+EMP0228,HTL006,Maya,Taylor,Housekeeping,Room Attendant,2016-08-23,Part-time,Rotating,12853,4.2,23,9,Active
+EMP0229,HTL006,Jessica,Green,Housekeeping,Room Attendant,2019-06-11,Full-time,Day,25474,3.1,10,6,Active
+EMP0230,HTL006,Fatima,Thompson,Housekeeping,Room Attendant,2018-05-06,Full-time,Day,26728,3.6,25,1,Active
+EMP0231,HTL006,Alfie,Ali,Finance & Admin,HR & Admin Coordinator,2025-03-30,Full-time,Day,29069,3.7,7,13,Active
+EMP0232,HTL006,Evie,Khan,Front Office,Receptionist,2020-06-20,Part-time,Rotating,13693,4.9,1,0,Left
+EMP0233,HTL006,Ananya,Harris,Food & Beverage,Bartender,2020-01-28,Part-time,Evening,14854,3.9,4,13,Left
+EMP0234,HTL006,Lewis,Harris,Food & Beverage,Waiter/Server,2015-08-02,Full-time,Day,24422,3.8,7,6,Active
+EMP0235,HTL006,Matthew,Carter,Sales & Events,Events Coordinator,2019-03-25,Full-time,Rotating,30087,3.3,29,2,Active
+EMP0236,HTL006,Omar,Turner,Housekeeping,Executive Housekeeper,2020-06-11,Full-time,Day,41767,3.6,27,5,Active
+EMP0237,HTL006,Olivia,Thompson,Food & Beverage,Sous Chef,2021-01-24,Full-time,Rotating,38077,4.4,17,8,Active
+EMP0238,HTL006,Maya,Clarke,Sales & Events,Sales Executive,2021-05-18,Full-time,Evening,31127,4.2,31,15,Active
+EMP0239,HTL006,Hannah,Taylor,Finance & Admin,HR & Admin Coordinator,2019-02-02,Full-time,Evening,30795,4.4,34,1,Active
+EMP0240,HTL006,Ethan,Cooper,Housekeeping,Room Attendant,2019-05-02,Part-time,Evening,15450,3.3,20,7,Active
+EMP0241,HTL006,Lucy,Johnson,Food & Beverage,Waiter/Server,2015-08-15,Casual,Day,12952,3.7,9,8,Active
+EMP0242,HTL006,Leo,Wright,Sales & Events,Sales Executive,2022-01-14,Part-time,Evening,20226,3.9,7,14,Active
+EMP0243,HTL006,Zara,Phillips,Housekeeping,Executive Housekeeper,2022-03-06,Full-time,Rotating,38288,4,0,6,Active
+EMP0244,HTL006,Samuel,Morris,Housekeeping,Room Attendant,2022-06-30,Part-time,Evening,14681,2.9,38,11,Left
+EMP0245,HTL006,Alice,Hall,Food & Beverage,Chef de Partie,2015-05-17,Full-time,Evening,32163,3.8,36,7,Active
+EMP0246,HTL006,Thomas,Jones,Front Office,Front Office Supervisor,2019-10-08,Full-time,Rotating,32642,4.2,7,13,Active
+EMP0247,HTL006,David,Evans,Housekeeping,Executive Housekeeper,2016-06-29,Full-time,Day,42799,3.2,38,5,Active
+EMP0248,HTL006,Adam,White,Food & Beverage,Chef de Partie,2023-03-10,Part-time,Day,20648,3.7,1,6,Active
+EMP0249,HTL006,George,Baker,Housekeeping,Room Attendant,2018-01-04,Part-time,Evening,13697,4.3,39,4,Active
+EMP0250,HTL006,Charlie,Johnson,Finance & Admin,Hotel Accountant,2024-04-08,Full-time,Day,43398,3.5,25,0,Active
+EMP0251,HTL006,Matthew,Jones,Front Office,Front Office Supervisor,2015-01-16,Full-time,Night,31240,4,4,9,Active
+EMP0252,HTL006,Samuel,Ali,Food & Beverage,Chef de Partie,2016-11-14,Full-time,Day,29677,3.7,23,11,Active

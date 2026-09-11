@@ -1,0 +1,8 @@
+ChannelID,BookingChannel,ChannelGroup,CommissionRate,SettlementType
+CH01,Direct Website,Direct,0,Prepay/Flexible
+CH02,Direct Phone,Direct,0,Flexible
+CH03,Booking.com,OTA,0.15,OTA Terms
+CH04,Expedia,OTA,0.17,OTA Terms
+CH05,Corporate Portal,Corporate,0.05,Corporate Credit
+CH06,Travel Agent,Agency,0.1,Agency Terms
+CH07,Walk-in,Direct,0,Pay at Hotel

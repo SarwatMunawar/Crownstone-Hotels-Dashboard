@@ -1,0 +1,7 @@
+HotelID,HotelName,City,Region,HotelSegment,StarRating,RoomCount,OpeningDate,OwnershipModel,Currency,MarketRateIndex
+HTL001,Crownstone Regent Quay,London,London,City Centre,4,58,2016-04-18,Owned,GBP,1.34
+HTL002,Crownstone Piccadilly Exchange,Manchester,North West,Business,4,48,2018-09-03,Leased,GBP,1.06
+HTL003,Crownstone Temple Row,Birmingham,West Midlands,Business,4,44,2017-02-20,Owned,GBP,0.98
+HTL004,Crownstone Calton View,Edinburgh,Scotland,Boutique,4,42,2019-06-14,Leased,GBP,1.16
+HTL005,Crownstone Harbour House,Liverpool,North West,Leisure,4,38,2015-11-09,Owned,GBP,0.96
+HTL006,Crownstone Clifton Crescent,Bristol,South West,Boutique,4,36,2020-03-02,Leased,GBP,1.04
